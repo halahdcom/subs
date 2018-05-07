@@ -1,0 +1,8006 @@
+﻿1
+0:0:4.776 --> 0:0:9.781
+
+
+2
+0:0:9.783 --> 0:0:11.785
+(CHỈ CHẾ BIẾN)
+
+3
+0:0:15.924 --> 0:0:18.125
+(CÔNG BỐ THÔNG BÁO TRÊN PA)
+
+4
+0:0:55.629 --> 0:0:57.831
+(CÔNG BỐ THÔNG BÁO TRÊN PA)
+
+5
+0:1:51.651 --> 0:1:53.684
+<i> Tên tôi là Anthony Sadler. </ i>
+
+6
+0:1:53.686 --> 0:1:55.285
+<i> Có lẽ bạn đang tự hỏi
+tại sao một người anh như tôi </ i>
+
+7
+0:1:55.287 --> 0:1:57.053
+<i> đang đi chơi
+với hai cái bánh quy này. </ i>
+
+8
+0:1:57.055 --> 0:1:59.890
+<i> Nhưng hãy tin tôi,
+họ là hai người bạn thân nhất của tôi. </ i>
+
+9
+0:1:59.892 --> 0:2:0.926
+<i> Hãy để tôi giới thiệu bạn. </ i>
+
+10
+0:2:0.928 --> 0:2:3.393
+<i> Đây là Alek Skarlatos,
+robot. </ i>
+
+11
+0:2:3.395 --> 0:2:5.062
+<i> Anh ấy là một anh chàng mạnh mẽ. </ i>
+
+12
+0:2:5.064 --> 0:2:6.664
+<i> Anh ấy sẽ luôn có lưng của bạn
+bất cứ khi nào bạn gặp rắc rối. </ i>
+
+13
+0:2:6.666 --> 0:2:8.732
+<i> Và đây là Spencer Stone. </ i>
+
+14
+0:2:8.734 --> 0:2:10.534
+<i> Bạn không phải lo lắng về
+anh ta có lưng của bạn </ i>
+
+15
+0:2:10.536 --> 0:2:13.470
+<i> gặp rắc rối vì tôi chắc chắn
+anh ta sẽ tìm nó trước. </ i>
+
+16
+0:2:13.472 --> 0:2:15.139
+<i> Có vẻ như ba chúng tôi
+đã </ i>
+
+17
+0:2:15.141 --> 0:2:17.274
+<i> ôm nhau trong rắc rối
+kể từ hồi trung học. </ i>
+
+18
+0:2:17.276 --> 0:2:20.948
+<i> Nhưng hãy để tôi đưa bạn trở lại và
+cho bạn thấy tất cả bắt đầu như thế nào ... </ i>
+
+19
+0:2:37.297 --> 0:2:40.030
+- (KNOCKS ON DOOR)
+- Oh. Chào!
+
+20
+0:2:40.032 --> 0:2:41.265
+Cô Eskel?
+
+21
+0:2:41.267 --> 0:2:43.367
+Này xin chào.
+Tôi là mẹ của Spencer Stone.
+
+22
+0:2:43.369 --> 0:2:45.369
+Đây là Heidi,
+Mẹ của Alek Skarlatos.
+
+23
+0:2:45.371 --> 0:2:49.908
+Oh. Tôi xin lỗi, tôi không nghĩ
+chúng tôi đã gặp nhau cho đến 3:15.
+
+24
+0:2:49.910 --> 0:2:51.676
+Vâng. À, um,
+
+25
+0:2:51.678 --> 0:2:55.279
+chúng tôi đã có một số mối quan tâm tương tự.
+Vì thế...
+
+26
+0:2:55.281 --> 0:2:58.116
+Nghĩ rằng chúng ta sẽ tham gia lực lượng.
+(CHUCKLES)
+
+27
+0:2:58.118 --> 0:2:59.415
+À, à, tôi ...
+
+28
+0:2:59.417 --> 0:3:1.018
+Chúng tôi lo lắng, tôi đoán,
+
+29
+0:3:1.020 --> 0:3:3.187
+với những chàng trai
+bắt đầu từ trung học cơ sở.
+
+30
+0:3:3.189 --> 0:3:4.821
+- Đúng vậy.
+- JOYCE: Vâng.
+
+31
+0:3:4.823 --> 0:3:6.456
+Uh, chúng tôi đã nhận thấy
+một số bắt nạt
+
+32
+0:3:6.458 --> 0:3:7.659
+với các bạn cùng lớp,
+
+33
+0:3:7.661 --> 0:3:9.226
+và chúng tôi đã lo lắng
+có thể là
+
+34
+0:3:9.228 --> 0:3:10.628
+ảnh hưởng đến việc học của họ.
+
+35
+0:3:10.630 --> 0:3:13.767
+Cô Eskel. Cô Skarlatos.
+Tôi có thể thẳng thắn không?
+
+36
+0:3:14.833 --> 0:3:17.402
+Spencer đứng sau
+khi đọc.
+
+37
+0:3:17.404 --> 0:3:18.635
+Rất đằng sau.
+
+38
+0:3:18.637 --> 0:3:22.006
+Và Alek là
+quá dễ bị phân tâm.
+
+39
+0:3:22.008 --> 0:3:24.946
+Có ai đã từng thảo luận
+THÊM với hai người?
+
+40
+0:3:25.512 --> 0:3:27.010
+Theo ý kiến ​​của tôi,
+
+41
+0:3:27.012 --> 0:3:28.580
+cả Spencer lẫn Alek đều phải chịu đựng
+từ một thứ gọi là
+
+42
+0:3:28.582 --> 0:3:31.683
+Rối loạn thiếu chú ý,
+THÊM VÀO.
+
+43
+0:3:31.685 --> 0:3:33.316
+Bạn có nghĩ như thế
+bạn có thể nhảy
+
+44
+0:3:33.318 --> 0:3:34.851
+đến kết luận này
+quá nhanh?
+
+45
+0:3:34.853 --> 0:3:37.121
+Nó không phải là một bước nhảy nhanh,
+Cô Eskel.
+
+46
+0:3:37.123 --> 0:3:38.422
+Như tôi đã đề cập,
+
+47
+0:3:38.424 --> 0:3:40.558
+Spencer không thể tập trung
+khi đọc.
+
+48
+0:3:40.560 --> 0:3:41.992
+JOYCE: Vâng,
+đó có thể là lỗi của tôi.
+
+49
+0:3:41.994 --> 0:3:43.928
+Bây giờ tôi biết
+anh ta đang tụt lại phía sau, tôi có thể ...
+
+50
+0:3:43.930 --> 0:3:47.198
+Và Alek dành hầu hết
+ngày nhìn ra ngoài cửa sổ.
+
+51
+0:3:47.200 --> 0:3:51.201
+Tôi xin lôi. Bạn đã nói thế à
+Alek "nhìn ra ngoài cửa sổ"?
+
+52
+0:3:51.203 --> 0:3:53.070
+Vâng.
+
+53
+0:3:53.072 --> 0:3:54.806
+Chỉ cần tôi rõ ràng,
+
+54
+0:3:54.808 --> 0:3:57.842
+những đứa trẻ khác
+không nhìn ra ngoài cửa sổ?
+
+55
+0:3:57.844 --> 0:4:0.344
+Có những việc bạn có thể làm
+để giúp họ tập trung.
+
+56
+0:4:0.346 --> 0:4:1.612
+Có vô số thuốc
+
+57
+0:4:1.614 --> 0:4:2.546
+ngoài đó
+sẽ đáng kể ...
+
+58
+0:4:2.548 --> 0:4:3.848
+Thuốc?
+
+59
+0:4:3.850 --> 0:4:5.349
+- Joyce, không sao đâu.
+- Không, không sao đâu.
+
+60
+0:4:5.351 --> 0:4:6.884
+Tôi xin lôi. Tôi chỉ đang cố gắng
+để xác định bạn.
+
+61
+0:4:6.886 --> 0:4:9.386
+Vì vậy, bạn đang nói với tôi rằng
+Tôi cần thuốc cho con tôi
+
+62
+0:4:9.388 --> 0:4:10.887
+để làm cho công việc của bạn dễ dàng hơn.
+
+63
+0:4:10.889 --> 0:4:12.990
+Những loại thuốc này
+sẽ giúp họ tập trung,
+
+64
+0:4:12.992 --> 0:4:15.429
+và nó sẽ dễ dàng hơn
+Cho các chàng trai...
+
+65
+0:4:16.661 --> 0:4:18.328
+Nếu bạn không
+chữa trị cho họ ngay bây giờ,
+
+66
+0:4:18.330 --> 0:4:20.330
+họ sẽ chỉ
+tự thuốc sau.
+
+67
+0:4:20.332 --> 0:4:21.765
+Bạn có nghĩ là
+đây là một giải pháp tốt?
+
+68
+0:4:21.767 --> 0:4:23.570
+Ném thuốc vào một vấn đề?
+
+69
+0:4:24.603 --> 0:4:25.972
+Đi thôi nào.
+
+70
+0:4:27.772 --> 0:4:31.275
+Bạn biết đấy, các chàng trai của các bà mẹ đơn thân,
+nó chỉ là số liệu thống kê.
+
+71
+0:4:31.277 --> 0:4:32.609
+Nhưng theo thống kê,
+
+72
+0:4:32.611 --> 0:4:34.948
+Chúng có nhiều khả năng hơn
+để phát triển vấn đề.
+
+73
+0:4:36.149 --> 0:4:40.049
+Chúa của tôi lớn hơn
+so với thống kê của bạn,
+
+74
+0:4:40.051 --> 0:4:42.455
+vì vậy tôi không thực sự quan tâm
+những gì bạn phải nói nữa.
+
+75
+0:4:49.029 --> 0:4:51.895
+(CHỈ CHẾ BIẾN)
+
+76
+0:4:51.897 --> 0:4:54.330
+NGUYÊN TẮC AKERS: (ON PA)
+<i> Tôi rất vui khi nói rằng </ i>
+
+77
+0:4:54.332 --> 0:4:57.301
+<i> chúng ta sẽ không phải có
+một lần kiểm tra chí khác vào ngày mai. </ i>
+
+78
+0:4:57.303 --> 0:5:1.238
+<i> Và kết quả là
+cho cuộc bầu cử lớp của chúng ta. </ i>
+
+79
+0:5:1.240 --> 0:5:2.806
+<i> Chủ tịch trường mới của chúng ta là ... </ i>
+
+80
+0:5:2.808 --> 0:5:5.308
+Đây là nó, người quản lý chiến dịch.
+Khoảnh khắc của sự thật.
+
+81
+0:5:5.310 --> 0:5:7.044
+- <i> Marie Hodge. </ i>
+- BOY: Vâng!
+
+82
+0:5:7.046 --> 0:5:9.147
+<i> Xin chúc mừng mọi người
+người chạy, </ i>
+
+83
+0:5:9.149 --> 0:5:11.851
+<i> và chúc mừng thành viên mới của chúng tôi
+chủ tịch trường. </ i>
+
+84
+0:5:12.752 --> 0:5:14.452
+Hey, có lẽ đó là một sai lầm.
+
+85
+0:5:14.454 --> 0:5:16.523
+- Nó tuyệt thật.
+- (VÒNG TRƯỜNG B RNG)
+
+86
+0:5:19.125 --> 0:5:20.627
+Con đường để đi, thua cuộc.
+
+87
+0:5:22.929 --> 0:5:25.328
+Thôi nào, Spencer, bạn không
+luôn thắng.
+
+88
+0:5:25.330 --> 0:5:27.330
+Nó không hoạt động theo cách đó.
+
+89
+0:5:27.332 --> 0:5:28.768
+Bạn không hiểu.
+
+90
+0:5:29.435 --> 0:5:31.269
+Không ai nhận được nó.
+
+91
+0:5:31.271 --> 0:5:33.102
+Tôi đã cố gắng ở đây.
+Tôi đã thử.
+
+92
+0:5:33.104 --> 0:5:34.640
+Họ sẽ không cho tôi.
+
+93
+0:5:35.640 --> 0:5:37.474
+Bạn phù hợp với tôi.
+
+94
+0:5:37.476 --> 0:5:39.544
+Tôi nhận được bạn.
+
+95
+0:5:39.546 --> 0:5:40.777
+Mẹ tôi nghĩ sẽ tốt hơn
+
+96
+0:5:40.779 --> 0:5:42.378
+chuyển đổi tôi
+đến một trường học Kitô giáo.
+
+97
+0:5:42.380 --> 0:5:44.949
+Thay thế,
+nó giống như nhà thờ, lớp học,
+
+98
+0:5:44.951 --> 0:5:48.419
+cùng một người ở mọi nơi.
+Tất cả thời gian.
+
+99
+0:5:48.421 --> 0:5:49.820
+Tôi chỉ ghét nó.
+
+100
+0:5:49.822 --> 0:5:51.992
+Bé trai, chuông reo,
+bạn nên ở trong lớp.
+
+101
+0:5:53.827 --> 0:5:55.762
+Một grunt của sự thừa nhận
+Sẽ hữu ích.
+
+102
+0:5:56.762 --> 0:5:57.828
+Được rồi,
+bạn đến lớp trễ.
+
+103
+0:5:57.830 --> 0:5:59.064
+Sảnh của bạn đi đâu?
+
+104
+0:5:59.899 --> 0:6:1.101
+Hội trường vượt qua.
+
+105
+0:6:9.041 --> 0:6:10.876
+Đây là tiền sảnh của tôi.
+
+106
+0:6:12.478 --> 0:6:15.449
+Đi nào. Văn phòng của hiệu trưởng.
+Đi nào.
+
+107
+0:6:18.517 --> 0:6:19.920
+Di chuyển nó.
+
+108
+0:6:24.289 --> 0:6:27.024
+Và như tôi đã nói, thưa bạn,
+nó sẽ không bao giờ xảy ra nữa.
+
+109
+0:6:27.026 --> 0:6:29.062
+Nói với vợ của bạn
+Tôi đã nói xin chào.
+
+110
+0:6:32.598 --> 0:6:34.532
+Các bạn đang làm gì vậy?
+
+111
+0:6:34.534 --> 0:6:37.200
+(SIGHS) Thẻ hội trường hết hạn.
+
+112
+0:6:37.202 --> 0:6:38.602
+(SCOFFS)
+
+113
+0:6:38.604 --> 0:6:40.474
+Amateurs.
+
+114
+0:6:41.474 --> 0:6:43.908
+Lên. Thức dậy.
+
+115
+0:6:43.910 --> 0:6:46.109
+Hey, lời khuyên?
+Tránh xa đứa trẻ đó.
+
+116
+0:6:46.111 --> 0:6:48.378
+Anh ấy là một người đam mê nhưng anh ấy
+sẽ giúp bạn gặp rắc rối
+
+117
+0:6:48.380 --> 0:6:50.347
+trong một nhịp tim.
+
+118
+0:6:50.349 --> 0:6:53.851
+Tất nhiên nếu bạn ở đây,
+bạn đã gặp rắc rối rồi.
+
+119
+0:6:53.853 --> 0:6:57.057
+Ah. Tại sao chúng ta mặc quần áo
+như A-Team, hmm?
+
+120
+0:6:58.291 --> 0:7:1.457
+COACH MURRAY: Được rồi,
+Đi nào. Chào buổi sáng.
+
+121
+0:7:1.459 --> 0:7:3.293
+(BLOWS WHISTLE)
+Ooh, to quá.
+
+122
+0:7:3.295 --> 0:7:5.161
+Mang nó vào, đi nào.
+
+123
+0:7:5.163 --> 0:7:6.897
+Được rồi, nếu bạn chưa
+đã đoán,
+
+124
+0:7:6.899 --> 0:7:9.899
+hoạt động hôm nay
+là bóng rổ.
+
+125
+0:7:9.902 --> 0:7:11.402
+Hy vọng rằng, bạn đã nghe về nó.
+
+126
+0:7:11.404 --> 0:7:13.871
+Tôi sẽ chia các bạn lên
+thành hai đội ngày hôm nay.
+
+127
+0:7:13.873 --> 0:7:15.438
+Đuợc? Bạn nghe không?
+Hai đội.
+
+128
+0:7:15.440 --> 0:7:17.207
+Được rồi,
+nếu họ của bạn
+
+129
+0:7:17.209 --> 0:7:19.277
+bắt đầu từ A đến M,
+bạn sẽ là đội một.
+
+130
+0:7:19.279 --> 0:7:20.777
+Bạn sẽ ở đó.
+
+131
+0:7:20.779 --> 0:7:23.847
+Nếu nó bắt đầu với N đến Z,
+bạn ở đây. Được rồi?
+
+132
+0:7:23.849 --> 0:7:25.250
+Nếu bạn có câu hỏi nào,
+đừng hỏi tôi
+
+133
+0:7:25.252 --> 0:7:27.017
+Tôi hứa tôi sẽ không
+có câu trả lời.
+
+134
+0:7:27.019 --> 0:7:28.019
+Được rồi, đi đi.
+
+135
+0:7:28.021 --> 0:7:29.385
+BOY 1: Thôi nào, các bạn.
+Ở đây.
+
+136
+0:7:29.387 --> 0:7:30.589
+BOY 2: Yeah, đi thôi!
+
+137
+0:7:34.260 --> 0:7:35.695
+Ngay chỗ này.
+
+138
+0:7:39.098 --> 0:7:41.765
+(KIDS CHATTERING)
+
+139
+0:7:41.767 --> 0:7:45.236
+Này, không phải là đứa trẻ
+từ văn phòng hiệu trưởng?
+
+140
+0:7:45.238 --> 0:7:47.541
+Ừ. Vâng, đó là anh ta.
+
+141
+0:7:52.445 --> 0:7:54.245
+Này, chuyện gì vậy? Tôi là Stone.
+
+142
+0:7:54.247 --> 0:7:55.680
+Tên Spencer.
+
+143
+0:7:55.682 --> 0:7:57.815
+Tôi là Skarlatos.
+Tên đầu tiên là Alek.
+
+144
+0:7:57.817 --> 0:7:59.917
+Bạn luôn giới thiệu
+mình như thế?
+
+145
+0:7:59.919 --> 0:8:2.953
+Chỉ muốn cho bạn thấy
+chúng tôi cùng đội.
+
+146
+0:8:2.955 --> 0:8:5.589
+Chúng tôi là những đứa trẻ từ
+Văn phòng chính của Akers.
+
+147
+0:8:5.591 --> 0:8:7.190
+Ồ, đúng rồi.
+
+148
+0:8:7.192 --> 0:8:9.025
+Xin lỗi, tôi chi tiêu
+rất nhiều thời gian ở đó.
+
+149
+0:8:9.027 --> 0:8:11.161
+Bạn đã bao giờ nhận được
+rằng hội trường mới vượt qua?
+
+150
+0:8:11.163 --> 0:8:13.498
+Vâng, tôi là Sadler.
+Tên Anthony.
+
+151
+0:8:13.500 --> 0:8:14.899
+Và nếu bạn đã từng
+cần có tiền sảnh,
+
+152
+0:8:14.902 --> 0:8:16.065
+Tôi có thể kết nối bạn.
+
+153
+0:8:16.067 --> 0:8:17.936
+SPENCER: Tuyệt.
+ALEK: Oh!
+
+154
+0:8:17.938 --> 0:8:20.438
+- (TRẺ EM ĐANG CƯỜI)
+- Rất tiếc!
+
+155
+0:8:20.440 --> 0:8:21.539
+ANTHONY: Cái quái gì thế?
+
+156
+0:8:21.541 --> 0:8:24.075
+Whoa! Whoa, whoa, whoa.
+
+157
+0:8:24.077 --> 0:8:25.409
+Cố lên nào anh bạn!
+
+158
+0:8:25.411 --> 0:8:27.210
+Bạn biết loại ngôn ngữ đó
+không được phép ở đây.
+
+159
+0:8:27.212 --> 0:8:28.544
+Bạn đang làm gì đấy?
+
+160
+0:8:28.546 --> 0:8:29.847
+Bạn đang cảnh báo,
+được không?
+
+161
+0:8:29.849 --> 0:8:31.582
+Bạn đang shitting tôi?
+
+162
+0:8:31.584 --> 0:8:33.116
+- (TRẺ EM ĐANG CƯỜI)
+- Đuợc. Được rồi, đi bộ.
+
+163
+0:8:33.118 --> 0:8:34.550
+Bạn đang đi
+đến văn phòng hiệu trưởng.
+
+164
+0:8:34.552 --> 0:8:35.720
+Hiện nay. Đi bộ.
+
+165
+0:8:35.722 --> 0:8:37.156
+Sadler ra ngoài.
+
+166
+0:8:38.190 --> 0:8:39.356
+(SNICKERS)
+
+167
+0:8:39.358 --> 0:8:40.591
+COACH MURRAY: Các bạn nghĩ
+thật buồn cười?
+
+168
+0:8:40.593 --> 0:8:41.861
+Các bạn cũng muốn đi không?
+
+169
+0:8:43.061 --> 0:8:45.862
+Yeah, tại sao không? Tại sao không?
+Thật là một ngày vui vẻ.
+
+170
+0:8:45.864 --> 0:8:47.630
+Này, ai nữa?
+Còn ai muốn đi nữa?
+
+171
+0:8:47.632 --> 0:8:48.765
+Xin vui lòng, tôi đang trong một tâm trạng.
+
+172
+0:8:48.767 --> 0:8:50.534
+Tôi có thể làm điều này cả ngày.
+
+173
+0:8:50.536 --> 0:8:52.305
+Tất cả phải cho đi.
+
+174
+0:8:54.975 --> 0:8:57.142
+Oh! Bạn thật đấy à?
+
+175
+0:9:4.316 --> 0:9:7.284
+Tôi không ý kiến
+các bạn có thể thật tuyệt.
+
+176
+0:9:7.286 --> 0:9:9.186
+Gì? Chúng tôi mát mẻ.
+
+177
+0:9:9.188 --> 0:9:13.023
+- Ừ. Chúng tôi rất tuyệt.
+- Huh.
+
+178
+0:9:13.025 --> 0:9:15.693
+Tôi nghĩ sự xuất hiện của bạn
+có thể ngụ ý khác.
+
+179
+0:9:15.695 --> 0:9:18.131
+Bây giờ, tiếp tục. Camo mát mẻ.
+
+180
+0:9:19.565 --> 0:9:22.066
+Chờ đợi. Camo có tuyệt không?
+
+181
+0:9:22.068 --> 0:9:25.568
+- Trong một từ? Không.
+- (SPENCER SIGHS)
+
+182
+0:9:25.570 --> 0:9:26.907
+NGUYÊN TẮC AKERS: Sadler!
+
+183
+0:9:27.739 --> 0:9:29.974
+Văn phòng của tôi. Ngay bây giờ.
+
+184
+0:9:29.976 --> 0:9:31.342
+Đừng liếc mắt vào tôi.
+
+185
+0:9:31.344 --> 0:9:33.143
+Tôi đã không cảnh báo bạn hai
+về anh chàng này?
+
+186
+0:9:33.145 --> 0:9:35.011
+Di chuyển, di chuyển, di chuyển, di chuyển.
+Thời gian gấp đôi. Thời gian gấp đôi.
+
+187
+0:9:35.013 --> 0:9:36.749
+Di chuyển, di chuyển, di chuyển đôi chân của bạn.
+
+188
+0:9:38.517 --> 0:9:40.887
+Bây giờ, bạn nói gì?
+
+189
+0:9:42.756 --> 0:9:44.757
+Đây là một trường học Kitô giáo!
+
+190
+0:9:47.727 --> 0:9:49.029
+(CHUÔNG CỬA REO)
+
+191
+0:9:50.262 --> 0:9:51.395
+SPENCER: Anthony!
+
+192
+0:9:51.397 --> 0:9:53.099
+Stone, con trai của tôi.
+
+193
+0:9:54.666 --> 0:9:55.999
+- Chào!
+- Chào.
+
+194
+0:9:56.001 --> 0:9:58.436
+Tuyệt vời. Đó là niềm vui.
+(CHUCKLES)
+
+195
+0:9:58.438 --> 0:10:0.069
+Hân hạnh được gặp bạn,
+Cô Eskel.
+
+196
+0:10:0.071 --> 0:10:4.241
+Bạn cũng vậy. Bạn có ngọt không?
+Các bạn vui vẻ.
+
+197
+0:10:4.243 --> 0:10:6.946
+Anthony, thôi nào.
+Tôi muốn cho bạn thấy phòng của tôi.
+
+198
+0:10:8.814 --> 0:10:10.614
+Alek và tôi sẽ chơi
+Airsoft bên ngoài.
+
+199
+0:10:10.616 --> 0:10:12.085
+Bạn muốn chọn một khẩu súng?
+
+200
+0:10:13.954 --> 0:10:16.189
+- Whoa.
+- M16.
+
+201
+0:10:18.791 --> 0:10:20.124
+AK.
+
+202
+0:10:20.126 --> 0:10:21.294
+Jeez.
+
+203
+0:10:22.994 --> 0:10:24.263
+Đây là súng paintball.
+
+204
+0:10:26.666 --> 0:10:28.767
+- (NHẤP CHUỘT)
+- Một vài khẩu súng ngắn.
+
+205
+0:10:30.570 --> 0:10:32.071
+ANTHONY: Tuyệt.
+
+206
+0:10:32.671 --> 0:10:33.803
+(COCKS GUN)
+
+207
+0:10:33.805 --> 0:10:36.372
+Bây giờ, nếu bạn nghĩ rằng đó là mát mẻ,
+
+208
+0:10:36.374 --> 0:10:37.876
+đây là khẩu súng lớn.
+
+209
+0:10:40.445 --> 0:10:41.447
+ANTHONY: Whoa!
+
+210
+0:10:44.717 --> 0:10:46.250
+Đó là để săn bắn.
+
+211
+0:10:46.252 --> 0:10:47.684
+(COCKS GUN)
+
+212
+0:10:47.686 --> 0:10:48.784
+(NHẤP CHUỘT)
+
+213
+0:10:48.786 --> 0:10:49.986
+Bạn đã bao giờ nhìn thấy một khẩu súng thật?
+
+214
+0:10:49.988 --> 0:10:52.789
+Không phải là người thật.
+
+215
+0:10:52.791 --> 0:10:54.191
+Bạn chưa bao giờ săn bắn?
+
+216
+0:10:54.193 --> 0:10:56.593
+Ý tôi là, người da đen
+không thực sự săn lùng.
+
+217
+0:10:56.595 --> 0:10:59.730
+Nó không giống như một điều chúng ta làm
+trong thời gian rảnh rỗi của chúng tôi.
+
+218
+0:10:59.732 --> 0:11:1.430
+(CẢM ƠN)
+
+219
+0:11:1.432 --> 0:11:4.334
+SPENCER: Thôi nào, đi thôi
+tìm Alek và chơi chiến tranh.
+
+220
+0:11:4.336 --> 0:11:7.905
+Bạn biết gì? tôi có
+một ý tưởng tốt hơn cho chiến tranh.
+
+221
+0:11:7.907 --> 0:11:9.142
+SPENCER: Được rồi.
+
+222
+0:11:11.877 --> 0:11:13.479
+(ĐIỆN THOẠI REO)
+
+223
+0:11:15.448 --> 0:11:16.948
+Xin chào?
+
+224
+0:11:16.950 --> 0:11:19.350
+Chào, Alice, làm thế nào ...
+
+225
+0:11:19.352 --> 0:11:21.552
+Ồ, tốt, có lẽ chỉ là
+một số trẻ em khu phố.
+
+226
+0:11:21.554 --> 0:11:24.023
+Bạn có muốn tôi gửi
+Spencer giúp anh ...
+
+227
+0:11:26.892 --> 0:11:28.862
+Bạn phải đùa tôi.
+
+228
+0:11:29.829 --> 0:11:31.164
+- (PHONE BEEPS)
+- (SIGHS)
+
+229
+0:11:33.132 --> 0:11:35.934
+- (BẮT BUỘC PHỤC HỒI)
+- (MỞ CỬA)
+
+230
+0:11:35.936 --> 0:11:37.834
+Jeez, mẹ ơi,
+bạn đã nghe nói về gõ cửa chưa?
+
+231
+0:11:37.836 --> 0:11:39.068
+Đây là nhà của tôi.
+
+232
+0:11:39.070 --> 0:11:40.437
+Tôi không cần
+sự cho phép của bạn để vào.
+
+233
+0:11:40.439 --> 0:11:41.739
+Thôi được, tôi xin lỗi.
+
+234
+0:11:41.741 --> 0:11:43.273
+Tôi vừa gác máy
+với Alice,
+
+235
+0:11:43.275 --> 0:11:45.042
+và cô ấy nói với tôi
+một đứa trẻ đen gầy
+
+236
+0:11:45.044 --> 0:11:46.342
+và một đứa trẻ màu trắng nhão
+
+237
+0:11:46.344 --> 0:11:48.413
+vừa trang trí nhà cô ấy
+với giấy vệ sinh.
+
+238
+0:11:53.352 --> 0:11:54.985
+Tôi xin lôi.
+
+239
+0:11:54.987 --> 0:11:56.686
+Tôi không nghĩ
+cô ấy có thể thấy chúng tôi.
+
+240
+0:11:56.688 --> 0:11:58.322
+Vậy điều đó có ổn không?
+
+241
+0:11:58.324 --> 0:11:59.689
+Bạn có thể làm những gì bạn muốn
+miễn là bạn không bị bắt?
+
+242
+0:11:59.691 --> 0:12:1.091
+Không mẹ.
+Tôi không có ý đó.
+
+243
+0:12:1.093 --> 0:12:3.593
+Tôi đã xấu hổ, Spencer.
+Đã chết!
+
+244
+0:12:3.595 --> 0:12:5.428
+Tôi sẽ nói gì đây
+Cha của Anthony?
+
+245
+0:12:5.430 --> 0:12:6.931
+Tôi không nghĩ
+Bạn nên kể...
+
+246
+0:12:6.933 --> 0:12:8.598
+Không, bạn không nghĩ vậy.
+Các cuộc gọi liên tục
+
+247
+0:12:8.600 --> 0:12:10.167
+từ hiệu trưởng, tất cả
+rắc rối bạn đã gây ra,
+
+248
+0:12:10.169 --> 0:12:12.769
+nó quá nhiều.
+Quá nhiều, Spencer.
+
+249
+0:12:12.771 --> 0:12:14.303
+Mẹ, tôi xin lỗi.
+
+250
+0:12:14.305 --> 0:12:15.739
+Và nó đang trở nên khó khăn hơn
+và khó đến đây hơn,
+
+251
+0:12:15.741 --> 0:12:18.074
+bởi vì mỗi lần tôi làm,
+Tôi chỉ để lại thất vọng.
+
+252
+0:12:18.076 --> 0:12:19.378
+- Mẹ ...
+- Đi ngủ.
+
+253
+0:12:20.913 --> 0:12:22.214
+(SIGHS)
+
+254
+0:12:24.783 --> 0:12:26.819
+(BẮT ĐẦU NHẬN)
+
+255
+0:12:27.786 --> 0:12:28.988
+(SIGHS)
+
+256
+0:12:31.489 --> 0:12:32.557
+SPENCER: Chúa ơi,
+
+257
+0:12:32.559 --> 0:12:35.159
+biến tôi thành nhạc cụ
+hòa bình của bạn.
+
+258
+0:12:35.161 --> 0:12:38.062
+Nơi có hận thù,
+hãy để tôi gieo tình yêu.
+
+259
+0:12:38.064 --> 0:12:40.698
+Nếu bị xúc phạm thì cho tôi xin lỗi.
+
+260
+0:12:40.700 --> 0:12:43.000
+Nơi có bóng tối,
+ánh sáng.
+
+261
+0:12:43.002 --> 0:12:47.006
+Và nơi có nỗi buồn,
+vui sướng.
+
+262
+0:12:48.141 --> 0:12:51.341
+Vì nó đang cho
+mà chúng tôi nhận được.
+
+263
+0:12:51.343 --> 0:12:54.645
+Đó là trong sự tha thứ
+chúng tôi được tha thứ.
+
+264
+0:12:54.647 --> 0:12:58.816
+Và nó sắp chết mà chúng ta
+được sinh ra trong cuộc sống vĩnh cửu.
+
+265
+0:12:58.818 --> 0:13:0.220
+Amen.
+
+266
+0:13:3.922 --> 0:13:6.291
+- (GUNSHOT)
+- (LẤY MỌI NGƯỜI)
+
+267
+0:13:7.826 --> 0:13:9.328
+(WOMAN WHIMPERING)
+
+268
+0:13:22.641 --> 0:13:24.010
+ANTHONY: <i> Spencer, đi! </ I>
+
+269
+0:13:25.411 --> 0:13:27.544
+GIÁO VIÊN: FDR.
+
+270
+0:13:27.546 --> 0:13:30.014
+Một người đàn ông đã làm đúng
+vào đúng thời điểm
+
+271
+0:13:30.016 --> 0:13:35.686
+để xoa dịu các tình huống nguy hiểm
+tại những thời điểm cực kỳ quan trọng.
+
+272
+0:13:35.688 --> 0:13:37.587
+Vì vậy, nếu có điều gì đó xảy ra
+ngay bây giờ...
+
+273
+0:13:37.589 --> 0:13:38.755
+- (CLAPS)
+- (TẤT CẢ GASP)
+
+274
+0:13:38.757 --> 0:13:40.624
+Mmm-hmm.
+
+275
+0:13:40.626 --> 0:13:42.592
+Bạn sẽ biết đó là cái gì?
+
+276
+0:13:42.594 --> 0:13:44.296
+Bạn có biết cách hành động không?
+
+277
+0:13:45.030 --> 0:13:46.531
+Bạn có hành động không?
+
+278
+0:13:47.733 --> 0:13:49.934
+(VÒNG CHU SCHI TRƯỜNG)
+
+279
+0:13:49.936 --> 0:13:53.337
+Được rồi. Đừng quên.
+Bài kiểm tra ngày mai.
+
+280
+0:13:53.339 --> 0:13:56.106
+Và đọc sách.
+Đừng nói rằng tôi đã không cảnh báo bạn.
+
+281
+0:13:56.108 --> 0:13:57.788
+Tôi đang nói chuyện với bạn, bạn
+và đặc biệt là bạn.
+
+282
+0:13:59.177 --> 0:14:0.476
+ANTHONY: Cảm ơn, dạy.
+
+283
+0:14:0.478 --> 0:14:3.112
+- Vui mừng các bạn rất thích.
+- Chúng tôi luôn làm.
+
+284
+0:14:3.114 --> 0:14:4.380
+Bạn đã bao giờ có thể tìm thấy bất kỳ
+
+285
+0:14:4.382 --> 0:14:6.082
+kế hoạch chiến đấu
+từ Thế chiến II?
+
+286
+0:14:6.084 --> 0:14:8.284
+Ah, bạn biết không?
+
+287
+0:14:8.286 --> 0:14:9.586
+In chúng ra đêm qua.
+
+288
+0:14:9.588 --> 0:14:11.889
+Điều đó sẽ giữ bạn hơn
+cho đến ngày mai.
+
+289
+0:14:11.891 --> 0:14:14.223
+Ôi trơi ơi.
+Dude, kiểm tra xem!
+
+290
+0:14:14.225 --> 0:14:15.458
+- SPENCER: Ồ, vâng.
+- Điều này thật tuyệt.
+
+291
+0:14:15.460 --> 0:14:18.095
+- Cảm ơn bạn rất nhiều.
+- Dude, cảm ơn.
+
+292
+0:14:18.097 --> 0:14:19.663
+(CHỈ CHẾ BIẾN)
+
+293
+0:14:19.665 --> 0:14:21.465
+Những anh chàng kia.
+
+294
+0:14:21.467 --> 0:14:24.002
+- Tấn công! Tấn công! Tấn công!
+- (TOY GUNS FIRING)
+
+295
+0:14:29.474 --> 0:14:31.510
+- (TUYỆT VỜI ANTHONY)
+- Chết tiệt.
+
+296
+0:14:32.076 --> 0:14:34.012
+(CƯỜI)
+
+297
+0:14:37.849 --> 0:14:39.850
+Có gì đó
+về chiến tranh, người đàn ông.
+
+298
+0:14:39.852 --> 0:14:42.385
+Tình huynh đệ, lịch sử.
+
+299
+0:14:42.387 --> 0:14:43.888
+Trong các chiến hào giúp đỡ.
+
+300
+0:14:43.890 --> 0:14:45.224
+Giống như ông nội của bạn, tôi đoán vậy.
+
+301
+0:14:48.794 --> 0:14:50.496
+Tôi muốn đi đến vũ hội.
+
+302
+0:14:51.162 --> 0:14:53.797
+Bạn có nghĩa là, như, với chúng tôi?
+
+303
+0:14:53.799 --> 0:14:56.299
+Không, anh bạn.
+Ý tôi là, nói chung.
+
+304
+0:14:56.301 --> 0:14:57.969
+Chúng tôi không có nó
+tại trường của chúng tôi.
+
+305
+0:14:57.971 --> 0:15:1.206
+Không có vũ hội ở đây,
+hoặc trở về quê hương.
+
+306
+0:15:1.975 --> 0:15:3.140
+Tôi không biết.
+
+307
+0:15:3.142 --> 0:15:4.975
+Không có công cụ trường học nào.
+
+308
+0:15:4.977 --> 0:15:6.910
+Chính xác.
+
+309
+0:15:6.912 --> 0:15:8.680
+Vì vậy, bạn sẽ để lại?
+
+310
+0:15:9.781 --> 0:15:11.184
+Ừ.
+
+311
+0:15:12.451 --> 0:15:14.750
+Ý tôi là, các bạn rất tuyệt,
+
+312
+0:15:14.752 --> 0:15:16.553
+nhưng tôi cần bạn gái.
+
+313
+0:15:16.555 --> 0:15:18.087
+(CẢ LAUGH)
+
+314
+0:15:18.089 --> 0:15:20.356
+Chà, chúng tôi sẽ nhớ anh, anh bạn.
+
+315
+0:15:20.358 --> 0:15:22.693
+Này, tôi sẽ giữ liên lạc.
+
+316
+0:15:22.695 --> 0:15:24.160
+Ý tôi là, gotta của ai đó
+cho các bạn biết
+
+317
+0:15:24.162 --> 0:15:25.630
+nó như thế nào
+có bạn gái.
+
+318
+0:15:27.799 --> 0:15:29.102
+(SPENCER SIGHS)
+
+319
+0:15:34.873 --> 0:15:36.308
+(SÚNG ĐỒ CHƠI LẠNH)
+
+320
+0:15:37.743 --> 0:15:39.045
+ANTHONY: Này!
+
+321
+0:15:41.847 --> 0:15:43.382
+(LAUGHS)
+
+322
+0:15:46.219 --> 0:15:47.617
+SPENCER:
+Có lẽ Anthony đúng.
+
+323
+0:15:47.619 --> 0:15:50.120
+Chúng ta cũng nên rời đi.
+Nó hút mà không có anh ta.
+
+324
+0:15:50.122 --> 0:15:51.554
+ALEK: Chúng tôi không có lựa chọn nào.
+
+325
+0:15:51.556 --> 0:15:54.524
+Chúng tôi đã may mắn
+rời khỏi trường cuối cùng của chúng ta.
+
+326
+0:15:54.526 --> 0:15:57.627
+Nhìn kìa, nó hút. Nhưng nếu chúng ta tiếp tục
+đầu của chúng tôi xuống, chúng tôi sẽ ổn thôi.
+
+327
+0:15:57.629 --> 0:16:0.097
+- (VÒNG TRƯỜNG B RNG)
+- Bạn trêu tôi.
+
+328
+0:16:0.099 --> 0:16:1.564
+Chúng ta phải đi,
+chúng ta sẽ trễ.
+
+329
+0:16:1.566 --> 0:16:3.799
+Chúng tôi không thể chi tiêu
+cuộc sống của chúng ta trong sợ hãi.
+
+330
+0:16:3.801 --> 0:16:5.772
+Các bạn, lớp. Hiện nay.
+
+331
+0:16:7.140 --> 0:16:9.005
+Lớp học ở ngay đó.
+Chúng tôi đúng giờ.
+
+332
+0:16:9.007 --> 0:16:10.774
+Hôm nay chúng ta đang nói chuyện?
+
+333
+0:16:10.776 --> 0:16:12.910
+Nhưng bạn không ở trong lớp,
+bạn có phải không?
+
+334
+0:16:12.912 --> 0:16:16.579
+Và tôi cho rằng một trong hai bạn
+không có tiền sảnh.
+
+335
+0:16:16.581 --> 0:16:19.151
+Hai bạn
+cần một người hộ tống? Di chuyển!
+
+336
+0:16:19.752 --> 0:16:21.721
+Di chuyển!
+
+337
+0:16:23.189 --> 0:16:25.489
+JOYCE: <i> Không, họ không
+vấn đề trẻ em. </ i>
+
+338
+0:16:25.491 --> 0:16:27.390
+Tôi không hiểu
+nơi này đến từ đâu.
+
+339
+0:16:27.392 --> 0:16:28.759
+Có ai bị thương không?
+
+340
+0:16:28.761 --> 0:16:31.660
+Không, bà Eskel,
+không ai bị thương.
+
+341
+0:16:31.662 --> 0:16:34.497
+Chưa. Nhưng tôi sẽ không
+đặt nó qua chúng.
+
+342
+0:16:34.499 --> 0:16:37.834
+Đây co phải la một tro đua? Bạn nghĩ rằng chúng tôi
+con trai sẽ làm tổn thương ai đó?
+
+343
+0:16:37.836 --> 0:16:39.838
+(SIGHS) Bà Skarlatos,
+
+344
+0:16:41.440 --> 0:16:43.274
+chúng ta biết điều này rất khó,
+
+345
+0:16:43.276 --> 0:16:46.443
+nhưng chúng tôi nghĩ rằng nó sẽ
+vì lợi ích tốt nhất của con trai bạn
+
+346
+0:16:46.445 --> 0:16:49.114
+nếu anh ở lại với cha mình.
+
+347
+0:16:50.114 --> 0:16:52.249
+Sao may dam!
+
+348
+0:16:52.251 --> 0:16:54.384
+Sau tất cả những gì tôi làm
+cho ngôi trường này!
+
+349
+0:16:54.386 --> 0:16:56.720
+Huấn luyện và tình nguyện.
+
+350
+0:16:56.722 --> 0:16:58.222
+Bạn không có doanh nghiệp.
+
+351
+0:16:58.224 --> 0:16:59.990
+Không có kinh doanh!
+
+352
+0:16:59.992 --> 0:17:1.491
+Chúng tôi đã tham khảo ý kiến
+với Chúa.
+
+353
+0:17:1.493 --> 0:17:2.893
+(KHÍ)
+
+354
+0:17:2.895 --> 0:17:7.030
+Bạn không đúng.
+Không có butting phải trong cuộc sống của chúng tôi!
+
+355
+0:17:7.032 --> 0:17:8.868
+Sự phi lý của tất cả.
+
+356
+0:17:10.603 --> 0:17:11.767
+(DOOR SLAMS SHUT)
+
+357
+0:17:11.769 --> 0:17:13.570
+Chúa ơi. (SIGHS)
+
+358
+0:17:13.572 --> 0:17:16.575
+Thôi nào, cưng. Nào.
+
+359
+0:17:21.880 --> 0:17:23.616
+JOYCE: Thôi nào, Spencer.
+
+360
+0:17:40.098 --> 0:17:41.466
+(DOOR OPENS)
+
+361
+0:17:42.935 --> 0:17:44.202
+(ĐÓNG CỬA)
+
+362
+0:17:45.536 --> 0:17:47.539
+- Đuợc.
+- SPENCER: Đợi đã!
+
+363
+0:17:58.450 --> 0:18:1.586
+ALEK: Đây không phải là lời tạm biệt.
+Chỉ cần gặp bạn sau.
+
+364
+0:18:9.260 --> 0:18:11.026
+HEIDI: Không sao đâu.
+
+365
+0:18:11.028 --> 0:18:12.531
+ALEK'S FATHER: Sẵn sàng chưa?
+
+366
+0:18:12.966 --> 0:18:14.467
+Đi nào.
+
+367
+0:18:16.635 --> 0:18:17.737
+(MỞ CỬA XE)
+
+368
+0:18:25.744 --> 0:18:27.480
+(CƠ SỞ ĐỘNG CƠ)
+
+369
+0:18:49.700 --> 0:18:51.336
+Spencer.
+
+370
+0:18:52.371 --> 0:18:53.769
+(SIGHS)
+
+371
+0:18:53.771 --> 0:18:56.806
+Tôi biết điều này sẽ
+khó khăn với bạn,
+
+372
+0:18:56.808 --> 0:18:58.976
+nhưng nó thực sự
+chuyến bay ngắn đến Oregon,
+
+373
+0:18:58.978 --> 0:19:1.878
+và bạn có thể đi thăm anh ấy
+bất cứ khi nào bạn muốn.
+
+374
+0:19:1.880 --> 0:19:3.783
+Tôi hứa.
+
+375
+0:19:4.584 --> 0:19:5.983
+Đuợc?
+
+376
+0:19:5.985 --> 0:19:7.253
+Đuợc.
+
+377
+0:19:10.789 --> 0:19:12.290
+JOYCE: Được rồi.
+
+378
+0:19:15.961 --> 0:19:17.329
+(JOYCE SIGHS)
+
+379
+0:19:33.379 --> 0:19:34.745
+ISABELLE: Bạn giữ gìn
+nhìn?
+
+380
+0:19:34.747 --> 0:19:37.616
+Tên đó ở trong đó
+trong 10 phút.
+
+381
+0:19:38.584 --> 0:19:40.082
+Mười phút. Có thật không?
+
+382
+0:19:40.084 --> 0:19:42.852
+Ừ. Ừ. Tôi thấy anh ta đi
+trong đó với một chiếc vali.
+
+383
+0:19:42.854 --> 0:19:43.786
+Một chiếc vali?
+
+384
+0:19:43.788 --> 0:19:45.522
+Tôi không biết anh ấy đang làm gì.
+
+385
+0:19:45.524 --> 0:19:47.591
+Có lẽ anh ấy đang thay đổi
+quần áo của anh ấy.
+
+386
+0:19:47.593 --> 0:19:50.293
+Co le vậy.
+Tôi sẽ kiểm tra nó.
+
+387
+0:19:50.295 --> 0:19:51.965
+- Được chứ?
+- Đuợc.
+
+388
+0:19:58.068 --> 0:20:0.504
+(SIGHS) Người đàn ông, anh chàng đó
+ở đó một lúc.
+
+389
+0:20:0.506 --> 0:20:2.575
+Yeah, tôi để ý.
+
+390
+0:20:8.814 --> 0:20:10.449
+(BOTH STRUGGLING)
+
+391
+0:20:14.686 --> 0:20:16.689
+Ra khỏi đây, nghiêm túc đấy.
+
+392
+0:20:18.222 --> 0:20:19.825
+(MEN THƯỞNG)
+
+393
+0:20:24.162 --> 0:20:25.463
+MARK: Tôi có súng.
+
+394
+0:20:30.669 --> 0:20:32.835
+Vì vậy, phân tích dữ liệu thực sự
+nơi tất cả bắt đầu.
+
+395
+0:20:32.837 --> 0:20:36.639
+Đó là cơ sở cho
+bất kỳ công việc nào bạn có thể có.
+
+396
+0:20:36.641 --> 0:20:40.543
+Ngay cả khi bạn muốn
+làm việc trong, nói,
+
+397
+0:20:40.545 --> 0:20:42.312
+quản lý cấp trung tại Nike,
+
+398
+0:20:42.314 --> 0:20:44.014
+bạn phải có
+một số semblance
+
+399
+0:20:44.016 --> 0:20:45.415
+kiến thức về số
+
+400
+0:20:45.417 --> 0:20:47.951
+để đánh giá doanh thu.
+
+401
+0:20:47.953 --> 0:20:51.353
+Ông Skarlatos.
+
+402
+0:20:51.355 --> 0:20:52.688
+Thế còn bạn?
+
+403
+0:20:52.690 --> 0:20:54.824
+Loại công việc nào
+bạn có quan tâm không?
+
+404
+0:20:54.826 --> 0:20:55.959
+Uh ...
+
+405
+0:20:55.961 --> 0:20:57.561
+Tôi đã luôn luôn muốn
+tham gia quân đội.
+
+406
+0:20:57.563 --> 0:20:59.228
+Được rồi, bây giờ, thấy,
+
+407
+0:20:59.230 --> 0:21:2.364
+ngay cả khi nó liên quan đến
+quân đội, bạn sẽ cần số.
+
+408
+0:21:2.366 --> 0:21:6.035
+Thống kê, phân tích,
+phong trào quân đội,
+
+409
+0:21:6.037 --> 0:21:7.570
+Hậu cần chuỗi cung ứng.
+
+410
+0:21:7.572 --> 0:21:9.805
+Bất kỳ loại công việc thực tế nào
+
+411
+0:21:9.807 --> 0:21:11.874
+rằng bất kỳ ai trong số các bạn
+có thể muốn có
+
+412
+0:21:11.876 --> 0:21:14.846
+sẽ bao gồm số.
+Bạn sẽ cần ...
+
+413
+0:21:20.219 --> 0:21:24.354
+Này, Stone, chúng ta là ai
+ném dao găm vào?
+
+414
+0:21:24.356 --> 0:21:26.156
+Không ném dao găm.
+Chỉ cần suy nghĩ.
+
+415
+0:21:26.158 --> 0:21:27.890
+(SCOFFS) Đừng làm tổn thương bản thân.
+
+416
+0:21:27.892 --> 0:21:30.059
+Hey, trung tâm tuyển dụng đó
+đằng kia, uh,
+
+417
+0:21:30.061 --> 0:21:31.495
+đó là tất cả những gì về?
+
+418
+0:21:31.497 --> 0:21:34.263
+CAROLYN: Đó là nơi mọi người đi
+và đăng ký dịch vụ.
+
+419
+0:21:34.265 --> 0:21:35.398
+Phần nào của dịch vụ?
+
+420
+0:21:35.400 --> 0:21:37.367
+Tất cả bọn họ. Tôi nghĩ.
+
+421
+0:21:37.369 --> 0:21:38.869
+Tôi không nghĩ
+họ phân biệt đối xử.
+
+422
+0:21:38.871 --> 0:21:39.938
+(DOOR OPENS)
+
+423
+0:21:39.940 --> 0:21:41.571
+SPENCER: Này, thưa ngài.
+Làm thế nào bạn đang làm gì?
+
+424
+0:21:41.573 --> 0:21:43.073
+Chào mừng bạn đến với Jamba Juice.
+Tôi có thể lấy gì cho ya?
+
+425
+0:21:43.075 --> 0:21:44.774
+Uh, bạn biết đấy,
+tôi có thể lấy một sinh tố không
+
+426
+0:21:44.776 --> 0:21:46.008
+với dâu tây và chuối,
+xin vui lòng? Không có gì khác.
+
+427
+0:21:46.010 --> 0:21:48.946
+- Ừ, không sao cả. Một giây.
+- Cảm ơn.
+
+428
+0:21:48.948 --> 0:21:50.412
+Vì vậy, nếu bạn không
+nhớ tôi hỏi,
+
+429
+0:21:50.414 --> 0:21:51.681
+phần nào của dịch vụ
+bạn ở với?
+
+430
+0:21:51.683 --> 0:21:53.582
+Ồ, đây là
+đồng phục của Marine.
+
+431
+0:21:53.584 --> 0:21:56.788
+Ồ, phải rồi.
+Chỉ cần kiểm tra kỹ.
+
+432
+0:21:57.855 --> 0:21:59.456
+Vì vậy, nếu bạn có thể
+làm lại tất cả,
+
+433
+0:21:59.458 --> 0:22:0.591
+bạn chọn cái nào?
+
+434
+0:22:0.593 --> 0:22:2.124
+- Cái gì?
+- Cành cây nào?
+
+435
+0:22:2.126 --> 0:22:3.759
+Ý tôi là, bạn vẫn sẽ đi
+với Thủy Quân Lục Chiến?
+
+436
+0:22:3.761 --> 0:22:5.227
+Hay có cái gì khác?
+
+437
+0:22:5.229 --> 0:22:8.198
+Ồ, tôi không thể nói rằng tôi từng nghĩ
+về điều đó trước đây.
+
+438
+0:22:8.200 --> 0:22:10.167
+Vì vậy, bạn vẫn sẽ đi
+với Thủy quân lục chiến, sau đó?
+
+439
+0:22:10.169 --> 0:22:11.968
+Vâng, đó là khó nói, quá.
+
+440
+0:22:11.970 --> 0:22:13.669
+Tôi yêu những gì tôi làm,
+nhưng tôi luôn muốn
+
+441
+0:22:13.671 --> 0:22:15.705
+là một phần của
+Pararescue không quân.
+
+442
+0:22:15.707 --> 0:22:17.975
+Và mục đích duy nhất của họ
+đang cứu mạng người.
+
+443
+0:22:17.977 --> 0:22:19.478
+- (BLENDER WHIRRING)
+- Khá tệ.
+
+444
+0:22:21.447 --> 0:22:23.082
+Ừ. Yeah, đó là badass.
+
+445
+0:22:24.449 --> 0:22:25.949
+Bạn có thể tưởng tượng không
+giơ tay
+
+446
+0:22:25.951 --> 0:22:28.185
+trên một người đàn ông trong
+khoảnh khắc đáng sợ?
+
+447
+0:22:28.187 --> 0:22:30.320
+Và kéo anh ta trở lại cuộc sống?
+
+448
+0:22:30.322 --> 0:22:32.421
+Ừ. Vâng, tôi có thể.
+
+449
+0:22:32.423 --> 0:22:33.555
+Vâng, ở đây bạn đi.
+
+450
+0:22:33.557 --> 0:22:35.057
+Cảm ơn. Bao nhiêu?
+
+451
+0:22:35.059 --> 0:22:37.561
+Trên ngôi nhà.
+Cảm ơn bạn đã phục vụ.
+
+452
+0:22:37.563 --> 0:22:38.931
+HÀNG HẢI: Hạnh phúc để làm điều đó.
+
+453
+0:22:39.430 --> 0:22:40.862
+Cảm ơn bạn.
+
+454
+0:22:40.864 --> 0:22:42.765
+Đánh giá cao điều đó. Bạn có
+một phần còn lại tốt trong ngày của bạn.
+
+455
+0:22:42.767 --> 0:22:44.002
+Bạn cũng vậy.
+
+456
+0:22:45.837 --> 0:22:48.037
+Wow. Với mẹo đó anh ta bỏ bạn,
+
+457
+0:22:48.039 --> 0:22:49.806
+bạn chỉ là về
+có thể bao gồm
+
+458
+0:22:49.808 --> 0:22:52.441
+sinh tố
+bây giờ bạn có thể trả tiền cho.
+
+459
+0:22:52.443 --> 0:22:53.878
+Hoàn toàn xứng đáng.
+
+460
+0:23:1.253 --> 0:23:2.619
+- (VI PHẠM ĐIỆN THOẠI CELL)
+- PROFESSOR: Họ đang phân tích
+
+461
+0:23:2.621 --> 0:23:4.019
+thống kê dân số,
+
+462
+0:23:4.021 --> 0:23:6.555
+họ đang phân tích
+điểm thông minh.
+
+463
+0:23:6.557 --> 0:23:8.658
+Có đủ loại
+ứng dụng
+
+464
+0:23:8.660 --> 0:23:10.326
+để phân tích dữ liệu.
+
+465
+0:23:10.328 --> 0:23:12.563
+Đây là một đầu tiên lớn xuống.
+Họ cần điều này ngay tại đây.
+
+466
+0:23:12.565 --> 0:23:14.264
+Tôi biết. Họ tốt hơn
+đưa nó cho Marshawn, anh bạn.
+
+467
+0:23:14.266 --> 0:23:15.465
+Anh ấy giống như người chơi giỏi nhất của họ.
+
+468
+0:23:15.467 --> 0:23:16.999
+Anh ta đang có
+một trò chơi quái vật nữa.
+
+469
+0:23:17.001 --> 0:23:19.768
+- Tôi biết. Anh ấy là một con thú.
+- (TV PLAYING INDISTINCTLY)
+
+470
+0:23:19.770 --> 0:23:20.836
+COMMENTATOR:
+<i> Chambers đang nói </ i>
+
+471
+0:23:20.838 --> 0:23:22.071
+<i> chúng tôi chơi rất nhiều người chơi. </ i>
+
+472
+0:23:22.073 --> 0:23:23.672
+- ANTHONY: Thôi nào, em yêu.
+- Có bạn đi.
+
+473
+0:23:23.674 --> 0:23:24.807
+ANTHONY: Phá vỡ điều đó.
+Có bạn đi.
+
+474
+0:23:24.809 --> 0:23:26.008
+SPENCER:
+Tiếp tục đi, tiếp tục đi.
+
+475
+0:23:26.010 --> 0:23:27.678
+- Có bạn đi.
+- ANTHONY: Oh! Chạy!
+
+476
+0:23:27.680 --> 0:23:29.079
+- Boom. Có bạn đi, em bé.
+- Và anh ta chạy chúng.
+
+477
+0:23:29.081 --> 0:23:31.782
+- (ĐIỆN THOẠI ĐIỆN THOẠI CELL)
+- Đó là một trò chơi hay.
+
+478
+0:23:31.784 --> 0:23:33.783
+NGƯỜI BÌNH LUẬN 2: <i> Và anh ta có
+đầu tiên xuống California. </ i>
+
+479
+0:23:33.785 --> 0:23:35.351
+- <i> Vào ngày 31 </ i>
+- SPENCER: Wow.
+
+480
+0:23:35.353 --> 0:23:37.253
+Chỉ một ngày sau đó.
+
+481
+0:23:37.255 --> 0:23:38.388
+Chuyện gì đã xảy ra?
+
+482
+0:23:38.390 --> 0:23:39.889
+Alek, người đàn ông.
+
+483
+0:23:39.891 --> 0:23:41.792
+Tôi nhắn tin cho anh ấy một số tin tức lớn,
+như, tám giờ trước,
+
+484
+0:23:41.794 --> 0:23:42.859
+và anh ấy chỉ
+lấy lại cho tôi
+
+485
+0:23:42.861 --> 0:23:44.293
+với phản ứng ấm áp này.
+
+486
+0:23:44.295 --> 0:23:45.828
+Tin tức lớn là gì?
+
+487
+0:23:45.830 --> 0:23:47.362
+Oh, tôi sẽ thử
+cho Pararescue Không quân.
+
+488
+0:23:47.364 --> 0:23:51.700
+Oh. Người đàn ông, đó là, uh ...
+Thật tuyệt. Cho thật?
+
+489
+0:23:51.702 --> 0:23:54.403
+Bạn sẽ tham gia
+Không quân bây giờ, phải không?
+
+490
+0:23:54.405 --> 0:23:56.605
+Đuợc.
+Vì vậy, đó là những gì về?
+
+491
+0:23:56.607 --> 0:23:58.274
+Có chuyện gì vậy?
+
+492
+0:23:58.276 --> 0:24:2.378
+Làm sao mà không ai nghe điều này
+như thông tin thay đổi cuộc sống?
+
+493
+0:24:2.380 --> 0:24:5.150
+Tôi không biết, anh bạn. Có lẽ...
+Có thể vì đó là bạn.
+
+494
+0:24:6.250 --> 0:24:7.951
+Điều đó có nghĩa là gì?
+
+495
+0:24:7.953 --> 0:24:10.419
+Ý tôi là, không nói bất cứ điều gì
+chống lại bạn hoặc bất cứ điều gì,
+
+496
+0:24:10.421 --> 0:24:11.755
+nhưng bạn thuộc loại
+có được trong hình dạng
+
+497
+0:24:11.757 --> 0:24:13.290
+ở trong quân đội,
+bạn biết?
+
+498
+0:24:13.292 --> 0:24:16.391
+Nào. Vì vậy, tôi phải mất
+một số trọng lượng. Vậy cái gì?
+
+499
+0:24:16.393 --> 0:24:18.561
+Ý tôi là, không chỉ vậy.
+Điều gì về động lực của bạn?
+
+500
+0:24:18.563 --> 0:24:20.729
+Bạn bỏ bóng đá
+để chơi bóng rổ.
+
+501
+0:24:20.731 --> 0:24:22.198
+Sau đó, bạn bỏ bóng rổ
+
+502
+0:24:22.200 --> 0:24:23.999
+bởi vì bạn không nhận được
+đủ thời gian chơi.
+
+503
+0:24:24.001 --> 0:24:27.269
+Đuợc. Vì vậy, bạn không nghĩ
+Tôi có thể làm được, sau đó?
+
+504
+0:24:27.271 --> 0:24:28.671
+(SIGHS)
+
+505
+0:24:28.673 --> 0:24:30.940
+Spencer, người đàn ông,
+không ai nghĩ rằng bạn không thể làm điều đó.
+
+506
+0:24:30.942 --> 0:24:32.644
+Chúng tôi chỉ không nghĩ rằng bạn sẽ.
+
+507
+0:24:33.947 --> 0:24:35.247
+Đuợc.
+
+508
+0:24:39.517 --> 0:24:42.051
+Đoán chúng ta sẽ thấy về điều đó.
+
+509
+0:24:42.053 --> 0:24:45.090
+<i> Forsett là một sân ngắn
+1000 yards ... </ i>
+
+510
+0:24:53.431 --> 0:24:55.430
+MAN 1: <i> Khi bạn bắt đầu
+để khám phá bạn là ai, </ i>
+
+511
+0:24:55.432 --> 0:24:56.933
+<i> sau đó bạn thực sự nhận ra </ i>
+
+512
+0:24:56.935 --> 0:24:59.939
+<i> cách bạn được cung cấp
+quyền lực trong cuộc sống của bạn. </ i>
+
+513
+0:25:2.607 --> 0:25:6.110
+<i> Nhưng bạn chỉ có thể làm điều đó
+qua cuộc đấu tranh của cuộc sống. </ i>
+
+514
+0:25:8.680 --> 0:25:10.615
+<i> Và hầu hết mọi người
+tránh cuộc đấu tranh. </ i>
+
+515
+0:25:13.017 --> 0:25:15.587
+<i> Hầu hết mọi người trải qua cuộc sống
+tránh đau đớn. </ i>
+
+516
+0:25:18.289 --> 0:25:19.721
+<i> Khi bạn đang làm việc
+trên một giấc mơ, </ i>
+
+517
+0:25:19.723 --> 0:25:20.990
+<i> tại một thời điểm nào đó </ i>
+
+518
+0:25:20.992 --> 0:25:23.328
+<i> một quá trình chuyển đổi diễn ra. </ i>
+
+519
+0:25:26.030 --> 0:25:29.565
+<i> Có điều gì đó trong bạn
+mà bạn chưa bao giờ kích hoạt </ i>
+
+520
+0:25:29.567 --> 0:25:31.904
+<i> nằm im trong đó. </ i>
+
+521
+0:25:34.806 --> 0:25:37.005
+- (BLENDER WHIRRING)
+- <i> Bạn học cách nhảy cao hơn. </ i>
+
+522
+0:25:37.007 --> 0:25:41.044
+<i> Bạn bắt đầu thử thách bản thân
+để đào sâu hơn. </ i>
+
+523
+0:25:41.046 --> 0:25:45.549
+<i> Bạn không cần ai cả
+để chấp nhận giấc mơ của bạn. </ i>
+
+524
+0:25:45.551 --> 0:25:48.017
+<i> Làm những gì bạn biết là đúng. </ i>
+
+525
+0:25:48.019 --> 0:25:50.788
+<i> Đừng thử và lấy
+mọi phím tắt. </ i>
+
+526
+0:25:51.457 --> 0:25:53.756
+<i> Trả phí của anh. </ i>
+
+527
+0:25:53.758 --> 0:25:56.728
+<i> Chúng tôi đã được chọn
+cho công việc tuyệt vời này. </ i>
+
+528
+0:26:4.670 --> 0:26:5.936
+MAN 2: Đi nào!
+
+529
+0:26:5.938 --> 0:26:7.974
+Có phải đó là tất cả các bạn đã nhận? Đi nào!
+
+530
+0:26:11.809 --> 0:26:14.012
+RECRUITER: Chín phút,
+14 giây.
+
+531
+0:26:14.746 --> 0:26:16.313
+Chết tiệt, Đá ...
+
+532
+0:26:16.315 --> 0:26:18.514
+Tôi không biết một anh chàng lớn
+như bạn có thể chạy nhanh như vậy.
+
+533
+0:26:18.516 --> 0:26:19.783
+- (CHUCKLES)
+- Cảm ơn ngài.
+
+534
+0:26:19.785 --> 0:26:21.884
+(PANTING)
+
+535
+0:26:21.886 --> 0:26:23.285
+Chín mươi sáu.
+
+536
+0:26:23.287 --> 0:26:25.522
+Bạn làm được rồi.
+Anh đã đậu. Xin chúc mừng.
+
+537
+0:26:25.524 --> 0:26:27.357
+Cảm ơn ngài. Cảm kích điều đó.
+
+538
+0:26:27.359 --> 0:26:28.794
+Whoo!
+
+539
+0:26:31.529 --> 0:26:32.929
+Được rồi, điều đó rất tốt.
+
+540
+0:26:32.931 --> 0:26:34.331
+Được rồi, bây giờ,
+chỉ cần bước qua đây.
+
+541
+0:26:34.333 --> 0:26:35.700
+Đuợc.
+
+542
+0:26:38.469 --> 0:26:40.005
+Đầu chống lại thanh.
+
+543
+0:26:42.106 --> 0:26:44.372
+Và vòng tròn nào khác?
+
+544
+0:26:44.374 --> 0:26:45.810
+Uh, để tôi xem.
+
+545
+0:26:46.777 --> 0:26:48.413
+Đây có phải là một câu hỏi lừa?
+
+546
+0:26:52.718 --> 0:26:53.917
+Um ...
+
+547
+0:26:53.919 --> 0:26:56.956
+Số ba là khác nhau.
+
+548
+0:26:59.624 --> 0:27:1.026
+MAN: Đá.
+
+549
+0:27:3.930 --> 0:27:5.195
+Đây là danh sách
+mã đặc sản
+
+550
+0:27:5.197 --> 0:27:6.662
+mà bạn có đủ điều kiện.
+
+551
+0:27:6.664 --> 0:27:9.698
+Vui lòng xem lại danh sách
+và chọn ba danh sách hàng đầu của bạn.
+
+552
+0:27:9.700 --> 0:27:11.870
+- Turner?
+- TURNER: Thưa ngài.
+
+553
+0:27:14.172 --> 0:27:15.271
+Hey, thưa ông, xin lỗi.
+
+554
+0:27:15.273 --> 0:27:17.107
+Công việc tôi muốn
+không có ở đây.
+
+555
+0:27:17.109 --> 0:27:18.343
+Tôi không thấy Pararescue.
+
+556
+0:27:21.112 --> 0:27:23.313
+Có vẻ như bạn không đủ điều kiện.
+
+557
+0:27:23.315 --> 0:27:25.047
+Ý anh là gì,
+Tôi không đủ điều kiện?
+
+558
+0:27:25.049 --> 0:27:28.717
+Tôi đã vượt qua bài kiểm tra sức chịu đựng,
+Tôi có điểm ASVAB tốt.
+
+559
+0:27:28.719 --> 0:27:31.155
+Các bác sĩ không nói
+bất cứ điều gì là sai với tôi.
+
+560
+0:27:35.293 --> 0:27:36.892
+Giống như
+bạn đã bị loại
+
+561
+0:27:36.894 --> 0:27:38.628
+vì thiếu nhận thức sâu sắc.
+
+562
+0:27:38.630 --> 0:27:39.829
+Gì?
+
+563
+0:27:39.831 --> 0:27:41.130
+Bạn không có
+nhận thức sâu sắc.
+
+564
+0:27:41.132 --> 0:27:42.565
+Bạn không thể là một PJ mà không có nó.
+
+565
+0:27:42.567 --> 0:27:44.234
+Bạn nghiêm túc chứ?
+
+566
+0:27:44.236 --> 0:27:46.303
+Chọn ba công việc từ
+danh sách theo thứ tự ưu tiên.
+
+567
+0:27:46.305 --> 0:27:48.504
+Chọn nhanh hoặc bạn có thể
+không nhận được gì cả.
+
+568
+0:27:48.506 --> 0:27:50.943
+Chúng tôi chỉ mở
+thêm 30 phút nữa.
+
+569
+0:27:51.709 --> 0:27:53.575
+Turner.
+
+570
+0:27:53.577 --> 0:27:55.277
+Dưới đây là danh sách công việc
+mà bạn có đủ điều kiện.
+
+571
+0:27:55.279 --> 0:27:57.982
+Vui lòng xem lại danh sách
+và chọn ba danh sách hàng đầu của bạn.
+
+572
+0:28:2.085 --> 0:28:3.986
+SPENCER: <i> Một năm tôi trừng phạt
+bản thân mình và vì cái gì? </ i>
+
+573
+0:28:3.988 --> 0:28:6.923
+Bởi vì nhận thức sâu sắc?
+Bạn đang đua tôi đây a.
+
+574
+0:28:6.925 --> 0:28:8.890
+Đuợc. Có cái gì không
+bạn có thể làm gì?
+
+575
+0:28:8.892 --> 0:28:10.025
+Ai đó chúng ta có thể khiếu nại?
+
+576
+0:28:10.027 --> 0:28:11.294
+Có lẽ chúng ta có thể viết một lá thư.
+
+577
+0:28:11.296 --> 0:28:12.931
+Không. Không phải thứ gì đó
+bạn có thể khiếu nại.
+
+578
+0:28:14.998 --> 0:28:18.066
+Được rồi được rồi.
+Honey, đây, ngồi xuống.
+
+579
+0:28:18.068 --> 0:28:20.437
+Honey, sẽ ổn thôi.
+Sẽ ổn thôi.
+
+580
+0:28:20.439 --> 0:28:22.339
+Không, không sao đâu.
+Đó là điều.
+
+581
+0:28:22.341 --> 0:28:24.573
+Tại sao tôi thậm chí còn làm việc chăm chỉ
+ở nơi đầu tiên?
+
+582
+0:28:24.575 --> 0:28:26.976
+Em yêu, nghe này, đúng không?
+
+583
+0:28:26.978 --> 0:28:28.710
+Khi bạn còn nhỏ,
+nếu bạn nghe thấy từ
+
+584
+0:28:28.712 --> 0:28:30.513
+"chiến tranh" trên truyền hình,
+
+585
+0:28:30.515 --> 0:28:31.715
+bạn thực tế sẽ nhảy
+
+586
+0:28:31.717 --> 0:28:32.983
+bên trong màn hình TV
+tham gia vào.
+
+587
+0:28:32.985 --> 0:28:35.017
+Chính xác.
+Tôi chỉ muốn giúp đỡ.
+
+588
+0:28:35.019 --> 0:28:37.786
+Tôi không hiểu tại sao họ sẽ không
+hãy để tôi làm.
+
+589
+0:28:37.788 --> 0:28:39.622
+Bạn biết đấy, tôi đã không thực sự
+hoàn thành nhiều với cuộc sống của tôi.
+
+590
+0:28:39.624 --> 0:28:40.857
+Ít nhất là trước khi tôi có thể nói
+
+591
+0:28:40.859 --> 0:28:41.858
+Là vì
+Tôi đã không thực sự cố gắng.
+
+592
+0:28:41.860 --> 0:28:43.860
+Bây giờ tôi thậm chí không thể nói điều đó.
+
+593
+0:28:43.862 --> 0:28:46.031
+Tôi đã thử và tôi thất bại.
+Tệ hơn.
+
+594
+0:28:50.035 --> 0:28:51.902
+(DOOR SLAMS SHUT)
+
+595
+0:28:51.904 --> 0:28:53.769
+COMMENTATOR: (ON TV)
+<i> ... với McLemore. Wow! </ I>
+
+596
+0:28:53.771 --> 0:28:55.471
+<i> Anh ấy vẫn kết thúc! </ i>
+
+597
+0:28:55.473 --> 0:28:57.175
+(KIẾM TRÊN CỬA)
+
+598
+0:28:58.176 --> 0:28:59.742
+<i> Thấy một người đến. </ i>
+
+599
+0:28:59.744 --> 0:29:3.215
+<i> Đó là con hẻm thứ hai
+anh ấy đã được chuyển đổi. </ i>
+
+600
+0:29:4.950 --> 0:29:6.114
+Này, chuyện gì vậy?
+
+601
+0:29:6.116 --> 0:29:7.484
+- Chuyện gì vậy?
+- Rất vui vì bạn đã làm được.
+
+602
+0:29:7.486 --> 0:29:9.451
+- Làm thế nào bạn làm?
+- Tốt. Chỉ cần xem trò chơi.
+
+603
+0:29:9.453 --> 0:29:10.820
+Vào đi.
+
+604
+0:29:10.822 --> 0:29:12.155
+Man, tôi hy vọng bang San Jose
+
+605
+0:29:12.157 --> 0:29:13.957
+cũng làm rối loạn Kansas.
+Chúng ta cần cái này.
+
+606
+0:29:13.959 --> 0:29:15.859
+Ồ, vâng, vâng, vâng. (SIGHS)
+
+607
+0:29:15.861 --> 0:29:18.026
+Thấy anh chàng này
+dunk trên kẻ ngốc này trước đó.
+
+608
+0:29:18.028 --> 0:29:19.861
+Nhắc tôi khi tôi dunked
+trên mông của bạn.
+
+609
+0:29:19.863 --> 0:29:21.831
+Ah, bạn không bao giờ
+dunked trên tôi.
+
+610
+0:29:21.833 --> 0:29:22.997
+Bạn muốn uống bia không?
+
+611
+0:29:22.999 --> 0:29:24.968
+Trên thực tế, yeah.
+
+612
+0:29:24.970 --> 0:29:27.169
+Tôi phải đến gặp bạn trước bạn
+tách ra khỏi đây, bạn biết đấy.
+
+613
+0:29:27.171 --> 0:29:28.670
+Bạn phải lo lắng, phải không?
+
+614
+0:29:28.672 --> 0:29:31.107
+Ah, tất cả đều tốt. Tôi chỉ
+đi Texas cho cơ bản.
+
+615
+0:29:31.109 --> 0:29:32.408
+Vâng, nhưng không nhiều người
+
+616
+0:29:32.410 --> 0:29:34.509
+làm cho nó xa
+trong quá trình này, bạn biết đấy.
+
+617
+0:29:34.511 --> 0:29:35.580
+Đó là một cam kết.
+
+618
+0:29:36.546 --> 0:29:38.283
+- Chúc mừng.
+- Chúc mừng.
+
+619
+0:29:41.119 --> 0:29:42.618
+Vì vậy, bạn chuẩn bị thức dậy
+ra khỏi đây, anh bạn.
+
+620
+0:29:42.620 --> 0:29:43.986
+Bạn hào hứng hay cái gì?
+
+621
+0:29:43.988 --> 0:29:45.655
+Ừ, nhưng ... (SIGHS)
+
+622
+0:29:45.657 --> 0:29:46.926
+Tôi không biết, anh bạn.
+
+623
+0:29:48.226 --> 0:29:51.526
+Nhớ khi tôi mang
+điều này một thời gian dài trước đây?
+
+624
+0:29:51.528 --> 0:29:52.528
+Làm sao tôi có thể quên được?
+
+625
+0:29:52.530 --> 0:29:54.397
+Bạn đã về
+Nặng hơn 30 pounds
+
+626
+0:29:54.399 --> 0:29:56.064
+và không ai nghĩ
+bạn sẽ đến đây.
+
+627
+0:29:56.066 --> 0:29:57.699
+Phải, anh bạn.
+
+628
+0:29:57.701 --> 0:30:0.503
+Vâng, nó đã kết thúc được rằng
+bạn đa đung.
+
+629
+0:30:0.505 --> 0:30:1.904
+Đúng về cái gì?
+
+630
+0:30:1.906 --> 0:30:3.305
+Vâng, tôi đã đi đến MEPS
+
+631
+0:30:3.307 --> 0:30:4.707
+và tôi đã bị loại
+để nhận thức sâu sắc,
+
+632
+0:30:4.709 --> 0:30:7.110
+vì vậy tôi thậm chí không thể là một PJ.
+
+633
+0:30:7.112 --> 0:30:8.343
+Bạn biết,
+Tôi thực sự không biết, như,
+
+634
+0:30:8.345 --> 0:30:9.812
+tính đặc thù
+của quân đội.
+
+635
+0:30:9.814 --> 0:30:11.380
+Ý anh là gì?
+
+636
+0:30:11.382 --> 0:30:14.921
+Về cơ bản, tôi phải kết thúc
+thay vào đó hãy đăng ký SERE.
+
+637
+0:30:16.054 --> 0:30:17.753
+Cái gì thế?
+
+638
+0:30:17.755 --> 0:30:20.156
+Nó là viết tắt của Survival,
+Evasion, Resistance và Escape.
+
+639
+0:30:20.158 --> 0:30:22.057
+Nó không thực sự
+điều tương tự.
+
+640
+0:30:22.059 --> 0:30:24.192
+Vâng, ý tôi là, ngay cả khi
+nó không giống nhau,
+
+641
+0:30:24.194 --> 0:30:26.629
+Tôi chắc chắn nó vẫn sẽ là
+có ý nghĩa, bạn biết đấy.
+
+642
+0:30:26.631 --> 0:30:30.800
+Ừ. Nhưng tôi chỉ không
+đam mê nó, bạn biết không?
+
+643
+0:30:30.802 --> 0:30:33.569
+Tôi chỉ muốn đi đến chiến tranh
+và tôi muốn cứu mạng sống.
+
+644
+0:30:33.571 --> 0:30:35.470
+Vâng, tôi chắc chắn rằng bất kỳ công việc nào
+họ đưa bạn vào,
+
+645
+0:30:35.472 --> 0:30:36.940
+bạn vẫn có thể
+để giúp đỡ người khác.
+
+646
+0:30:36.942 --> 0:30:38.343
+Đó là những người bạn đã luôn luôn được.
+
+647
+0:30:39.411 --> 0:30:42.314
+Yeah, yeah, tôi đoán vậy, anh bạn.
+
+648
+0:30:45.049 --> 0:30:46.584
+(CHỈ CHẾ BIẾN)
+
+649
+0:30:50.621 --> 0:30:53.358
+- Chuyện gì vậy?
+- Này, anh bạn, chuyện gì vậy?
+
+650
+0:30:57.428 --> 0:30:59.962
+Cái quái gì thế?
+Một dự án may?
+
+651
+0:30:59.964 --> 0:31:1.397
+SPENCER: Vâng.
+
+652
+0:31:1.399 --> 0:31:3.466
+Tuyệt quá! Vì vậy, tôi đoán chúng ta có
+mà mong chờ.
+
+653
+0:31:3.468 --> 0:31:5.101
+Chức năng gì
+thậm chí có phục vụ không?
+
+654
+0:31:5.103 --> 0:31:7.403
+Sự sống còn. Nếu bạn đẩy ra
+từ một chiếc máy bay,
+
+655
+0:31:7.405 --> 0:31:8.971
+tất cả những gì bạn có là dù,
+
+656
+0:31:8.973 --> 0:31:11.207
+vài công cụ khác, bạn biết đó,
+
+657
+0:31:11.209 --> 0:31:12.707
+còn gì nữa không
+bạn có thể nhặt rác để làm
+
+658
+0:31:12.709 --> 0:31:16.211
+một cái võng, lều, dây dẫn,
+vũ khí để săn lùng.
+
+659
+0:31:16.213 --> 0:31:19.015
+Mát mẻ. Vì vậy, tôi đoán
+nhà ec sẽ giúp chúng ta tồn tại.
+
+660
+0:31:19.017 --> 0:31:21.919
+- Vâng tôi nghĩ thế.
+- Khá nhiều.
+
+661
+0:31:21.921 --> 0:31:23.719
+Spencer, người đàn ông, nghỉ ngơi.
+
+662
+0:31:23.721 --> 0:31:25.321
+Tôi không thể, anh bạn. tôi đã sẵn sàng
+khá đằng sau
+
+663
+0:31:25.323 --> 0:31:27.156
+trên tất cả các bài tập của tôi.
+Tôi sắp thất bại.
+
+664
+0:31:27.158 --> 0:31:29.123
+Vâng, ở đây, nhìn kìa.
+Hãy để tôi chỉ cho bạn một số thứ.
+
+665
+0:31:29.125 --> 0:31:30.927
+Kiểm tra này ra.
+
+666
+0:31:30.929 --> 0:31:32.161
+- Ta-da!
+- Đó là gì?
+
+667
+0:31:32.163 --> 0:31:33.595
+Nó dùng để may.
+
+668
+0:31:33.597 --> 0:31:34.965
+Vì vậy, bạn có thể cân
+kim thông qua
+
+669
+0:31:34.967 --> 0:31:36.431
+mà không có bàn tay của bạn đi thô.
+
+670
+0:31:36.433 --> 0:31:39.101
+(CHUCKLES) Được rồi. Được rồi.
+Tôi thấy những gì bạn đang làm.
+
+671
+0:31:39.103 --> 0:31:42.138
+Bây giờ tay của bạn
+sẽ giữ cho bé mềm mại.
+
+672
+0:31:42.140 --> 0:31:43.339
+Dude, đây là nghĩa đen
+cách duy nhất
+
+673
+0:31:43.341 --> 0:31:44.573
+Tôi sẽ hoàn thành kịp thời.
+
+674
+0:31:44.575 --> 0:31:46.175
+Ồ, đừng lo,
+với bàn tay mềm mại của bé,
+
+675
+0:31:46.177 --> 0:31:47.411
+bạn sẽ luôn luôn kết thúc nhanh chóng.
+
+676
+0:31:47.978 --> 0:31:49.812
+(TẤT CẢ NHAU)
+
+677
+0:31:49.814 --> 0:31:51.581
+Các bạn
+là cái gì khác, người đàn ông.
+
+678
+0:31:51.583 --> 0:31:55.920
+DRILL SERGEANT:
+Trái mặt! Trong dòng.
+
+679
+0:31:55.922 --> 0:31:58.256
+- Chúng ta là ai?
+- CADETS: Không quân!
+
+680
+0:31:59.959 --> 0:32:2.026
+(CADETS SHOUTING INDISTINCTLY)
+
+681
+0:32:2.961 --> 0:32:4.660
+Oh SHIT!
+
+682
+0:32:4.662 --> 0:32:6.230
+Không! Không! Không!
+
+683
+0:32:13.304 --> 0:32:15.004
+CADETS:
+<i> ♪ Chúng ta là Không quân! </ i>
+
+684
+0:32:15.006 --> 0:32:17.908
+<i> - ♪ Không quân hùng mạnh, hùng mạnh
+- ♪ Không quân hùng mạnh, hùng mạnh </ i>
+
+685
+0:32:17.910 --> 0:32:20.943
+<i> - ♪ Tốt hơn cả quân đội
+- ♪ Tốt hơn cả quân đội </ i>
+
+686
+0:32:20.945 --> 0:32:23.979
+<i> - ♪ Quân đội
+- ♪ Quân đội đập đất </ i>
+
+687
+0:32:23.981 --> 0:32:27.015
+<i> - ♪ Tốt hơn Hải quân
+- ♪ Tốt hơn Hải quân </ i>
+
+688
+0:32:27.017 --> 0:32:28.219
+<i> ♪ Sàn nhảy ... ♪ </ i>
+
+689
+0:32:36.760 --> 0:32:39.094
+INSTRUCTOR: Airman Stone,
+bạn tham gia với chúng tôi như thế nào
+
+690
+0:32:39.096 --> 0:32:40.798
+Rơi vãi. Trên bục giảng.
+
+691
+0:32:46.403 --> 0:32:48.237
+Airman Stone,
+tại sao bạn làm push-up?
+
+692
+0:32:48.239 --> 0:32:49.471
+SPENCER: Tôi đến trễ, Trung sĩ.
+
+693
+0:32:49.473 --> 0:32:52.807
+Vâng, bạn đã đến trễ.
+Tại sao bạn trễ?
+
+694
+0:32:52.809 --> 0:32:54.310
+Tôi ngủ quên, Trung sĩ.
+
+695
+0:32:54.312 --> 0:32:55.710
+Anh ngủ quên.
+
+696
+0:32:55.712 --> 0:32:57.713
+Thưa quý vị,
+để đây là một ví dụ
+
+697
+0:32:57.715 --> 0:32:59.748
+với bạn về những gì không làm.
+
+698
+0:32:59.750 --> 0:33:1.951
+SERE. SERE.
+
+699
+0:33:1.953 --> 0:33:3.821
+1401.
+
+700
+0:33:5.123 --> 0:33:6.490
+Bình phục.
+
+701
+0:33:9.059 --> 0:33:10.293
+Tiếp tục.
+
+702
+0:33:10.295 --> 0:33:11.696
+SPENCER: SERE.
+
+703
+0:33:18.768 --> 0:33:20.238
+INSTRUCTOR: Làm tốt lắm.
+
+704
+0:33:29.247 --> 0:33:31.880
+Airman Stone, bạn có nhìn không
+giống mọi người khác?
+
+705
+0:33:31.882 --> 0:33:33.282
+Không, Trung sĩ.
+
+706
+0:33:33.284 --> 0:33:35.853
+Không, bạn không. Rơi vãi.
+
+707
+0:33:39.458 --> 0:33:40.890
+Airman Stone,
+bạn đang làm push-up
+
+708
+0:33:40.892 --> 0:33:43.726
+bởi vì bạn không thể theo
+hướng đơn giản.
+
+709
+0:33:43.728 --> 0:33:45.397
+(SPENCER GRUNTING)
+
+710
+0:33:48.934 --> 0:33:50.868
+SERE. SERE.
+
+711
+0:33:51.670 --> 0:33:53.438
+1401.
+
+712
+0:33:54.771 --> 0:33:55.873
+INSTRUCTOR: Phục hồi.
+
+713
+0:33:57.842 --> 0:33:59.574
+- Tiếp tục.
+- SERE.
+
+714
+0:33:59.576 --> 0:34:1.509
+Airman Stone, mũi khâu của bạn
+không đủ chặt chẽ.
+
+715
+0:34:1.511 --> 0:34:3.044
+Tôi sẽ làm lại,
+Trung sĩ.
+
+716
+0:34:3.046 --> 0:34:4.714
+Airman Stone, tôi không có
+lựa chọn. Đây không phải la một tro chơi.
+
+717
+0:34:4.716 --> 0:34:5.916
+Đây là sinh tồn.
+
+718
+0:34:5.918 --> 0:34:7.049
+Không có do-overs.
+Bạn có hiểu tôi không?
+
+719
+0:34:7.051 --> 0:34:8.184
+Vâng, Trung sĩ.
+
+720
+0:34:8.186 --> 0:34:9.518
+Báo cáo cho MTL
+
+721
+0:34:9.520 --> 0:34:11.281
+và bạn sẽ được phục vụ
+các giấy tờ loại bỏ của bạn.
+
+722
+0:34:24.035 --> 0:34:25.337
+HEIDI: Được rồi.
+
+723
+0:34:26.805 --> 0:34:27.938
+Đây rồi.
+
+724
+0:34:27.940 --> 0:34:29.306
+Được rồi.
+
+725
+0:34:38.216 --> 0:34:39.415
+tôi biết
+bạn không nên lái xe
+
+726
+0:34:39.417 --> 0:34:40.616
+tất cả các con đường ở đây
+chỉ để nói lời tạm biệt.
+
+727
+0:34:40.618 --> 0:34:42.819
+Vâng, tôi đã lo lắng
+về bạn, Alek.
+
+728
+0:34:42.821 --> 0:34:45.353
+Tôi đã có cái này
+cảm giác sợ hãi sâu sắc
+
+729
+0:34:45.355 --> 0:34:47.022
+về bạn sẽ chiến tranh.
+
+730
+0:34:47.024 --> 0:34:48.324
+Vâng, bạn là một người mẹ.
+
+731
+0:34:48.326 --> 0:34:49.692
+Bạn đang nghĩ
+lo lắng cho con bạn.
+
+732
+0:34:49.694 --> 0:34:52.861
+Nhưng nghe này, cưng.
+Tôi cầu nguyện về điều đó.
+
+733
+0:34:52.863 --> 0:34:55.932
+Và Chúa nói với tôi
+và anh ấy nói với tôi rằng
+
+734
+0:34:55.934 --> 0:35:0.002
+một cái gì đó rất thú vị
+sẽ xảy ra.
+
+735
+0:35:0.004 --> 0:35:1.737
+Và ...
+
+736
+0:35:1.739 --> 0:35:5.377
+Tôi không thể chờ đợi để xem
+những gì Ngài có trong cửa hàng cho bạn.
+
+737
+0:35:6.477 --> 0:35:8.412
+Tôi sẽ ổn thôi.
+
+738
+0:35:9.413 --> 0:35:10.714
+- Yêu mẹ.
+- (SIGHS)
+
+739
+0:35:34.138 --> 0:35:35.839
+(DÂN SỰ NGƯỜI)
+
+740
+0:35:38.042 --> 0:35:39.544
+(LẤY MỌI NGƯỜI)
+
+741
+0:35:42.247 --> 0:35:44.679
+Chuyện gì vậy? Ai đó làm ơn!
+Chuyện gì vậy?
+
+742
+0:35:44.681 --> 0:35:47.149
+Có một anh chàng với một khẩu súng.
+Chỉ cần chạy.
+
+743
+0:35:47.151 --> 0:35:48.484
+Thôi nào, bố, chúng ta phải đi.
+
+744
+0:35:48.486 --> 0:35:49.952
+Không, bạn đi, em yêu của tôi.
+Anh đi.
+
+745
+0:35:49.954 --> 0:35:51.823
+Tôi sẽ làm theo. Tôi sẽ làm theo.
+
+746
+0:36:15.279 --> 0:36:17.379
+(PLATOON GRUNTING)
+
+747
+0:36:17.381 --> 0:36:20.248
+Ồ tuyệt. Chúng ta sẽ
+gia súc được tôn vinh.
+
+748
+0:36:20.250 --> 0:36:23.085
+Đó là những gì chúng tôi nhận được
+vì không cắt nó ở Lackland.
+
+749
+0:36:23.087 --> 0:36:25.087
+Giữ trẻ cho người lớn.
+
+750
+0:36:25.089 --> 0:36:27.656
+Điều đó nghĩa là gì?
+
+751
+0:36:27.658 --> 0:36:30.025
+Chỉ là những gì tôi nghe được.
+Thay vì dạy chiến đấu
+
+752
+0:36:30.027 --> 0:36:31.527
+họ dạy bạn cách
+
+753
+0:36:31.529 --> 0:36:33.261
+"giảm thiểu phòng
+lỗ hổng "
+
+754
+0:36:33.263 --> 0:36:36.498
+bằng cách, chạy và trốn.
+
+755
+0:36:36.500 --> 0:36:38.033
+Chúng tôi đã nghĩ
+trong quân đội?
+
+756
+0:36:38.035 --> 0:36:39.634
+Thật khó.
+
+757
+0:36:39.636 --> 0:36:41.236
+OFFICER: <i> ♪ Họ đã đến
+để bị thương ... </ i>
+
+758
+0:36:41.238 --> 0:36:42.705
+PLATOON: <i> ♪ Họ đã đến
+để bị thương ... </ i>
+
+759
+0:36:42.707 --> 0:36:44.739
+<i> ♪ Họ đã đến
+để có được cái chết ... </ i>
+
+760
+0:36:44.741 --> 0:36:46.911
+<i> ♪ Họ đã đến
+để có được người chết ... ♪ </ i>
+
+761
+0:36:51.582 --> 0:36:52.781
+Được rồi,
+vì vậy một khi bạn đã tăng cao
+
+762
+0:36:52.783 --> 0:36:54.315
+bàng quang
+với áp lực mong muốn,
+
+763
+0:36:54.317 --> 0:36:56.384
+trong trường hợp này,
+140 mmHg hoặc cao hơn,
+
+764
+0:36:56.386 --> 0:36:57.719
+bạn sẽ nghe
+để chắc chắn
+
+765
+0:36:57.721 --> 0:37:0.022
+bạn không thể nghe thấy xung
+dưới bàng quang.
+
+766
+0:37:0.024 --> 0:37:1.290
+Điều đó rất quan trọng.
+
+767
+0:37:1.292 --> 0:37:3.257
+Có câu hỏi nào không
+trong phần này?
+
+768
+0:37:3.259 --> 0:37:5.127
+Không?
+
+769
+0:37:5.129 --> 0:37:7.395
+Được rồi, hãy tiếp tục.
+Hãy đi đến chương tiếp theo.
+
+770
+0:37:7.397 --> 0:37:8.932
+(ALARM BUZZING)
+
+771
+0:37:8.934 --> 0:37:10.967
+PHỤ NỮ: (ON PA) <i> Có
+một game bắn súng hoạt động trên cơ sở. </ i>
+
+772
+0:37:10.969 --> 0:37:13.435
+<i> Nơi trú ẩn tại chỗ cho đến khi bạn
+nhận thêm hướng dẫn. </ i>
+
+773
+0:37:13.437 --> 0:37:14.770
+<i> Đây không phải là một mũi khoan. </ i>
+
+774
+0:37:14.772 --> 0:37:16.071
+Được rồi, có
+một game bắn súng hoạt động trên cơ sở.
+
+775
+0:37:16.073 --> 0:37:17.138
+Các bạn, di chuyển bàn này
+qua cửa.
+
+776
+0:37:17.140 --> 0:37:18.440
+Hãy chắc chắn rằng nó không thể mở.
+
+777
+0:37:18.442 --> 0:37:19.775
+Mọi người khác,
+xuống dưới bàn làm việc của bạn.
+
+778
+0:37:19.777 --> 0:37:21.710
+Đây không phải là một mũi khoan! Di chuyển!
+
+779
+0:37:21.712 --> 0:37:24.879
+Đây không phải là một bài tập!
+Dưới bàn của bạn ngay bây giờ.
+
+780
+0:37:24.881 --> 0:37:26.716
+(ALAR BLARING)
+
+781
+0:37:26.718 --> 0:37:28.484
+Được rồi, hãy nhớ giao thức.
+
+782
+0:37:28.486 --> 0:37:29.717
+Nếu bạn trốn thoát,
+
+783
+0:37:29.719 --> 0:37:31.355
+bạn không tham gia.
+Tự bảo vệ.
+
+784
+0:37:34.390 --> 0:37:35.991
+- Được rồi.
+- Chúng tôi rất say.
+
+785
+0:37:35.993 --> 0:37:37.696
+Đó là tất cả những gì tôi có, người đàn ông.
+
+786
+0:37:40.932 --> 0:37:41.897
+GIÁO VIÊN: Đá!
+
+787
+0:37:41.899 --> 0:37:44.199
+Đá, xuống dưới
+bàn của bạn, ngay bây giờ.
+
+788
+0:37:44.201 --> 0:37:45.600
+Chúa chết tiệt. Cục đá!
+
+789
+0:37:45.602 --> 0:37:47.402
+Bạn đang lam cai quai gi thê?
+
+790
+0:37:47.404 --> 0:37:49.670
+Không ai trong số các bạn di chuyển.
+
+791
+0:37:49.672 --> 0:37:50.974
+(CLATTERING NGOÀI CỬA)
+
+792
+0:37:50.976 --> 0:37:53.344
+Francis, quay lại
+dưới bàn của bạn!
+
+793
+0:37:54.912 --> 0:37:56.444
+Đá, cái quái gì
+bạn đang làm gì
+
+794
+0:37:56.446 --> 0:37:57.612
+Xuống dưới bàn của bạn.
+
+795
+0:37:57.614 --> 0:37:59.351
+(CLATTERING CONTINUES)
+
+796
+0:38:10.361 --> 0:38:11.931
+(MAN ĐANG NÓI TRONG DISTANCE)
+
+797
+0:38:13.730 --> 0:38:15.998
+- (ALARM BUZZING)
+- (GRUNTS)
+
+798
+0:38:16.000 --> 0:38:17.766
+MAN: (TRONG DISTANCE)
+Chúng ta đã rõ ràng!
+
+799
+0:38:17.768 --> 0:38:19.734
+- (BUỒNG ALARM)
+- Được rồi, đó là tất cả rõ ràng.
+
+800
+0:38:19.736 --> 0:38:21.502
+Đá, bạn muốn di chuyển
+bàn này lại cho tôi?
+
+801
+0:38:21.504 --> 0:38:23.575
+Ai đó giúp anh ta, làm ơn.
+
+802
+0:38:28.747 --> 0:38:29.881
+(EXHALES)
+
+803
+0:38:34.484 --> 0:38:37.020
+- Chúa ơi!
+- (KNOCKING AT DOOR)
+
+804
+0:38:43.660 --> 0:38:45.428
+Guys, đây là một báo động giả.
+
+805
+0:38:45.430 --> 0:38:46.629
+Chỉ là muốn cho bạn biết
+
+806
+0:38:46.631 --> 0:38:48.062
+mọi thứ
+là hoàn toàn ổn,
+
+807
+0:38:48.064 --> 0:38:50.232
+- và tất cả chúng ta đều an toàn.
+- FRANCIS: Chuyện gì đã xảy ra?
+
+808
+0:38:50.234 --> 0:38:52.936
+BROWN: Cảnh báo cho người chơi đang hoạt động
+đã đi qua hệ thống PA của chúng tôi,
+
+809
+0:38:52.938 --> 0:38:55.804
+nhưng vị trí thực tế
+không được đính kèm.
+
+810
+0:38:55.806 --> 0:38:58.877
+Nó ở gần đó,
+nhưng không phải cơ sở của chúng tôi.
+
+811
+0:39:0.477 --> 0:39:2.210
+Tiếp tục.
+
+812
+0:39:2.212 --> 0:39:4.212
+GIÁO VIÊN: Mọi người đều ổn định.
+
+813
+0:39:4.214 --> 0:39:5.547
+Chúa ơi ...
+
+814
+0:39:5.549 --> 0:39:6.815
+Đá, cái quái gì
+bạn định làm gì
+
+815
+0:39:6.817 --> 0:39:8.150
+với một cây bút bi
+anyways, huh?
+
+816
+0:39:8.152 --> 0:39:9.685
+SPENCER: (CHUCKLES)
+Tôi không biết, thưa bà.
+
+817
+0:39:9.687 --> 0:39:10.954
+Tôi chỉ không muốn
+gia đình tôi tìm ra
+
+818
+0:39:10.956 --> 0:39:11.754
+tôi đã chết
+ẩn dưới bàn.
+
+819
+0:39:11.756 --> 0:39:13.121
+Hmm.
+
+820
+0:39:13.123 --> 0:39:14.323
+Huh.
+
+821
+0:39:14.325 --> 0:39:16.828
+Đưa tay ra.
+Ai nghĩ Stone là thằng khốn?
+
+822
+0:39:17.727 --> 0:39:19.094
+SPENCER: Thôi nào, anh bạn.
+
+823
+0:39:19.096 --> 0:39:20.562
+Yeah, tôi cũng thế.
+Đó sẽ là bài kiểm tra.
+
+824
+0:39:20.564 --> 0:39:22.000
+(LAUGHTER)
+
+825
+0:39:48.658 --> 0:39:51.058
+Lạ thật.
+Không có người ăn xin trên đuôi của chúng tôi.
+
+826
+0:39:51.060 --> 0:39:52.663
+Đoán họ không
+sau ngày hôm nay.
+
+827
+0:39:53.997 --> 0:39:56.198
+Kiểm tra DAGR
+và xác nhận tọa độ của chúng tôi.
+
+828
+0:39:56.200 --> 0:39:57.734
+ALEK: Roger.
+
+829
+0:40:2.439 --> 0:40:4.608
+BEN: Skarlatos, thôi nào, anh bạn.
+
+830
+0:40:5.576 --> 0:40:6.641
+ALEK: Chết tiệt!
+
+831
+0:40:6.643 --> 0:40:8.109
+Tôi không thể tìm thấy ba lô của tôi.
+
+832
+0:40:8.111 --> 0:40:9.645
+Bạn đã có nó chưa
+tại điểm dừng cuối cùng?
+
+833
+0:40:9.647 --> 0:40:11.114
+ALEK: Vâng.
+
+834
+0:40:12.183 --> 0:40:14.018
+Dừng bảo mật.
+
+835
+0:40:19.422 --> 0:40:20.489
+Tốt hơn là quay lại đó.
+
+836
+0:40:20.491 --> 0:40:21.927
+SOLDIER: Chúng tôi có
+ngừng bảo mật.
+
+837
+0:40:22.359 --> 0:40:23.560
+Che!
+
+838
+0:40:28.565 --> 0:40:30.098
+ALEK: Chết tiệt! Nó không có ở đây.
+
+839
+0:40:30.100 --> 0:40:32.266
+Tôi có hai mags 50 cal
+và DAGR trong đó.
+
+840
+0:40:32.268 --> 0:40:33.569
+Mọi người đều đứng lên!
+
+841
+0:40:33.571 --> 0:40:35.703
+Chúng ta sẽ trở lại
+đến ngôi làng.
+
+842
+0:40:35.705 --> 0:40:36.972
+Tôi đoán chúng tôi đã tìm ra lý do
+
+843
+0:40:36.974 --> 0:40:39.107
+dân làng
+không theo chúng tôi.
+
+844
+0:40:39.109 --> 0:40:41.275
+GIÁO VIÊN: Xin chúc mừng,
+Airman Stone,
+
+845
+0:40:41.277 --> 0:40:43.978
+bạn chỉ cho người đàn ông này
+tổn thương não vĩnh viễn.
+
+846
+0:40:43.980 --> 0:40:45.348
+SPENCER: Nhưng tôi nghĩ
+Tôi cần để có được
+
+847
+0:40:45.350 --> 0:40:46.982
+một đường vào.
+Anh ta cần thở, đúng không?
+
+848
+0:40:46.984 --> 0:40:48.650
+Bạn làm. Nhưng bạn có chú ý không
+rằng bạn của chúng tôi ở đây
+
+849
+0:40:48.652 --> 0:40:50.018
+có chất lỏng trong tai?
+
+850
+0:40:50.020 --> 0:40:52.187
+Điều gì có thể rõ ràng
+chất lỏng được, ông Stone?
+
+851
+0:40:52.189 --> 0:40:53.821
+SPENCER: Ồ, chết tiệt.
+
+852
+0:40:53.823 --> 0:40:56.257
+Không hẳn. Đoán lại.
+
+853
+0:40:56.259 --> 0:40:57.324
+Tủy sống, thưa bà.
+
+854
+0:40:57.326 --> 0:40:58.826
+Chính xác. Dịch tủy sống.
+
+855
+0:40:58.828 --> 0:41:0.828
+Và nếu bạn của bạn có
+dịch tủy sống trong tai,
+
+856
+0:41:0.830 --> 0:41:2.063
+Điều đó cho chúng ta những gì?
+
+857
+0:41:2.065 --> 0:41:3.565
+Anh ta có thể gây sát thương
+vào hộp sọ.
+
+858
+0:41:3.567 --> 0:41:5.433
+Đuợc. Vì vậy, để tóm tắt lại.
+
+859
+0:41:5.435 --> 0:41:6.868
+Bạn vừa mới bước lên
+cho một người
+
+860
+0:41:6.870 --> 0:41:8.636
+đã có một xinh đẹp
+ngày tồi tệ để bắt đầu với
+
+861
+0:41:8.638 --> 0:41:11.239
+và bạn xô một miếng
+silicone vào não.
+
+862
+0:41:11.241 --> 0:41:12.641
+Bạn chỉ lobotomized anh ta.
+
+863
+0:41:12.643 --> 0:41:14.676
+À, tôi nghĩ mình sẽ hiểu
+đầu tiên anh ta có thể thở
+
+864
+0:41:14.678 --> 0:41:16.478
+và sau đó tôi sẽ chuyển sang
+những thứ khác.
+
+865
+0:41:16.480 --> 0:41:17.679
+Được rồi, nhưng đôi khi bạn cần
+
+866
+0:41:17.681 --> 0:41:19.047
+để đối phó với
+chảy máu đầu tiên.
+
+867
+0:41:19.049 --> 0:41:20.315
+SPENCER: Vì vậy, tôi sẽ đặt
+một tourniquet trên nó, sau đó?
+
+868
+0:41:20.317 --> 0:41:21.583
+Không phải luôn luôn.
+
+869
+0:41:21.585 --> 0:41:23.085
+Nếu vết thương
+đã ở trên cổ, phải không?
+
+870
+0:41:23.087 --> 0:41:25.853
+Một tourniquet trên cổ
+được biết đến như một con ngỗng.
+
+871
+0:41:25.855 --> 0:41:27.022
+Tôi phải làm gì đây?
+
+872
+0:41:27.024 --> 0:41:29.391
+Trong trường hợp đó,
+bạn nói lời cầu nguyện.
+
+873
+0:41:29.393 --> 0:41:31.663
+Và bạn hy vọng điều gì đó
+sáng tạo xảy ra với bạn.
+
+874
+0:41:33.497 --> 0:41:35.165
+Đó là một số lời khuyên âm thanh.
+
+875
+0:41:49.914 --> 0:41:52.047
+BEN: Hãy thực hiện điều này nhanh chóng.
+
+876
+0:41:52.049 --> 0:41:54.815
+- Đưa ra an ninh.
+- MAN: (ON RADIO) <i> Roger đó. </ I>
+
+877
+0:41:54.817 --> 0:41:57.386
+Skarlatos, ở lại đây.
+
+878
+0:41:57.388 --> 0:41:58.754
+MAN: Đừng di chuyển. Đừng di chuyển!
+
+879
+0:41:58.756 --> 0:42:0.325
+BEN: Đi thôi.
+
+880
+0:42:2.058 --> 0:42:4.227
+- (CHỈ CHẾ BIẾN)
+- (TUYỆT VỜI GOAT)
+
+881
+0:42:5.763 --> 0:42:8.098
+(SPEAKING PASHTO)
+
+882
+0:42:12.602 --> 0:42:14.605
+(SPEAKING PASHTO)
+
+883
+0:42:28.852 --> 0:42:30.886
+- Họ muốn gì?
+- BEN: Một con dao.
+
+884
+0:42:30.888 --> 0:42:33.757
+Một số vỏ vỏ.
+Thùng rác sáng bóng của chúng tôi.
+
+885
+0:42:35.859 --> 0:42:38.194
+ALEK: Vâng,
+tất cả đều ở đây ngoại trừ ...
+
+886
+0:42:38.196 --> 0:42:39.060
+Ngoại trừ cái gì?
+
+887
+0:42:39.062 --> 0:42:41.596
+Mũ của tôi. Với tên tôi trên đó.
+
+888
+0:42:41.598 --> 0:42:44.098
+Vâng, trông giống như
+một số linh hồn không may
+
+889
+0:42:44.100 --> 0:42:46.203
+vừa mới có
+biệt danh Skarlatos.
+
+890
+0:42:47.337 --> 0:42:49.270
+Đi nào. Gắn lên!
+
+891
+0:42:49.272 --> 0:42:51.408
+MAN 1: Lên núi!
+MAN 2: Lên! Hãy di chuyển.
+
+892
+0:42:52.808 --> 0:42:54.344
+(CƠ SỞ ĐỘNG CƠ)
+
+893
+0:42:58.382 --> 0:42:59.681
+Chúng tôi ở?
+
+894
+0:42:59.683 --> 0:43:1.052
+Đánh nó.
+
+895
+0:43:4.187 --> 0:43:5.288
+(BOTH GRUNTING)
+
+896
+0:43:6.723 --> 0:43:8.925
+MAN 1: Khóa tay lại!
+
+897
+0:43:8.927 --> 0:43:10.161
+MAN 2: Vào trong đó, Spence!
+
+898
+0:43:10.861 --> 0:43:12.864
+Spence, đi lấy chân.
+
+899
+0:43:17.368 --> 0:43:19.601
+Được rồi, bây giờ khi bạn có
+ai đó trong tình trạng như thế này,
+
+900
+0:43:19.603 --> 0:43:21.536
+sử dụng bàn tay miễn phí của bạn
+để kẹp xuống
+
+901
+0:43:21.538 --> 0:43:22.670
+trên động mạch cảnh.
+
+902
+0:43:22.672 --> 0:43:23.806
+MAN: Có bạn đi!
+
+903
+0:43:23.808 --> 0:43:25.573
+Spence, lấy nó vào.
+
+904
+0:43:25.575 --> 0:43:26.875
+Bạn nghĩ rằng đối thủ của bạn
+
+905
+0:43:26.877 --> 0:43:28.398
+sẽ cho bạn
+làm điều đó với anh ta, huh?
+
+906
+0:43:30.914 --> 0:43:32.047
+Spence, bạn không hiểu.
+
+907
+0:43:32.049 --> 0:43:33.281
+Đường cằm lên
+với khuỷu tay.
+
+908
+0:43:33.283 --> 0:43:35.250
+SPENCER: Tôi đang cố gắng.
+
+909
+0:43:35.252 --> 0:43:36.850
+Spence, lấy móc của bạn vào,
+đi cho chân.
+
+910
+0:43:36.852 --> 0:43:38.620
+Không chỉ là cánh tay.
+Đi cho chân.
+
+911
+0:43:38.622 --> 0:43:40.357
+Đừng cho anh ta manh mối nào.
+
+912
+0:43:43.127 --> 0:43:44.525
+Spence, lấy móc của bạn vào.
+
+913
+0:43:44.527 --> 0:43:45.796
+MAN: Thôi nào, anh bạn!
+
+914
+0:43:47.765 --> 0:43:49.834
+- Sâu sắc hơn.
+- MAN: Spence, khóa nó đi!
+
+915
+0:43:51.000 --> 0:43:52.303
+MAN: Được rồi,
+bạn đã có anh ta ngay bây giờ!
+
+916
+0:43:53.404 --> 0:43:54.405
+Whoo!
+
+917
+0:43:59.943 --> 0:44:1.278
+(LAPTOP CHIMES)
+
+918
+0:44:8.685 --> 0:44:10.618
+<i> Alek, chuyện gì vậy? </ i>
+
+919
+0:44:10.620 --> 0:44:12.221
+Spencer, này, chuyện gì vậy?
+
+920
+0:44:12.223 --> 0:44:14.723
+<i> Tôi ổn.
+Làm tốt điều này. </ I>
+
+921
+0:44:14.725 --> 0:44:16.959
+Tốt ở cái gì?
+Giống như, kiểm tra phát ban?
+
+922
+0:44:16.961 --> 0:44:18.560
+Không, tôi đã làm jiu-jitsu.
+
+923
+0:44:18.562 --> 0:44:20.295
+Tôi bắt đầu cuối cùng
+con số này shit ra.
+
+924
+0:44:20.297 --> 0:44:22.730
+Không nhận được ass của tôi đánh bại
+mỗi trận đấu, ít nhất.
+
+925
+0:44:22.732 --> 0:44:24.031
+<i> Vâng, điều đó tốt. </ i>
+
+926
+0:44:24.033 --> 0:44:25.533
+<i> Có, như,
+không có gì để làm ở đây. </ i>
+
+927
+0:44:25.535 --> 0:44:27.034
+Nhưng bạn đang ở Afghanistan.
+
+928
+0:44:27.036 --> 0:44:28.972
+Yeah, tốt, không ai quan tâm
+Afghanistan nữa.
+
+929
+0:44:28.974 --> 0:44:30.939
+Bây giờ những kẻ xấu thực sự
+ISIS.
+
+930
+0:44:30.941 --> 0:44:32.540
+<i> Không có nhiều người ở đó? </ i>
+
+931
+0:44:32.542 --> 0:44:36.612
+Không, tôi giống như một nhân viên bảo vệ.
+Về cơ bản chỉ là một cảnh sát trung tâm.
+
+932
+0:44:36.614 --> 0:44:38.846
+Vâng, cuộc phiêu lưu bắt đầu sớm.
+
+933
+0:44:38.848 --> 0:44:40.149
+Strasser có bao giờ quyết định không
+nếu anh ấy đến
+
+934
+0:44:40.151 --> 0:44:41.783
+với chúng tôi
+trong chuyến lưu diễn Châu Âu tuyệt vời?
+
+935
+0:44:41.785 --> 0:44:42.984
+<i> Ừ, không, anh ta không thể đi. </ i>
+
+936
+0:44:42.986 --> 0:44:44.486
+<i> Tôi đang nghĩ về
+hỏi Solon, </ i>
+
+937
+0:44:44.488 --> 0:44:45.921
+<i> nhưng tôi không nghĩ anh ấy sẽ
+có đủ tiền. </ i>
+
+938
+0:44:45.923 --> 0:44:48.056
+Đuợc. Tốt,
+hãy cho tôi biết, anh bạn.
+
+939
+0:44:48.058 --> 0:44:49.757
+Tôi đang phấn khích.
+
+940
+0:44:49.759 --> 0:44:51.125
+<i> Yeah, anh không biết. </ i>
+
+941
+0:44:51.127 --> 0:44:52.594
+<i> Tôi tuyệt vọng
+để ra khỏi đây. </ i>
+
+942
+0:44:52.596 --> 0:44:54.395
+<i> Tôi vẫn nghĩ chúng ta cần
+đậu nó ở Đức </ i>
+
+943
+0:44:54.397 --> 0:44:56.096
+<i> một thời gian. </ i>
+
+944
+0:44:56.098 --> 0:44:58.167
+Phải, chỉ là vậy,
+
+945
+0:44:58.169 --> 0:45:0.301
+có rất nhiều điều tôi muốn xem,
+bạn biết?
+
+946
+0:45:0.303 --> 0:45:2.103
+Và cơ hội là
+điều này có thể sẽ là
+
+947
+0:45:2.105 --> 0:45:4.873
+một trong những lần cuối cùng tôi sẽ nhận được
+để làm một cái gì đó như thế này.
+
+948
+0:45:4.875 --> 0:45:7.007
+<i> Nghe này, tôi biết bạn có
+cô gái đó. </ i>
+
+949
+0:45:7.009 --> 0:45:9.578
+<i> Cô ấy là gì?
+Một sinh viên trao đổi? </ I>
+
+950
+0:45:9.580 --> 0:45:11.011
+Ừ, ở Oregon.
+
+951
+0:45:11.013 --> 0:45:12.547
+Chúng tôi chỉ giữ liên lạc.
+
+952
+0:45:12.549 --> 0:45:15.817
+<i> Và cô ấy mời bạn ở lại
+với cô ấy ở Đức? </ i>
+
+953
+0:45:15.819 --> 0:45:17.219
+Phải, nhưng không chỉ vậy.
+
+954
+0:45:17.221 --> 0:45:19.520
+Tôi chỉ muốn
+ngâm nó một chút.
+
+955
+0:45:19.522 --> 0:45:22.424
+Tôi không muốn di chuyển
+mỗi ngày.
+
+956
+0:45:22.426 --> 0:45:25.060
+<i> Ý tôi là, chúng ta không thể đi
+đi nghỉ thường xuyên. </ i>
+
+957
+0:45:25.062 --> 0:45:26.895
+Vâng, tốt, nếu bạn chỉ muốn
+ở lại Đức, con người,
+
+958
+0:45:26.897 --> 0:45:28.429
+thật tuyệt. Cứ làm đi.
+
+959
+0:45:28.431 --> 0:45:30.297
+<i> Vâng, ý tôi là,
+lịch sử gia đình của tôi là có. </ i>
+
+960
+0:45:30.299 --> 0:45:31.699
+<i> Và đó là lý do
+Tôi muốn </ i>
+
+961
+0:45:31.701 --> 0:45:33.601
+<i> tham gia quân đội
+ngay từ đầu. </ i>
+
+962
+0:45:33.603 --> 0:45:35.437
+Vâng, chúng tôi không có
+để quyết định ngay bây giờ.
+
+963
+0:45:35.439 --> 0:45:37.280
+Này, chuyện gì đã xảy ra
+để đào tạo bắn tỉa đó?
+
+964
+0:45:38.207 --> 0:45:40.074
+Tôi sẽ nói với bạn
+về điều đó sau.
+
+965
+0:45:40.076 --> 0:45:42.676
+Uh, về cơ bản,
+Tôi thực sự chán.
+
+966
+0:45:42.678 --> 0:45:46.248
+<i> Thật là tệ. tôi ở đây
+có một vụ nổ quái dị! </ i>
+
+967
+0:45:46.250 --> 0:45:49.984
+<i> Uống bia, treo trên
+bãi biển, làm jiu-jitsu. </ i>
+
+968
+0:45:49.986 --> 0:45:52.154
+<i> Bồ Đào Nha là thiên đường. </ i>
+
+969
+0:45:52.156 --> 0:45:54.323
+Bạn là một phần của shit.
+
+970
+0:45:54.325 --> 0:45:55.690
+Cái gì thế?
+Bạn phải chia tay.
+
+971
+0:45:55.692 --> 0:45:57.292
+Nghe như thể là
+bạn gọi cho tôi một mảnh shit!
+
+972
+0:45:57.294 --> 0:45:58.993
+<i> Được rồi, tốt,
+nó giống như nửa đêm ở đây. </ i>
+
+973
+0:45:58.995 --> 0:46:0.362
+<i> Tôi phải đi ngủ. </ i>
+
+974
+0:46:0.364 --> 0:46:2.730
+Được rồi, treo ở đó,
+em trai. Một lát sau.
+
+975
+0:46:2.732 --> 0:46:4.035
+<i> Được rồi. </ i>
+
+976
+0:46:6.536 --> 0:46:8.138
+(CHỈ CHẾ BIẾN)
+
+977
+0:46:15.411 --> 0:46:17.745
+(LINE RINGING)
+
+978
+0:46:17.747 --> 0:46:20.916
+Đá. Tên Spencer.
+Có chuyện gì vậy, anh bạn? </ I>
+
+979
+0:46:20.918 --> 0:46:22.317
+Chilling, người đàn ông.
+Bạn đang làm gì đấy?
+
+980
+0:46:22.319 --> 0:46:23.986
+<i> Bạn biết đấy,
+chỉ là thói quen buổi sáng. </ i>
+
+981
+0:46:23.988 --> 0:46:25.487
+Lạnh. Bất kỳ hành động
+ở đó chưa?
+
+982
+0:46:25.489 --> 0:46:27.254
+<i> Nah, đây là
+một bài tập rất đẹp. </ i>
+
+983
+0:46:27.256 --> 0:46:28.623
+<i> Nhưng, nghe này,
+Tôi có một ý tưởng cho bạn. </ I>
+
+984
+0:46:28.625 --> 0:46:30.324
+<i> Tôi và Alek
+chỉ nói về </ i>
+
+985
+0:46:30.326 --> 0:46:32.361
+<i> làm một chuyến đi sau lưng
+khắp châu Âu. </ i>
+
+986
+0:46:32.363 --> 0:46:33.462
+Bạn nên, người đàn ông.
+Bạn có thể được đăng
+
+987
+0:46:33.464 --> 0:46:35.129
+bất cứ nơi nào sau này,
+đúng?
+
+988
+0:46:35.131 --> 0:46:36.730
+Vâng, nhưng tôi đang cố gắng nói
+bạn nên đi với chúng tôi.
+
+989
+0:46:36.732 --> 0:46:39.936
+<i> Đợi đã.
+Ý anh là, gặp anh ở Châu Âu? </ I>
+
+990
+0:46:39.938 --> 0:46:41.435
+Vâng, con trai. Nó sẽ rất điên rồ.
+
+991
+0:46:41.437 --> 0:46:43.138
+Bạn có nghỉ hè,
+phải không?
+
+992
+0:46:43.140 --> 0:46:45.640
+Man, thôi nào, anh biết không
+có tiền như thế.
+
+993
+0:46:45.642 --> 0:46:48.442
+<i> Chỉ cần lấy một thẻ tín dụng.
+Bạn sẽ trả lại. </ I>
+
+994
+0:46:48.444 --> 0:46:50.245
+Ah, tôi thấy họ tai nghe.
+Bạn phải làm việc </ i>
+
+995
+0:46:50.247 --> 0:46:52.013
+<i> cho thẻ tín dụng
+công ty, huh? </ i>
+
+996
+0:46:52.015 --> 0:46:53.315
+<i> Chỉ xem những gì bạn đủ điều kiện. </ i>
+
+997
+0:46:53.317 --> 0:46:54.918
+Thật điên rồ
+bạn nói rằng mặc dù.
+
+998
+0:46:54.920 --> 0:46:56.284
+Tôi vừa nói
+với đồng nghiệp của tôi
+
+999
+0:46:56.286 --> 0:46:57.518
+về việc nhận thẻ tín dụng
+
+1000
+0:46:57.520 --> 0:46:59.154
+thường xuyên
+dặm tờ rơi, quá.
+
+1001
+0:46:59.156 --> 0:47:3.225
+Anthony, nó có nghĩa là,
+dawg. Nào.
+
+1002
+0:47:3.227 --> 0:47:5.060
+<i> Được rồi, anh bạn, vặn nó đi.
+Tôi tham gia. </ I>
+
+1003
+0:47:5.062 --> 0:47:6.430
+(HORN HONKING)
+
+1004
+0:47:20.343 --> 0:47:21.708
+Chào! Có chuyện gì vậy, anh bạn.
+Bạn đã thực hiện nó.
+
+1005
+0:47:21.710 --> 0:47:23.444
+Có chuyện gì vậy, bro?
+
+1006
+0:47:23.446 --> 0:47:24.779
+Chờ đã, hãy để tôi lấy
+túi của tôi thật nhanh.
+
+1007
+0:47:24.781 --> 0:47:25.848
+Được rồi.
+
+1008
+0:47:25.850 --> 0:47:27.516
+Thôi nào, đi kiểm tra.
+
+1009
+0:47:27.518 --> 0:47:30.083
+Điều này có điên không?
+Mặc dù vậy, chúng tôi đã sang châu Âu.
+
+1010
+0:47:30.085 --> 0:47:32.954
+Tôi biết người đàn ông. Nhìn xung quanh.
+
+1011
+0:47:32.956 --> 0:47:36.026
+Nắm lấy. Chúng ta phải nhận được
+một cú sút thật nhanh.
+
+1012
+0:47:38.462 --> 0:47:40.194
+Nó đây rồi.
+
+1013
+0:47:40.196 --> 0:47:41.895
+Cố lên nào anh bạn. Tôi đã từng
+chờ đợi ở đây mãi mãi.
+
+1014
+0:47:41.897 --> 0:47:43.233
+Tốt thôi tốt thôi.
+
+1015
+0:47:46.268 --> 0:47:48.370
+- Này, anh thế nào?
+- Xin chào. Chào mừng bạn đến với Roma.
+
+1016
+0:47:48.372 --> 0:47:50.038
+- SPENCER: Cảm ơn.
+- Họ?
+
+1017
+0:47:50.040 --> 0:47:51.709
+- Uh, Stone.
+- Cục đá.
+
+1018
+0:47:53.210 --> 0:47:54.943
+Hoàn hảo. Tốt,
+Tôi có phòng cho hai người.
+
+1019
+0:47:54.945 --> 0:47:56.245
+Bạn có muốn hai phím, sau đó?
+
+1020
+0:47:56.247 --> 0:47:57.745
+- Vâng làm ơn.
+- Đuợc.
+
+1021
+0:47:57.747 --> 0:47:59.982
+Và đây là lần đầu tiên của bạn
+ở lại với chúng tôi?
+
+1022
+0:47:59.984 --> 0:48:1.583
+Uh, nó thực sự
+lần đầu tiên ở Ý.
+
+1023
+0:48:1.585 --> 0:48:3.784
+Oh, chào mừng.
+Tốt trong trường hợp đó,
+
+1024
+0:48:3.786 --> 0:48:5.420
+nếu bạn không có
+bất kỳ kế hoạch nào cho tối nay,
+
+1025
+0:48:5.422 --> 0:48:7.923
+chúng tôi có một chiếc xe buýt bên
+rời khỏi quầy bar của chúng tôi.
+
+1026
+0:48:7.925 --> 0:48:10.991
+Và họ gọi nó
+Chuyến tham quan Perversion,
+
+1027
+0:48:10.993 --> 0:48:12.361
+nếu nó dịch.
+
+1028
+0:48:12.363 --> 0:48:14.261
+Ồ, vâng,
+Tôi nghĩ nó dịch.
+
+1029
+0:48:14.263 --> 0:48:15.630
+Bạn có muốn tôi
+để đăng ký bạn?
+
+1030
+0:48:15.632 --> 0:48:16.799
+Vâng làm ơn.
+
+1031
+0:48:16.801 --> 0:48:18.132
+Tôi nghĩ chúng ta sẽ có
+một thời điểm tốt ở Ý.
+
+1032
+0:48:18.134 --> 0:48:19.466
+Ư, tôi cung nghi vậy.
+
+1033
+0:48:19.468 --> 0:48:21.002
+Tôi hy vọng
+bạn đang thấy tất cả các điểm tham quan
+
+1034
+0:48:21.004 --> 0:48:22.270
+trước chuyến tham quan của bạn.
+
+1035
+0:48:22.272 --> 0:48:24.806
+Ồ, vâng. Chung tôi lập kê hoạch
+nhìn thấy tất cả các điểm tham quan.
+
+1036
+0:48:24.808 --> 0:48:26.143
+Mmm.
+
+1037
+0:48:32.850 --> 0:48:34.616
+ANTHONY: Chúng tôi đã làm được
+đến Đấu trường La Mã, em bé.
+
+1038
+0:48:34.618 --> 0:48:36.618
+SPENCER: Thật điên rồ
+họ đã xây dựng lại nó sau đó.
+
+1039
+0:48:36.620 --> 0:48:38.319
+ANTHONY: Bạn có tin được không
+nó to như thế nào?
+
+1040
+0:48:38.321 --> 0:48:39.487
+SPENCER:
+Và bạn có thể tin người
+
+1041
+0:48:39.489 --> 0:48:40.855
+đã từng giết nhau
+trong đó?
+
+1042
+0:48:40.857 --> 0:48:42.323
+ANTHONY: Vì hình dung
+xem điều đó ngay bây giờ,
+
+1043
+0:48:42.325 --> 0:48:44.326
+ai đó chiến đấu với một con sư tử.
+
+1044
+0:48:44.328 --> 0:48:46.395
+SPENCER: (IMITATING MAXIMUS)
+Bạn không được giải trí?
+
+1045
+0:48:46.397 --> 0:48:47.761
+ANTHONY: Bạn có cho anh ta không
+một ngón tay cái lên
+
+1046
+0:48:47.763 --> 0:48:48.895
+hoặc một ngón tay cái xuống?
+
+1047
+0:48:48.897 --> 0:48:50.665
+SPENCER: Thumbs down.
+
+1048
+0:48:50.667 --> 0:48:52.100
+ANTHONY: Giết hắn đi.
+
+1049
+0:48:52.102 --> 0:48:54.536
+SPENCER: Rất nhiều shit cũ ở đây.
+Chắc chắn rồi.
+
+1050
+0:48:54.538 --> 0:48:56.270
+ANTHONY: Bạn đang cố gắng ném
+một số tiền xu trong hay cái gì đó? </ i>
+
+1051
+0:48:56.272 --> 0:48:57.638
+Chỉ cần ném nó về phía sau.
+
+1052
+0:48:57.640 --> 0:49:0.010
+- Ném nó về phía sau?
+- Yeah, nếu bạn muốn.
+
+1053
+0:49:3.279 --> 0:49:4.712
+Nó đã làm nó? (LAUGHS)
+
+1054
+0:49:4.714 --> 0:49:7.015
+Tôi không biết. Chúng ta sẽ thấy
+nếu chúng ta quay lại.
+
+1055
+0:49:7.017 --> 0:49:8.116
+Hãy đi xuống đó, yeah.
+
+1056
+0:49:8.118 --> 0:49:10.118
+Sau đó, chúng tôi sẽ biết chúng tôi đã thực hiện nó.
+
+1057
+0:49:10.120 --> 0:49:13.154
+- Và một lần nữa, một, hai, ba.
+- (NHẤP CHUỘT MÁY ẢNH)
+
+1058
+0:49:13.156 --> 0:49:14.321
+Ồ, vâng, điều đó tốt.
+Bạn nghĩ gì?
+
+1059
+0:49:14.323 --> 0:49:15.857
+Chờ đã, bạn nghĩ gì?
+
+1060
+0:49:15.859 --> 0:49:17.292
+Ồ, vâng, bạn đã bị bắn.
+Bạn hiểu rồi, bạn hiểu rồi.
+
+1061
+0:49:17.294 --> 0:49:18.726
+Chúng tôi phải đăng bài đó cho chắc chắn.
+
+1062
+0:49:18.728 --> 0:49:21.297
+Đây là nó, em bé.
+Đài phun nước Trevi.
+
+1063
+0:49:23.098 --> 0:49:24.567
+SPENCER: Đừng ngã.
+
+1064
+0:49:28.305 --> 0:49:29.770
+Hãy chụp ảnh tự sướng
+hoặc một cái gì đó thật nhanh.
+
+1065
+0:49:29.772 --> 0:49:32.741
+Bạn biết đấy, chúng ta phải nắm bắt
+khoảnh khắc này. Bạn cảm thấy tôi?
+
+1066
+0:49:32.743 --> 0:49:35.413
+- (NHẤP CHUỘT MÁY ẢNH)
+- Chạy lên cầu thang.
+
+1067
+0:49:37.781 --> 0:49:39.281
+SPENCER: Ah, bạn chậm.
+
+1068
+0:49:39.283 --> 0:49:40.614
+ANTHONY: Đó phải là nơi
+Giáo hoàng sống, bạn biết không?
+
+1069
+0:49:40.616 --> 0:49:42.350
+- Tôi thậm chí không biết.
+- (NHẤP CHUỘT MÁY ẢNH)
+
+1070
+0:49:42.352 --> 0:49:44.886
+Đó có phải là Vatican không?
+Đó là gì?
+
+1071
+0:49:44.888 --> 0:49:46.620
+SPENCER: Nếu bạn đang đứng
+ngay chỗ này,
+
+1072
+0:49:46.622 --> 0:49:49.156
+bạn đang trực tiếp ở trung tâm
+của tất cả các cột này.
+
+1073
+0:49:49.158 --> 0:49:50.725
+Chờ đã, tôi phải lấy
+một bức tranh về điều đó.
+
+1074
+0:49:50.727 --> 0:49:52.762
+- (NHẤP CHUỘT MÁY ẢNH)
+- SPENCER: Thật điên rồ.
+
+1075
+0:49:56.466 --> 0:49:57.535
+Wow.
+
+1076
+0:50:5.042 --> 0:50:6.574
+Đang cố gắng quay trở lại?
+
+1077
+0:50:6.576 --> 0:50:8.844
+Ừ. Hãy quay lại
+đến ký túc xá.
+
+1078
+0:50:8.846 --> 0:50:10.212
+Đó là một ngày tốt.
+
+1079
+0:50:10.214 --> 0:50:12.183
+Vâng, chúng ta hãy sẵn sàng
+cho chuyến tham quan đó.
+
+1080
+0:50:15.852 --> 0:50:17.120
+Đồng cỏ!
+
+1081
+0:50:17.687 --> 0:50:19.321
+LEA: Alek? Chào!
+
+1082
+0:50:19.323 --> 0:50:21.525
+- ALEK: Này, chuyện gì vậy?
+- Nhay vao.
+
+1083
+0:50:26.963 --> 0:50:28.328
+- Thật tôt khi thây bạn.
+- Chào!
+
+1084
+0:50:28.330 --> 0:50:30.698
+Chào mừng đến với nước đức.
+
+1085
+0:50:30.700 --> 0:50:31.833
+Cảm ơn bạn.
+
+1086
+0:50:31.835 --> 0:50:33.303
+Đi nào.
+
+1087
+0:50:41.812 --> 0:50:45.013
+ANTHONY: Yo,
+cái này là không thật.
+
+1088
+0:50:45.015 --> 0:50:47.114
+SPENCER: Tôi đang nói.
+
+1089
+0:50:47.116 --> 0:50:49.185
+(CHỈ CHẾ BIẾN)
+
+1090
+0:50:49.752 --> 0:50:50.754
+(TUYỆT VỜI ANTHONY)
+
+1091
+0:50:52.288 --> 0:50:54.624
+Đó là lý do tại sao họ gọi nó
+backpacking, bro.
+
+1092
+0:50:58.194 --> 0:51:0.462
+Chúng ta có thể vui lòng
+đến nhà trọ,
+
+1093
+0:51:0.464 --> 0:51:2.330
+trước khi tôi ném cái túi chết tiệt này
+trong kênh?
+
+1094
+0:51:2.332 --> 0:51:4.299
+Hoặc tôi ném ass của bạn trong đầu tiên.
+
+1095
+0:51:4.301 --> 0:51:5.500
+Này, bạn là người gần như
+
+1096
+0:51:5.502 --> 0:51:7.000
+chi phí cho chúng tôi chuyến đi
+Vào đêm đầu tiên.
+
+1097
+0:51:7.002 --> 0:51:8.236
+Vâng, bây giờ tôi là anh chàng
+
+1098
+0:51:8.238 --> 0:51:9.972
+đi du lịch ở châu Âu
+trên một mắt cá chân bị gãy.
+
+1099
+0:51:9.974 --> 0:51:11.440
+ANTHONY: Dù sao đi nữa.
+
+1100
+0:51:11.442 --> 0:51:13.241
+Chúng ta cần nắm bắt một trong những
+taxi hoặc bất cứ điều gì.
+
+1101
+0:51:13.243 --> 0:51:15.377
+Những chiếc thuyền này hay gì đó.
+
+1102
+0:51:15.379 --> 0:51:16.877
+Đây có phải là nơi chúng ta tiếp tục,
+ngay chỗ này?
+
+1103
+0:51:16.879 --> 0:51:18.245
+SPENCER: Vâng, tôi nghĩ vậy.
+
+1104
+0:51:18.247 --> 0:51:19.413
+ANTHONY: Bạn có chắc không?
+Bạn có biết không?
+
+1105
+0:51:19.415 --> 0:51:20.950
+SPENCER: Tôi không
+thậm chí biết, người đàn ông.
+
+1106
+0:51:20.952 --> 0:51:22.586
+Hãy tìm hiểu nó.
+
+1107
+0:51:24.020 --> 0:51:25.219
+- Xin chào.
+- WAITRESS: Xin chào.
+
+1108
+0:51:25.221 --> 0:51:27.154
+Xin chào.
+
+1109
+0:51:27.156 --> 0:51:28.223
+ALEK: Bạn có thấy
+những bánh quy?
+
+1110
+0:51:28.225 --> 0:51:29.591
+Ôi chúa ơi. Họ trông rất tuyệt.
+
+1111
+0:51:29.593 --> 0:51:31.192
+LEA: Vâng.
+
+1112
+0:51:31.194 --> 0:51:32.826
+Vì vậy, nó là tất cả mọi thứ
+bạn đã mơ?
+
+1113
+0:51:32.828 --> 0:51:35.565
+Ồ, vâng, tuyệt đối.
+Thật đáng kinh ngạc.
+
+1114
+0:51:36.567 --> 0:51:38.466
+LEA: Bạn có biết
+cái bàn nào của anh ta?
+
+1115
+0:51:38.468 --> 0:51:40.634
+Ah, tôi không chắc chắn
+nếu anh ta có bàn,
+
+1116
+0:51:40.636 --> 0:51:42.170
+nhưng nếu tôi biết
+Nick của tôi ...
+
+1117
+0:51:42.172 --> 0:51:43.404
+- Ừ.
+- Có lẽ sẽ có
+
+1118
+0:51:43.406 --> 0:51:45.306
+- ngồi ngay đó. Ừ.
+- Đuợc.
+
+1119
+0:51:45.308 --> 0:51:46.643
+- Chúng ta chứ?
+- Ừ.
+
+1120
+0:51:51.348 --> 0:51:52.681
+Nó đẹp.
+
+1121
+0:51:52.683 --> 0:51:54.181
+Ừ.
+
+1122
+0:51:54.183 --> 0:51:56.286
+(BOTH SPEAKING GERMAN)
+
+1123
+0:51:59.455 --> 0:52:0.821
+ALEK: Bạn đã nhận được gì?
+
+1124
+0:52:0.823 --> 0:52:2.991
+- Hai chai bia.
+- Oh tuyệt vời. Tuyệt quá.
+
+1125
+0:52:2.993 --> 0:52:4.359
+Đuợc.
+
+1126
+0:52:4.361 --> 0:52:6.794
+Vì vậy, bạn sẽ không đi
+kể cho tôi nghe câu chuyện?
+
+1127
+0:52:6.796 --> 0:52:8.897
+À, vâng, nó không thực sự
+nhiều câu chuyện.
+
+1128
+0:52:8.899 --> 0:52:9.932
+LEA: Silly.
+
+1129
+0:52:9.934 --> 0:52:11.699
+Cha tôi nói
+mỗi người có một câu chuyện
+
+1130
+0:52:11.701 --> 0:52:13.500
+và đó là nghĩa vụ của chúng tôi để nói với nó.
+
+1131
+0:52:13.502 --> 0:52:15.837
+Vâng, tất cả những gì tôi biết chắc chắn
+đó là về
+
+1132
+0:52:15.839 --> 0:52:19.239
+sáu mươi hai năm trước,
+ông nội của tôi ngồi ngay tại đây.
+
+1133
+0:52:19.241 --> 0:52:20.574
+- Cảm ơn bạn.
+- Cảm ơn bạn.
+
+1134
+0:52:20.576 --> 0:52:21.808
+Ông nội tôi ngồi ngay đây
+
+1135
+0:52:21.810 --> 0:52:23.344
+và được tổ chức
+nhận được sọc của mình.
+
+1136
+0:52:23.346 --> 0:52:25.446
+- Trở thành một trung sĩ?
+- Ừ.
+
+1137
+0:52:25.448 --> 0:52:27.082
+Trong quân Đức?
+
+1138
+0:52:27.084 --> 0:52:28.650
+Số Uh, người Mỹ.
+Anh ta, uh ...
+
+1139
+0:52:28.652 --> 0:52:30.384
+Anh ta lớn lên ở New York,
+
+1140
+0:52:30.386 --> 0:52:32.422
+và anh ta đã đóng quân ở đây
+trong suốt thế chiến II.
+
+1141
+0:52:33.189 --> 0:52:35.489
+Được rồi, vậy, đây rồi.
+
+1142
+0:52:35.491 --> 0:52:37.658
+Theo bước chân của anh ta.
+
+1143
+0:52:37.660 --> 0:52:40.495
+Ừ. Tôi đoán vậy, theo một cách nào đó.
+
+1144
+0:52:40.497 --> 0:52:42.496
+Tôi rất vui khi bạn ở đây.
+
+1145
+0:52:42.498 --> 0:52:44.000
+- Chúc mừng.
+- Chúc mừng.
+
+1146
+0:52:52.609 --> 0:52:54.408
+Wow, nhìn vào cái nhìn đó.
+
+1147
+0:52:54.410 --> 0:52:56.076
+Người đàn ông, tôi đã không thể
+để có được một bức tranh đẹp
+
+1148
+0:52:56.078 --> 0:52:57.245
+toàn bộ thời gian này
+chúng tôi đã ở đây.
+
+1149
+0:52:57.247 --> 0:52:58.578
+Bro, chỉ cần sử dụng gậy selfie của tôi.
+
+1150
+0:52:58.580 --> 0:52:59.848
+Bạn sẽ nhận được
+tất cả các nền trong nó quá.
+
+1151
+0:52:59.850 --> 0:53:1.281
+Tại sao bạn không dùng
+một hình ảnh của tôi?
+
+1152
+0:53:1.283 --> 0:53:3.116
+Trơi ơi không.
+Tôi mệt mỏi vì cái nóng này,
+
+1153
+0:53:3.118 --> 0:53:5.587
+và tám ngàn dặm
+bạn đã khiến chúng tôi đi bộ ngày hôm nay.
+
+1154
+0:53:5.589 --> 0:53:7.154
+Vâng, bro, tôi không phải về
+sử dụng gậy tự sướng,
+
+1155
+0:53:7.156 --> 0:53:9.089
+và dính ra nhiều hơn
+hơn chúng tôi đã có.
+
+1156
+0:53:9.091 --> 0:53:11.759
+Đúng. Vì điều đó sẽ khiến chúng ta
+dính thêm nữa.
+
+1157
+0:53:11.761 --> 0:53:12.931
+(ĐẶT MÁY ẢNH)
+
+1158
+0:53:17.567 --> 0:53:19.835
+Này, xin lỗi.
+Bạn có nói tiếng Anh không?
+
+1159
+0:53:19.837 --> 0:53:21.034
+Yeah tôi làm.
+
+1160
+0:53:21.036 --> 0:53:23.737
+Bạn có nghĩ là bạn có thể
+chụp một bức ảnh của tôi?
+
+1161
+0:53:23.739 --> 0:53:25.239
+Đừng hỏi.
+Bây giờ anh ta gắt gỏng.
+
+1162
+0:53:25.241 --> 0:53:28.009
+- Anh ấy không muốn làm điều đó.
+- (CHUCKLES) Được rồi. Ừ. Chắc chắn rồi.
+
+1163
+0:53:28.011 --> 0:53:29.013
+Mát mẻ. Cảm ơn bạn.
+
+1164
+0:53:30.681 --> 0:53:31.645
+Đuợc.
+
+1165
+0:53:31.647 --> 0:53:35.083
+- Một hai ba.
+- (NHẤP CHUỘT MÁY ẢNH)
+
+1166
+0:53:35.085 --> 0:53:37.351
+Oh. Đó là loại bóng tối.
+Bạn muốn kiểm tra nó?
+
+1167
+0:53:37.353 --> 0:53:38.954
+Tôi chắc là bạn đã hiểu rồi.
+Hảy để tôi thấy.
+
+1168
+0:53:38.956 --> 0:53:40.554
+Yeah, có vẻ ổn.
+Cảm ơn bạn.
+
+1169
+0:53:40.556 --> 0:53:41.857
+- Tôi đánh giá cao nó.
+- Yeah, tất nhiên rồi.
+
+1170
+0:53:41.859 --> 0:53:43.190
+Tôi là Spencer.
+
+1171
+0:53:43.192 --> 0:53:44.558
+- Lisa.
+- Rất vui được gặp anh, Lisa.
+
+1172
+0:53:44.560 --> 0:53:45.859
+- Rất vui được gặp bạn.
+- Đây là Anthony.
+
+1173
+0:53:45.861 --> 0:53:48.462
+Anh tragically không thể đứng lên
+ngay bây giờ.
+
+1174
+0:53:48.464 --> 0:53:50.531
+- Làm thế nào bạn làm?
+- Rất vui được gặp bạn.
+
+1175
+0:53:50.533 --> 0:53:52.500
+SPENCER: Vì vậy, những gì
+bạn có đến không
+
+1176
+0:53:52.502 --> 0:53:55.101
+Ngày đầu tiên trong thành phố.
+Chỉ cần tham gia một chuyến đi xung quanh.
+
+1177
+0:53:55.103 --> 0:53:56.304
+SPENCER: Tốt. Chúng tôi cũng vậy.
+
+1178
+0:53:56.306 --> 0:53:57.538
+Chúng ta sẽ đi qua
+đến Quảng trường San Marco.
+
+1179
+0:53:57.540 --> 0:53:59.841
+- Bạn muốn đi với chúng tôi?
+- Ừ. Chắc chắn rồi.
+
+1180
+0:53:59.843 --> 0:54:1.308
+Ừ. Được rồi, thôi nào.
+Ngồi xuống đi.
+
+1181
+0:54:1.310 --> 0:54:2.513
+Đuợc.
+
+1182
+0:54:3.379 --> 0:54:4.712
+Cảm ơn.
+
+1183
+0:54:4.714 --> 0:54:7.248
+- Vậy bạn đến từ đâu?
+- Uh, LA.
+
+1184
+0:54:7.250 --> 0:54:8.482
+Oh, đẹp quá. Yeah,
+
+1185
+0:54:8.484 --> 0:54:10.051
+- chúng ta đến từ Sacramento.
+- Ôi trời.
+
+1186
+0:54:10.053 --> 0:54:11.351
+Ba đứa trẻ ở California?
+Cơ hội là gì?
+
+1187
+0:54:11.353 --> 0:54:12.487
+Nghiêm túc.
+
+1188
+0:54:12.489 --> 0:54:14.154
+- Thế giới nhỏ bé.
+- Vâng, tôi biết.
+
+1189
+0:54:14.156 --> 0:54:15.390
+Các bạn, nói những gì bạn muốn,
+
+1190
+0:54:15.392 --> 0:54:16.891
+nhưng chúng ta không thể lãng phí
+Cơ hội này.
+
+1191
+0:54:16.893 --> 0:54:18.759
+- Nghe này, chúng ta phải tự sướng.
+- Nó khá là tuyệt đẹp.
+
+1192
+0:54:18.761 --> 0:54:20.361
+- Đúng vậy.
+- Được rồi.
+
+1193
+0:54:20.363 --> 0:54:21.998
+Chúng ta hãy vào trong nó.
+
+1194
+0:54:24.500 --> 0:54:25.632
+(NHẤP CHUỘT MÁY ẢNH)
+
+1195
+0:54:25.634 --> 0:54:28.036
+- ANTHONY: Ah.
+- (LISA LAUGHS)
+
+1196
+0:54:28.038 --> 0:54:29.837
+ANTHONY: Hãy kiểm tra xem.
+LISA: Điều đó khá tốt.
+
+1197
+0:54:29.839 --> 0:54:31.004
+SPENCER: Tôi phải
+đưa nó cho bạn, người đàn ông.
+
+1198
+0:54:31.006 --> 0:54:32.373
+Thanh chụp ảnh tự sướng
+là nơi nó ở.
+
+1199
+0:54:32.375 --> 0:54:33.643
+ANTHONY: Tôi đã nói với bạn.
+Xem. Nhìn.
+
+1200
+0:54:34.310 --> 0:54:36.412
+Đó là xứng đáng với Instagram.
+
+1201
+0:54:37.848 --> 0:54:38.917
+(ĐUA CHU BELLI)
+
+1202
+0:54:44.821 --> 0:54:46.388
+ANTHONY: Chúng ta phải
+lấy gelato.
+
+1203
+0:54:46.390 --> 0:54:47.821
+Ah, điều này có vẻ tuyệt vời.
+
+1204
+0:54:47.823 --> 0:54:50.658
+- MAN: <i> Buongiorno! </ I>
+- (TẤT CẢ TRẢ LỜI TRÊN Ý)
+
+1205
+0:54:50.660 --> 0:54:52.192
+LISA: Ồ, tôi yêu
+một con chip bạc hà tốt.
+
+1206
+0:54:52.194 --> 0:54:53.995
+SPENCER: Ồ, chúa ơi.
+Tôi cần điều này ngay bây giờ.
+
+1207
+0:54:53.997 --> 0:54:55.596
+Tôi có thể thử trái cây hoang dã,
+xin vui lòng?
+
+1208
+0:54:55.598 --> 0:54:57.600
+- Trái cây hoang dã?
+- ANTHONY: Vâng.
+
+1209
+0:54:59.803 --> 0:55:1.169
+SPENCER: Bạn đang nhận được gì?
+
+1210
+0:55:1.171 --> 0:55:3.071
+Tôi có thể lấy bạc hà được không
+chocolate chip, làm ơn?
+
+1211
+0:55:3.073 --> 0:55:4.138
+Sô cô la bạc hà cho bạn?
+
+1212
+0:55:4.140 --> 0:55:5.505
+- Vâng làm ơn.
+- Điều đó có vẻ tốt.
+
+1213
+0:55:5.507 --> 0:55:6.975
+LISA: Cái nào
+bạn sẽ nhận được?
+
+1214
+0:55:6.977 --> 0:55:9.576
+SPENCER: Hãy suy nghĩ tôi có thể nhận được
+quả phỉ ngay tại đó.
+
+1215
+0:55:9.578 --> 0:55:11.145
+ANTHONY: <i> Grazie. </ I>
+
+1216
+0:55:11.147 --> 0:55:13.547
+SPENCER: Và sau đó tôi có thể nhận được
+quả phỉ?
+
+1217
+0:55:13.549 --> 0:55:15.216
+Và quả phỉ cho bạn.
+
+1218
+0:55:15.218 --> 0:55:16.984
+Điều trị của tôi, guys. Tôi mời.
+
+1219
+0:55:16.986 --> 0:55:18.954
+Thật tuyệt vời, các bạn.
+
+1220
+0:55:18.956 --> 0:55:20.520
+LISA: Ôi, Chúa ơi.
+
+1221
+0:55:20.522 --> 0:55:22.024
+SPENCER: Nó tốt?
+LISA: Mmm-hmm.
+
+1222
+0:55:23.359 --> 0:55:25.158
+MAN: Phải là tốt.
+
+1223
+0:55:25.160 --> 0:55:26.929
+Đó là tốt nhất trong thị trấn.
+
+1224
+0:55:26.931 --> 0:55:27.930
+Cảm ơn bạn.
+
+1225
+0:55:27.932 --> 0:55:29.596
+- Cảm ơn bạn.
+- Cảm ơn ngài.
+
+1226
+0:55:29.598 --> 0:55:30.969
+Cảm ơn bạn. Tạm biệt.
+
+1227
+0:55:31.500 --> 0:55:32.970
+Cảm ơn bạn.
+
+1228
+0:55:34.938 --> 0:55:37.239
+LISA: Ooh, nơi này
+quá tối.
+
+1229
+0:55:37.241 --> 0:55:39.306
+Ồ, tôi khá chắc chắn
+bạn không được phép
+
+1230
+0:55:39.308 --> 0:55:40.875
+chụp ảnh ở đây,
+Anthony.
+
+1231
+0:55:40.877 --> 0:55:43.176
+SPENCER: Vâng, bây giờ bạn có thể
+cuối cùng đưa cây gậy đó đi.
+
+1232
+0:55:43.178 --> 0:55:44.679
+(LISA CHUCKLES)
+
+1233
+0:55:44.681 --> 0:55:46.681
+ANTHONY: Whoa, các bạn.
+Chờ chút.
+
+1234
+0:55:46.683 --> 0:55:48.082
+SPENCER: Wow. Thực sự, bro?
+
+1235
+0:55:48.084 --> 0:55:49.549
+LISA: Tôi nghĩ đó là
+khá buồn cười. (LAUGHS)
+
+1236
+0:55:49.551 --> 0:55:51.051
+(NHẤP CHUỘT MÁY ẢNH)
+
+1237
+0:55:51.053 --> 0:55:52.987
+SPENCER: Người đàn ông, bạn không thấy
+những thứ như thế này về nhà.
+
+1238
+0:55:52.989 --> 0:55:54.388
+- (NHẤP CHUỘT MÁY ẢNH)
+- ANTHONY: Điều đó chắc chắn.
+
+1239
+0:55:54.390 --> 0:55:55.489
+Điều này thực sự trông thật tuyệt
+
+1240
+0:55:55.491 --> 0:55:56.857
+ở phía trước thủ đô,
+Tuy nhiên.
+
+1241
+0:55:56.859 --> 0:55:58.460
+LISA: Vậy các bạn muốn
+đi lấy thức ăn bây giờ?
+
+1242
+0:55:58.462 --> 0:55:59.861
+SPENCER: Vâng, tôi đang đói.
+
+1243
+0:55:59.863 --> 0:56:1.594
+ANTHONY: Bạn có đói không
+như một con ngựa có thể?
+
+1244
+0:56:1.596 --> 0:56:3.832
+(LISA CHUCKLES)
+
+1245
+0:56:3.834 --> 0:56:6.703
+- ANTHONY: Ooh!
+- (CHUCKLES) Có vẻ tốt.
+
+1246
+0:56:13.276 --> 0:56:15.143
+SPENCER: Vậy bạn nghĩ gì
+kế hoạch của chúng tôi cho đến nay?
+
+1247
+0:56:15.145 --> 0:56:16.478
+Bạn nghĩ chúng ta sẽ
+thấy đủ?
+
+1248
+0:56:16.480 --> 0:56:17.812
+Bạn là thế giới
+du khách ở đây.
+
+1249
+0:56:17.814 --> 0:56:20.080
+Ừ. Tôi nghĩ
+tất cả đều nghe khá hay.
+
+1250
+0:56:20.082 --> 0:56:21.582
+(CẢ NÓI Ý)
+
+1251
+0:56:21.584 --> 0:56:23.116
+Ngoại trừ Paris.
+
+1252
+0:56:23.118 --> 0:56:24.819
+Làm thế nào mà? Bạn không có,
+như, thời gian tốt nhất ở đó?
+
+1253
+0:56:24.821 --> 0:56:27.923
+Ah, Paris ổn với tôi.
+Nhưng tôi không biết.
+
+1254
+0:56:27.925 --> 0:56:30.192
+Có lẽ các bạn sẽ có
+một trải nghiệm khác.
+
+1255
+0:56:30.194 --> 0:56:31.725
+Điều đó thật sự buồn cười
+Bạn đã nói rằng.
+
+1256
+0:56:31.727 --> 0:56:33.228
+Chúng tôi giống như tranh luận
+chúng ta có nên
+
+1257
+0:56:33.230 --> 0:56:34.495
+phù hợp với chuyến đi của chúng tôi hay không.
+
+1258
+0:56:34.497 --> 0:56:37.297
+- Ừ.
+- Bạn nghĩ sao?
+
+1259
+0:56:37.299 --> 0:56:39.600
+Ý tôi là, tôi muốn xem nó.
+Tôi nghĩ chúng ta nên, bạn biết không?
+
+1260
+0:56:39.602 --> 0:56:41.002
+Hãy trải nghiệm nó
+cho chính chúng ta.
+
+1261
+0:56:41.004 --> 0:56:43.337
+Có thể là tốt.
+Trong khi chúng tôi ở đây, bạn biết đấy.
+
+1262
+0:56:43.339 --> 0:56:46.373
+Nhưng hôm nay, chúng ta có Venice.
+
+1263
+0:56:46.375 --> 0:56:47.741
+- Điều đó đúng.
+- Điều đó đúng.
+
+1264
+0:56:47.743 --> 0:56:49.479
+TẤT CẢ: <i> Chào! </ I>
+
+1265
+0:56:53.549 --> 0:56:55.650
+- Tốt quá.
+- Ừ.
+
+1266
+0:56:55.652 --> 0:56:57.551
+SPENCER: Các bạn là gì
+sẽ nhận được?
+
+1267
+0:56:57.553 --> 0:56:58.921
+- ANTHONY: Pizza! Pizza!
+- Pizza.
+
+1268
+0:56:58.923 --> 0:56:59.786
+Pizza!
+
+1269
+0:56:59.788 --> 0:57:0.888
+ANTHONY: Khiến tất cả hôm nay.
+
+1270
+0:57:0.890 --> 0:57:3.156
+- Tôi biết.
+- Tôi biết. Cho thật.
+
+1271
+0:57:3.158 --> 0:57:5.027
+(ĐUA CHU BELLI)
+
+1272
+0:57:6.931 --> 0:57:8.965
+Wow, quan điểm này thật tuyệt vời.
+
+1273
+0:57:8.967 --> 0:57:10.464
+Ừ, thật tuyệt.
+
+1274
+0:57:10.466 --> 0:57:12.035
+Không, tôi ổn.
+
+1275
+0:57:13.335 --> 0:57:16.870
+Thật là điên rồ. Bạn có thể thấy
+toàn thành phố từ đây.
+
+1276
+0:57:16.872 --> 0:57:18.641
+SPENCER: Vâng, con người.
+
+1277
+0:57:21.877 --> 0:57:23.643
+Tôi cảm thấy như tất cả chúng tôi
+đang đi du lịch.
+
+1278
+0:57:23.645 --> 0:57:26.413
+Chúng tôi có thể cần phải thích, làm chậm nó
+xuống một chút, bạn biết không?
+
+1279
+0:57:26.415 --> 0:57:27.982
+Anthony, anh bạn, anh chậm ...
+
+1280
+0:57:27.984 --> 0:57:30.952
+... xuống, bạn chết. Tôi biết.
+Tuyệt.
+
+1281
+0:57:30.954 --> 0:57:33.189
+Có lẽ đây chỉ là, như,
+một chút khác biệt, mặc dù.
+
+1282
+0:57:34.189 --> 0:57:35.257
+Ừ, tôi không biết, anh bạn.
+
+1283
+0:57:35.259 --> 0:57:36.623
+Bạn đã từng cảm thấy như
+Cuộc sông là sự công bằng
+
+1284
+0:57:36.625 --> 0:57:38.158
+phóng bạn
+hướng tới một cái gì đó?
+
+1285
+0:57:38.160 --> 0:57:40.029
+Một số mục đích lớn hơn?
+
+1286
+0:57:41.497 --> 0:57:42.930
+Bạn chắc chắn
+đó chỉ là một điếu thuốc?
+
+1287
+0:57:42.932 --> 0:57:45.466
+Nếu không,
+Tôi có thể cần phải nhấn nó.
+
+1288
+0:57:45.468 --> 0:57:47.534
+(CHUCKLING)
+
+1289
+0:57:47.536 --> 0:57:49.203
+Không, anh bạn, tôi nghiêm túc. Như...
+
+1290
+0:57:49.205 --> 0:57:51.404
+Đôi khi, tôi thậm chí không cảm thấy
+như tôi có một sự lựa chọn, bạn biết đấy.
+
+1291
+0:57:51.406 --> 0:57:53.674
+Giống như cuộc sống đang đẩy chúng ta
+hướng tới một cái gì đó.
+
+1292
+0:57:53.676 --> 0:57:55.009
+Có lẽ nó, như,
+cuộc sống có nghĩa là
+
+1293
+0:57:55.011 --> 0:57:57.879
+làm chậm chúng tôi đôi khi,
+bạn biết đấy
+
+1294
+0:57:57.881 --> 0:58:1.149
+SPENCER: Vâng, tốt,
+không phải hôm nay, bạn tôi.
+
+1295
+0:58:1.151 --> 0:58:3.350
+Chúng ta phải dậy sớm
+cho Berlin vào ngày mai.
+
+1296
+0:58:3.352 --> 0:58:5.252
+Cứu hộ Alek
+từ sinh viên trao đổi đó.
+
+1297
+0:58:5.254 --> 0:58:8.123
+Ugh. Bạn đúng.
+Tiếp theo, tôi đoán là vậy.
+
+1298
+0:58:8.125 --> 0:58:9.925
+- SPENCER: Vâng.
+- Tôi khá mệt mỏi.
+
+1299
+0:58:9.927 --> 0:58:11.625
+Đó là một ngày dài.
+
+1300
+0:58:11.627 --> 0:58:12.963
+HƯỚNG DẪN DU LỊCH: Hầu như ở đó.
+
+1301
+0:58:13.932 --> 0:58:15.065
+Cách này.
+
+1302
+0:58:19.736 --> 0:58:21.571
+Theo kịp. (NÓI TIẾNG ĐỨC)
+
+1303
+0:58:28.844 --> 0:58:30.949
+(BẰNG TIẾNG ANH)
+Tất cả cùng nhau theo cách này.
+
+1304
+0:58:37.687 --> 0:58:40.321
+Và bây giờ bạn thấy
+đây là một trang rất quan trọng.
+
+1305
+0:58:40.323 --> 0:58:42.288
+Đây là Fuhrerbunker.
+
+1306
+0:58:42.290 --> 0:58:44.558
+Đây là một trong những
+trang web quan trọng
+
+1307
+0:58:44.560 --> 0:58:46.092
+trong lịch sử của chúng ta,
+
+1308
+0:58:46.094 --> 0:58:48.897
+và nó là một trong những, có lẽ,
+các trang web được nghiên cứu ít hơn.
+
+1309
+0:58:48.899 --> 0:58:52.065
+Đây là nơi Hitler
+tự sát,
+
+1310
+0:58:52.067 --> 0:58:53.366
+như lực lượng Nga
+đã đóng cửa.
+
+1311
+0:58:53.368 --> 0:58:54.701
+Đợi đã, thật không?
+
+1312
+0:58:54.703 --> 0:58:55.768
+(NÓI TIẾNG ĐỨC)
+
+1313
+0:58:55.770 --> 0:58:57.138
+ANTHONY: Nhưng tôi nghĩ
+
+1314
+0:58:57.140 --> 0:58:58.540
+Hitler tự sát
+trong Eagle's Nest,
+
+1315
+0:58:58.542 --> 0:59:0.408
+với lực lượng Mỹ
+đóng cửa.
+
+1316
+0:59:0.410 --> 0:59:3.411
+HƯỚNG DẪN TOUR: Không, người Mỹ của bạn
+sách giáo khoa sai
+
+1317
+0:59:3.413 --> 0:59:6.047
+khoảng 700 km.
+
+1318
+0:59:6.049 --> 0:59:7.949
+Kehlsteinhaus
+nằm ở phía nam
+
+1319
+0:59:7.951 --> 0:59:9.952
+và Hitler đã ở đây
+với vợ, Eva,
+
+1320
+0:59:9.954 --> 0:59:11.954
+và đó là người Nga
+người đã đóng cửa.
+
+1321
+0:59:11.956 --> 0:59:13.721
+Bạn người Mỹ
+không thể nhận tín dụng
+
+1322
+0:59:13.723 --> 0:59:16.656
+mỗi lần
+tà ác bị đánh bại. <i> Ja? </ i>
+
+1323
+0:59:16.658 --> 0:59:18.761
+- (WOMAN LAUGHS)
+- (LAUGHING)
+
+1324
+0:59:20.096 --> 0:59:21.632
+Chúng tôi đi.
+
+1325
+0:59:22.131 --> 0:59:23.366
+Cách này.
+
+1326
+0:59:25.000 --> 0:59:28.368
+(CA HÁT)
+♪ ♪ Mùa xuân cho Hitler </ i>
+
+1327
+0:59:28.370 --> 0:59:30.471
+<i> ♪ Và Đức ♪ </ i>
+
+1328
+0:59:30.473 --> 0:59:32.406
+Trái.
+
+1329
+0:59:32.408 --> 0:59:33.674
+Này, tôi chuẩn bị đi kiểm tra
+
+1330
+0:59:33.676 --> 0:59:35.042
+email của tôi hoặc một cái gì đó.
+Nhắn tin cho bố tôi.
+
+1331
+0:59:35.044 --> 0:59:36.310
+Được rồi. Tôi sẽ đi thôi
+Lấy một ly.
+
+1332
+0:59:36.312 --> 0:59:37.444
+Tôi sẽ trở lại, như,
+một chút.
+
+1333
+0:59:37.446 --> 0:59:38.679
+Được rồi, nghe hay đấy.
+
+1334
+0:59:38.681 --> 0:59:39.962
+(CHỈ ĐỊNH CHATTER
+VÀ CƯỜI)
+
+1335
+0:59:44.219 --> 0:59:45.786
+- Chào, bạn thế nào?
+- <i> Hallo. </ i>
+
+1336
+0:59:45.788 --> 0:59:47.254
+Tôi có thể lấy một pint được không?
+
+1337
+0:59:47.256 --> 0:59:49.824
+- (NÓI TIẾNG ĐỨC)
+- Stein. Bia.
+
+1338
+0:59:49.826 --> 0:59:51.695
+- <i> Ja. </ i>
+- Cảm ơn bạn.
+
+1339
+0:59:54.797 --> 0:59:56.029
+Vậy bạn nghĩ như thế nào
+về nước Pháp?
+
+1340
+0:59:56.031 --> 0:59:57.531
+Bạn có nghĩ rằng nó có giá trị không?
+
+1341
+0:59:57.533 --> 0:59:59.266
+(NÓI TIẾNG ĐỨC)
+
+1342
+0:59:59.268 --> 1:60:0.734
+- Uh ...
+- Um ...
+
+1343
+1:60:0.736 --> 1:60:1.936
+(BẰNG TIẾNG ANH)
+Bạn đến từ đâu?
+
+1344
+1:60:1.938 --> 1:60:4.004
+Ồ, uh, California.
+Sacramento.
+
+1345
+1:60:4.006 --> 1:60:6.440
+Tuyệt vời. California.
+
+1346
+1:60:6.442 --> 1:60:9.210
+Một ly bia cho tôi.
+Bạn đang đi đâu tiếp theo?
+
+1347
+1:60:9.212 --> 1:60:11.045
+À, chúng ta sẽ đi Pháp,
+
+1348
+1:60:11.047 --> 1:60:12.846
+và sau đó tôi nghĩ chúng ta sẽ
+kết thúc chuyến đi của chúng tôi ở Tây Ban Nha.
+
+1349
+1:60:12.848 --> 1:60:14.382
+Và Amsterdam?
+
+1350
+1:60:14.384 --> 1:60:15.449
+Ah, chúng tôi đã nghĩ về nó.
+
+1351
+1:60:15.451 --> 1:60:16.717
+Tôi không nghĩ chúng ta sẽ
+có đủ thời gian.
+
+1352
+1:60:16.719 --> 1:60:18.920
+Oh, dành thời gian cho Amsterdam.
+
+1353
+1:60:18.922 --> 1:60:20.855
+Tôi vừa trở về từ đó
+với ban nhạc của tôi.
+
+1354
+1:60:20.857 --> 1:60:22.156
+Xin lỗi.
+
+1355
+1:60:22.158 --> 1:60:25.158
+Và tôi nói với bạn,
+Một trong những điều yêu thích của tôi
+
+1356
+1:60:25.160 --> 1:60:27.196
+để làm khi chúng ta lên đó.
+
+1357
+1:60:27.763 --> 1:60:29.029
+Cái gì thế?
+
+1358
+1:60:29.031 --> 1:60:31.297
+- Tôi có vài cục nấm cục.
+- (BOTH LAUGH)
+
+1359
+1:60:31.299 --> 1:60:34.301
+Đi ra vùng nông thôn.
+Và bạn biết những gì tôi làm sau đó?
+
+1360
+1:60:34.303 --> 1:60:35.469
+Gì? Cái gì thế?
+
+1361
+1:60:35.471 --> 1:60:39.073
+Không có gì. Hoàn toàn không có gì.
+Tôi không làm gì cả.
+
+1362
+1:60:39.075 --> 1:60:42.943
+Tôi chỉ nhìn vào bản chất,
+chim, bài hát.
+
+1363
+1:60:42.945 --> 1:60:44.779
+Họ hát mọi thứ.
+
+1364
+1:60:44.781 --> 1:60:46.112
+Điều đó không có vẻ gì
+quá tệ với tôi.
+
+1365
+1:60:46.114 --> 1:60:47.515
+- Kết bạn?
+- Vâng, anh bạn. Đây là Anthony.
+
+1366
+1:60:47.517 --> 1:60:48.683
+Oh, xin chào. Bạn khỏe không?
+
+1367
+1:60:48.685 --> 1:60:50.051
+Làm thế nào bạn làm?
+Rất vui được gặp bạn.
+
+1368
+1:60:50.053 --> 1:60:51.851
+Anh ấy đang nói với tôi
+về Amsterdam.
+
+1369
+1:60:51.853 --> 1:60:53.219
+- Ồ, thật sao?
+- Ồ, Amsterdam.
+
+1370
+1:60:53.221 --> 1:60:55.390
+- ANTHONY: Những điều tốt?
+- Rất tốt.
+
+1371
+1:60:55.392 --> 1:60:57.125
+Nếu bạn không dùng
+tất cả thuốc tôi làm,
+
+1372
+1:60:57.127 --> 1:60:58.993
+Amsterdam thật tuyệt vời.
+
+1373
+1:60:58.995 --> 1:61:1.194
+Những người đẹp nhất
+trên thế giới.
+
+1374
+1:61:1.196 --> 1:61:2.562
+Đó là gì
+chúng tôi đã nghe.
+
+1375
+1:61:2.564 --> 1:61:5.098
+Và phụ nữ xinh đẹp, quá.
+
+1376
+1:61:5.100 --> 1:61:7.936
+- Đó là những gì chúng ta đang làm.
+- Chúng ta có thể phải đi xem.
+
+1377
+1:61:7.938 --> 1:61:9.236
+Chúng tôi chỉ có thể phải.
+
+1378
+1:61:9.238 --> 1:61:11.172
+Và lịch sử.
+Đừng quên lịch sử.
+
+1379
+1:61:11.174 --> 1:61:12.873
+Tất nhiên, lịch sử.
+
+1380
+1:61:12.875 --> 1:61:14.674
+Tất cả lịch sử
+là cần thiết cho cuộc sống.
+
+1381
+1:61:14.676 --> 1:61:15.943
+(TẤT CẢ NHAU)
+
+1382
+1:61:15.945 --> 1:61:17.277
+- Đến Amsterdam.
+- Đến Amsterdam.
+
+1383
+1:61:17.279 --> 1:61:18.846
+- Nó đã ổn định rồi.
+- Anh ta thuyết phục chúng tôi.
+
+1384
+1:61:18.848 --> 1:61:21.214
+Xong rôi. Cứ như thế.
+
+1385
+1:61:21.216 --> 1:61:23.484
+(UPBEAT MUSIC PLAYING
+ON SPEAKERS)
+
+1386
+1:61:23.486 --> 1:61:25.421
+(NHỮNG NGƯỜI NÀO BẮT BUỘC TRỰC TIẾP)
+
+1387
+1:61:43.872 --> 1:61:45.775
+(CHỈ CHẾ BIẾN)
+
+1388
+1:61:46.909 --> 1:61:49.544
+(DANCE MUSIC PLAYING)
+
+1389
+1:61:49.546 --> 1:61:52.547
+Tôi có thể nhận được hai Red Bull
+và vodka và một ly bia?
+
+1390
+1:61:52.549 --> 1:61:53.850
+Chắc chắn rồi.
+
+1391
+1:62:3.993 --> 1:62:6.395
+Alek, đây, một tay cho anh ấy.
+
+1392
+1:62:11.067 --> 1:62:12.901
+- Hey, nó khác, huh?
+- ALEK: Cái gì?
+
+1393
+1:62:12.903 --> 1:62:14.467
+Điều này. Khác với những gì
+bạn đã làm.
+
+1394
+1:62:14.469 --> 1:62:16.804
+Người đàn ông, đó là điều chết tiệt
+chúng tôi đã làm.
+
+1395
+1:62:16.806 --> 1:62:18.172
+Hãy nhớ sự nghịch đảo
+Du lịch, em bé?
+
+1396
+1:62:18.174 --> 1:62:19.272
+SPENCER: Này, thôi nào, bây giờ.
+
+1397
+1:62:19.274 --> 1:62:20.674
+Bạn biết
+Tôi không nhớ điều đó.
+
+1398
+1:62:20.676 --> 1:62:22.143
+ALEK: Cái này có thực sự không
+những gì các bạn đã từng
+
+1399
+1:62:22.145 --> 1:62:23.511
+làm toàn bộ thời gian này
+không có tôi?
+
+1400
+1:62:23.513 --> 1:62:25.013
+Phải, anh bạn.
+Bạn không vui khi bạn đến?
+
+1401
+1:62:25.015 --> 1:62:26.982
+Tôi thực sự là.
+
+1402
+1:63:5.956 --> 1:63:8.058
+- Ừ!
+- Mua cho em uống.
+
+1403
+1:63:25.408 --> 1:63:26.473
+Chào!
+
+1404
+1:63:26.475 --> 1:63:29.676
+- Chúc mừng! Chúc mừng!
+- Này, để tôi vào đó.
+
+1405
+1:63:29.678 --> 1:63:30.810
+Chúc mừng!
+
+1406
+1:63:30.812 --> 1:63:32.880
+(TẤT CẢ CHẠY)
+
+1407
+1:63:32.882 --> 1:63:35.585
+SPENCER: Này! Tôi là về
+để làm cho nó mưa!
+
+1408
+1:63:36.652 --> 1:63:38.085
+<i> Không dễ dàng chút nào. </ i>
+
+1409
+1:63:38.087 --> 1:63:40.156
+(HORNS HONKING TRONG DISTANCE)
+
+1410
+1:63:41.390 --> 1:63:42.558
+(GRENCER SPENCER)
+
+1411
+1:63:49.031 --> 1:63:52.366
+Các bạn, chúng ta cần đứng lên.
+Gần trưa.
+
+1412
+1:63:52.368 --> 1:63:53.435
+(GRO ANTHONY)
+
+1413
+1:63:56.806 --> 1:63:59.841
+SPENCER: Tôi cảm thấy khổ sở.
+
+1414
+1:63:59.843 --> 1:64:2.545
+ANTHONY: Đêm qua.
+Man, tối qua.
+
+1415
+1:64:5.314 --> 1:64:7.651
+Tôi vẫn không thể tin được
+Tôi đã nhận được trên cột vũ nữ thoát y đó.
+
+1416
+1:64:8.752 --> 1:64:10.585
+Vì vậy, hungover.
+
+1417
+1:64:10.587 --> 1:64:12.923
+Đi lấy thức ăn đi
+hay gì đó.
+
+1418
+1:64:13.855 --> 1:64:15.927
+(CHỈ CHẾ BIẾN)
+
+1419
+1:64:22.230 --> 1:64:24.130
+- Không không.
+- Không không.
+
+1420
+1:64:24.132 --> 1:64:25.502
+Không cám ơn. Chỉ cần nước.
+
+1421
+1:64:26.402 --> 1:64:29.370
+- Thêm nước làm ơn.
+- Đuợc.
+
+1422
+1:64:29.372 --> 1:64:31.939
+Man, đêm qua là điên.
+Sáng nay, mặc dù.
+
+1423
+1:64:31.941 --> 1:64:33.440
+- Đau đớn.
+- Đó là từ.
+
+1424
+1:64:33.442 --> 1:64:35.676
+- Chết tiệt. Ngay cả từ cũng ...
+- Đau đớn.
+
+1425
+1:64:35.678 --> 1:64:37.380
+Nó đây rồi.
+
+1426
+1:64:39.049 --> 1:64:40.748
+Các bạn, chúng ta cần nói chuyện
+về Paris, mặc dù.
+
+1427
+1:64:40.750 --> 1:64:42.649
+Ý tôi là, vào thời điểm này,
+tại sao lại rời Amsterdam?
+
+1428
+1:64:42.651 --> 1:64:44.284
+Đó là đêm tuyệt vời nhất của chúng tôi.
+Bạn không nghĩ sao?
+
+1429
+1:64:44.286 --> 1:64:45.618
+Ừ. Không phải các bạn
+nói rằng
+
+1430
+1:64:45.620 --> 1:64:47.587
+mọi người bạn gặp phải
+chống Paris?
+
+1431
+1:64:47.589 --> 1:64:48.755
+Ý tôi là, tôi đoán vậy.
+
+1432
+1:64:48.757 --> 1:64:50.190
+Họ không có gì tốt
+nói về nó,
+
+1433
+1:64:50.192 --> 1:64:51.625
+chắc chắn rồi.
+
+1434
+1:64:51.627 --> 1:64:54.527
+Cảm ơn bạn. Hoặc <i> grazie, </ i>
+hoặc <i> danke. </ i>
+
+1435
+1:64:54.529 --> 1:64:55.963
+- Chỉ cần cảm ơn bạn, cảm ơn bạn.
+- Không có gì.
+
+1436
+1:64:55.965 --> 1:64:58.065
+Các bạn
+chỉ muốn bỏ qua Paris?
+
+1437
+1:64:58.067 --> 1:65:0.000
+Hoặc ít nhất là trì hoãn nó
+một chút.
+
+1438
+1:65:0.002 --> 1:65:2.002
+(SIGHS) Tôi đang đói.
+
+1439
+1:65:2.004 --> 1:65:3.471
+Có lẽ nó giống như
+bạn đã nói,
+
+1440
+1:65:3.473 --> 1:65:6.808
+cuộc sống của loại máy phóng bạn
+hướng tới một cái gì đó.
+
+1441
+1:65:6.810 --> 1:65:9.777
+Ngay bây giờ nó đang phóng tôi
+đối với một số thức ăn nôn nao.
+
+1442
+1:65:9.779 --> 1:65:10.978
+Đợi đã, bạn nói gì?
+
+1443
+1:65:10.980 --> 1:65:12.145
+Tôi không biết, anh bạn.
+
+1444
+1:65:12.147 --> 1:65:13.379
+Đó là một cái gì đó
+Tôi đã nói ở Venice.
+
+1445
+1:65:13.381 --> 1:65:14.614
+Tôi đã bị cuốn vào
+ở châu Âu cao đó.
+
+1446
+1:65:14.616 --> 1:65:16.016
+- Tôi sẽ không nói dối.
+- ANTHONY: Không, không.
+
+1447
+1:65:16.018 --> 1:65:17.150
+Bạn nên có
+nghe anh chàng này.
+
+1448
+1:65:17.152 --> 1:65:18.317
+Anh ấy đã nói
+về cuộc sống
+
+1449
+1:65:18.319 --> 1:65:19.752
+phóng cho anh ta
+về một cái gì đó,
+
+1450
+1:65:19.754 --> 1:65:21.654
+như một số mục đích lớn hơn
+hay đại loại thế.
+
+1451
+1:65:21.656 --> 1:65:24.591
+- Spencer nói vậy?
+- Tôi biết. Deep shit, phải không?
+
+1452
+1:65:24.593 --> 1:65:25.893
+Bạn vẫn nghĩ vậy sao?
+
+1453
+1:65:25.895 --> 1:65:27.127
+Ý tôi là, tôi đoán vậy.
+
+1454
+1:65:27.129 --> 1:65:28.828
+Nhưng không có gì thực sự
+ngăn chúng tôi lại.
+
+1455
+1:65:28.830 --> 1:65:30.297
+Nếu chúng ta không có ý
+để lên tàu vào ngày mai,
+
+1456
+1:65:30.299 --> 1:65:31.732
+một cái gì đó sẽ
+thể chất ngăn chúng ta.
+
+1457
+1:65:31.734 --> 1:65:33.500
+Một đối tượng đang chuyển động
+ở lại trong chuyển động,
+
+1458
+1:65:33.502 --> 1:65:35.703
+trừ khi hành động
+bởi một lực lượng lớn hơn.
+
+1459
+1:65:35.705 --> 1:65:36.905
+Được rồi, Isaac Newton.
+
+1460
+1:65:36.907 --> 1:65:38.438
+Tôi đang nói với bạn, người đàn ông,
+anh ta chìm sâu vào địa ngục
+
+1461
+1:65:38.440 --> 1:65:40.306
+trong chuyến đi này.
+Tôi thậm chí không thể đối phó với nó.
+
+1462
+1:65:40.308 --> 1:65:41.609
+Ý tôi là, mọi người đang nói với chúng tôi
+
+1463
+1:65:41.611 --> 1:65:43.143
+rằng người Pháp
+là vua của sự thô lỗ.
+
+1464
+1:65:43.145 --> 1:65:44.812
+Tôi sẽ không gọi chính xác
+một lực lượng lớn hơn.
+
+1465
+1:65:44.814 --> 1:65:46.812
+Thêm vào đó, chúng tôi đã mua
+vé tàu của chúng tôi, vì vậy ...
+
+1466
+1:65:46.814 --> 1:65:49.250
+Vì vậy, các bạn chỉ muốn dính
+kế hoạch ban đầu?
+
+1467
+1:65:49.252 --> 1:65:51.051
+Có thể là tốt.
+
+1468
+1:65:51.053 --> 1:65:53.373
+Tôi chỉ cần chụp ảnh tự sướng của mình với
+Tháp Eiffel và chúng tôi tốt.
+
+1469
+1:65:58.428 --> 1:66:0.497
+(PHỤ NỮ NÓI TRÊN PA)
+
+1470
+1:66:7.736 --> 1:66:10.036
+Này, bạn có thể, như,
+chụp một bức ảnh thẳng thắn về tôi
+
+1471
+1:66:10.038 --> 1:66:12.172
+và nhà ga xe lửa?
+
+1472
+1:66:12.174 --> 1:66:14.208
+Được rồi.
+Bạn nhận ra nó không thẳng thắn
+
+1473
+1:66:14.210 --> 1:66:15.641
+nếu bạn hỏi tôi
+mặc dù vậy, phải không?
+
+1474
+1:66:15.643 --> 1:66:17.109
+Chỉ cần đưa tôi từ phía bên
+hay đại loại thế.
+
+1475
+1:66:17.111 --> 1:66:18.781
+Được rồi.
+
+1476
+1:66:20.114 --> 1:66:21.181
+(NHẤP CHUỘT MÁY ẢNH)
+
+1477
+1:66:21.183 --> 1:66:22.819
+Được rồi, có bạn đi.
+
+1478
+1:66:24.352 --> 1:66:26.053
+Bạn chỉ chụp một bức ảnh.
+
+1479
+1:66:26.055 --> 1:66:28.020
+Yeah, vậy sao?
+Tôi nghĩ nó tốt.
+
+1480
+1:66:28.022 --> 1:66:29.255
+Tôi cần bội số, anh bạn.
+
+1481
+1:66:29.257 --> 1:66:30.223
+Vì tôi muốn nói,
+Tôi biết tôi nhìn tốt.
+
+1482
+1:66:30.225 --> 1:66:32.461
+Nhưng tôi cần lựa chọn.
+
+1483
+1:66:34.730 --> 1:66:36.196
+Guys, thôi nào.
+
+1484
+1:66:36.198 --> 1:66:37.832
+- Đó là chúng ta?
+- SPENCER: Vâng, đi thôi.
+
+1485
+1:66:37.834 --> 1:66:38.835
+ALEK: Được rồi.
+
+1486
+1:66:44.406 --> 1:66:46.276
+- Bạn sẵn sàng chưa?
+- SPENCER: Hãy làm điều này.
+
+1487
+1:66:53.114 --> 1:66:55.082
+Nghe này, có vài người ở đây.
+
+1488
+1:66:55.084 --> 1:66:56.350
+Xin lỗi. Rất tiếc.
+
+1489
+1:66:56.352 --> 1:66:57.850
+- Xin chào.
+- Xin chào.
+
+1490
+1:66:57.852 --> 1:66:59.520
+Bạn có phiền giúp cha tôi không
+trên tàu?
+
+1491
+1:66:59.522 --> 1:67:1.489
+- Ồ dĩ nhiên rồi. Ừ chắc chắn.
+- Với va li của anh ấy.
+
+1492
+1:67:1.491 --> 1:67:3.123
+Cảm ơn bạn rất nhiều.
+Thật đáng yêu.
+
+1493
+1:67:3.125 --> 1:67:4.257
+Đưa nó cho Spencer.
+
+1494
+1:67:4.259 --> 1:67:5.491
+Cảm ơn nhiều.
+
+1495
+1:67:5.493 --> 1:67:7.294
+Tôi xin lỗi để chấp nhận
+nhưng nó giúp ích.
+
+1496
+1:67:7.296 --> 1:67:8.895
+- ALEK: Không sao cả.
+- Cảm ơn bạn. Thật là tốt bụng.
+
+1497
+1:67:8.897 --> 1:67:11.230
+Nếu nó không đi, bạn có thể
+mang tôi đến Paris,
+
+1498
+1:67:11.232 --> 1:67:13.901
+- phải không?
+- Uh, tôi sẽ bắn.
+
+1499
+1:67:13.903 --> 1:67:15.402
+(TẤT CẢ NHAU)
+
+1500
+1:67:15.404 --> 1:67:16.905
+MAN: Vâng, Chúa ban phước cho anh.
+
+1501
+1:67:16.907 --> 1:67:18.404
+ALEK: Xin lỗi. Cảm ơn bạn.
+
+1502
+1:67:18.406 --> 1:67:19.907
+- Cảm ơn nhiều.
+- Xem bước của bạn ở đây.
+
+1503
+1:67:19.909 --> 1:67:21.241
+MAN: Điều đó sẽ ổn thôi. Vâng.
+
+1504
+1:67:21.243 --> 1:67:24.210
+Ừ. Chúa phù hộ bạn.
+Cảm ơn nhiều.
+
+1505
+1:67:24.212 --> 1:67:26.348
+Vâng. Cảm ơn bạn rất nhiều.
+
+1506
+1:67:28.116 --> 1:67:30.750
+Chỗ ngồi của chúng tôi là những người.
+Có, họ đang có.
+
+1507
+1:67:30.752 --> 1:67:33.219
+Đã ở đây.
+Cảm ơn bạn rất nhiều.
+
+1508
+1:67:33.221 --> 1:67:35.121
+- ALEK: Được rồi.
+- Chúa phù hộ các bạn.
+
+1509
+1:67:35.123 --> 1:67:37.491
+- Không vấn đề gì.
+- Vâng. Ah!
+
+1510
+1:67:37.493 --> 1:67:39.326
+- Cảm ơn bạn rất nhiều. Tuyệt vời.
+- Cảm ơn bạn.
+
+1511
+1:67:39.328 --> 1:67:40.761
+- Có một chuyến đi tốt.
+- Bạn cũng vậy.
+
+1512
+1:67:40.763 --> 1:67:42.362
+Các bạn có một chuyến đi tuyệt vời.
+Cảm ơn bạn.
+
+1513
+1:67:42.364 --> 1:67:43.730
+- Cảm ơn cảm ơn.
+- Không có vấn đề ạ.
+
+1514
+1:67:43.732 --> 1:67:46.100
+- PHỤ NỮ: Tạm biệt.
+- Các bạn chỉ muốn ngồi đây không?
+
+1515
+1:67:46.102 --> 1:67:48.002
+ALEK: Vâng. Có vẻ tốt.
+
+1516
+1:67:48.004 --> 1:67:49.372
+(CÔNG BỐ THÔNG BÁO TRÊN PA)
+
+1517
+1:67:55.277 --> 1:67:57.611
+ALEK: Tạm biệt, Amsterdam.
+
+1518
+1:67:57.613 --> 1:67:59.346
+Tôi rất buồn khi rời bỏ nó.
+Thật vui.
+
+1519
+1:67:59.348 --> 1:68:0.446
+- Tôi biết, thực sự.
+- Tôi cũng vậy.
+
+1520
+1:68:0.448 --> 1:68:1.683
+Đó là một vụ nổ.
+
+1521
+1:68:14.062 --> 1:68:17.897
+Được rồi. Tôi mệt mỏi vì thứ này.
+Và tôi chán.
+
+1522
+1:68:17.899 --> 1:68:19.620
+Tôi sẽ đi kiểm tra
+Wi-Fi trong lớp học đầu tiên.
+
+1523
+1:68:21.170 --> 1:68:22.538
+- Tôi sẽ quay lại.
+- ALEK: Được rồi.
+
+1524
+1:68:24.172 --> 1:68:25.571
+Chúng ta nên có
+mang theo một số đồ ăn nhẹ.
+
+1525
+1:68:25.573 --> 1:68:27.441
+- Bạn biết anh ta cáu kỉnh.
+- (CHUCKLES)
+
+1526
+1:68:27.443 --> 1:68:29.142
+Thậm chí tôi có thể đi ăn nhẹ.
+
+1527
+1:68:29.144 --> 1:68:30.578
+Có lẽ là đặc quyền
+của lớp học đầu tiên.
+
+1528
+1:68:30.580 --> 1:68:33.213
+Có lẽ chúng ta nên đi
+tìm thấy những chỗ ngồi đó.
+
+1529
+1:68:33.215 --> 1:68:34.781
+Ngay bây giờ,
+Tôi chỉ cần một số Wi-Fi
+
+1530
+1:68:34.783 --> 1:68:36.316
+để tôi có thể tải lên
+những bức tranh này.
+
+1531
+1:68:36.318 --> 1:68:37.854
+(CHUCKLES)
+
+1532
+1:68:43.459 --> 1:68:44.624
+SPENCER: Tìm thấy nó.
+
+1533
+1:68:44.626 --> 1:68:45.993
+Lớp đầu tiên ở trên đó
+
+1534
+1:68:45.995 --> 1:68:47.293
+và Wi-Fi
+là cách tốt hơn. Chúng ta hãy đi lên.
+
+1535
+1:68:47.295 --> 1:68:48.530
+ALEK: Ngọt ngào.
+ANTHONY: Tuyệt vời.
+
+1536
+1:68:53.536 --> 1:68:55.468
+Rất vui được gặp bạn.
+Chuyến đi an toàn.
+
+1537
+1:68:55.470 --> 1:68:56.907
+WOMAN: Cảm ơn rất nhiều.
+
+1538
+1:69:7.116 --> 1:69:9.048
+ALEK: Đây là cách đẹp hơn.
+
+1539
+1:69:9.050 --> 1:69:10.651
+Tôi đã bảo bạn rồi.
+
+1540
+1:69:10.653 --> 1:69:12.084
+Tôi sẽ đi
+chỗ ngồi trên cửa sổ đó.
+
+1541
+1:69:12.086 --> 1:69:13.353
+Chắc rồi, anh bạn. Bất cứ điều gì.
+
+1542
+1:69:13.355 --> 1:69:15.588
+Cảm ơn. (LAUGHS)
+
+1543
+1:69:15.590 --> 1:69:17.727
+Tôi sẽ đi solo.
+
+1544
+1:69:31.873 --> 1:69:33.742
+(NÓI NÓI)
+
+1545
+1:69:36.545 --> 1:69:39.346
+Đồ ăn nhẹ đi vào,
+mười hai giờ.
+
+1546
+1:69:39.348 --> 1:69:41.414
+(TIẾNG ANH)
+tôi có thể cung cấp cho bạn
+
+1547
+1:69:41.416 --> 1:69:42.615
+một số đồ ăn nhẹ hoặc đồ uống?
+
+1548
+1:69:42.617 --> 1:69:45.218
+- Ừ. Tôi có thể lấy Coke không?
+- Chắc chắn rồi.
+
+1549
+1:69:45.220 --> 1:69:46.522
+Cảm ơn bạn.
+
+1550
+1:69:48.189 --> 1:69:49.655
+Có bạn đi.
+
+1551
+1:69:49.657 --> 1:69:51.191
+Tôi có thể lấy một ít rượu vang đỏ,
+xin vui lòng?
+
+1552
+1:69:51.193 --> 1:69:52.861
+- Chắc chắn rồi.
+- Cảm ơn.
+
+1553
+1:69:54.563 --> 1:69:56.797
+- Cảm ơn bạn.
+- Đối với bạn, thưa bạn?
+
+1554
+1:69:56.799 --> 1:69:58.731
+Tôi có thể thực sự có rượu vang đỏ không
+là tốt, xin vui lòng?
+
+1555
+1:69:58.733 --> 1:70:0.602
+- Rượu vang đỏ?
+- Vâng, làm ơn.
+
+1556
+1:70:2.403 --> 1:70:3.739
+Cảm ơn bạn.
+
+1557
+1:70:5.875 --> 1:70:8.141
+Làm ơn cho tôi biết
+nếu bạn cần bất cứ điều gì khác.
+
+1558
+1:70:8.143 --> 1:70:10.076
+ANTHONY: Ồ, chúng tôi sẽ.
+
+1559
+1:70:10.078 --> 1:70:11.311
+Nhanh lên và uống thứ này đi
+
+1560
+1:70:11.313 --> 1:70:12.413
+vì vậy chúng tôi có thể hỏi cô ấy
+để trở lại lần nữa.
+
+1561
+1:70:12.415 --> 1:70:14.414
+- (BOTH CHUCKLE)
+- Ồ, vâng.
+
+1562
+1:70:14.416 --> 1:70:17.651
+Ôi chúa ơi. Nhìn vào
+soda bé, Spencer!
+
+1563
+1:70:17.653 --> 1:70:20.186
+Alek, đóng cửa.
+
+1564
+1:70:20.188 --> 1:70:21.490
+ALEK: Thật dễ thương.
+
+1565
+1:70:22.623 --> 1:70:25.060
+Tôi chuẩn bị đi ngủ.
+
+1566
+1:70:26.795 --> 1:70:28.830
+Uh, tôi đoán là giờ ngủ.
+
+1567
+1:70:30.265 --> 1:70:31.466
+Không thể treo.
+
+1568
+1:70:47.649 --> 1:70:49.852
+(CÔNG BỐ THÔNG BÁO TRÊN PA)
+
+1569
+1:71:19.081 --> 1:71:20.616
+(CHẠY NƯỚC RÚT)
+
+1570
+1:71:53.314 --> 1:71:54.850
+(UNBUTTONING)
+
+1571
+1:72:13.702 --> 1:72:15.872
+Ra khỏi đây, nghiêm túc đấy.
+
+1572
+1:72:16.538 --> 1:72:18.737
+(DÂN SỰ NGƯỜI)
+
+1573
+1:72:18.739 --> 1:72:20.205
+- MARK: Tôi có súng.
+- (GUNSHOT)
+
+1574
+1:72:20.207 --> 1:72:21.710
+(DÀNH CHO PHỤ NỮ)
+
+1575
+1:72:31.420 --> 1:72:33.055
+(GROANING)
+
+1576
+1:73:4.353 --> 1:73:5.621
+ALEK: Spencer, đi!
+
+1577
+1:73:9.960 --> 1:73:11.126
+(NHẤP CHUỘT)
+
+1578
+1:73:14.462 --> 1:73:15.764
+(GRUNTS)
+
+1579
+1:73:18.433 --> 1:73:20.069
+(BOTH GRUNTING)
+
+1580
+1:73:31.712 --> 1:73:32.982
+SPENCER: Lấy súng!
+
+1581
+1:73:37.921 --> 1:73:39.188
+(GROANING)
+
+1582
+1:73:41.791 --> 1:73:43.893
+- (SCENCAMS SPENCER)
+- ALEK: Chết tiệt!
+
+1583
+1:73:46.228 --> 1:73:48.561
+SPENCER: (SCREAMS) Anh ấy có một con dao.
+Đưa anh ta ra khỏi tôi!
+
+1584
+1:73:48.563 --> 1:73:49.764
+Chết tiệt!
+
+1585
+1:73:50.366 --> 1:73:52.234
+(TẤT CẢ MẠNH M))
+
+1586
+1:73:54.336 --> 1:73:55.538
+(WHIMPERS)
+
+1587
+1:73:56.738 --> 1:73:58.170
+SPENCER: Tôi có cánh tay của anh ấy,
+Tôi đã nhận được cánh tay của mình!
+
+1588
+1:73:58.172 --> 1:74:0.173
+ALEK: Đừng cưỡng lại!
+
+1589
+1:74:0.175 --> 1:74:1.708
+- Dừng lại.
+- SPENCER: Giữ anh ta xuống!
+
+1590
+1:74:1.710 --> 1:74:3.043
+Tôi đã nhận anh ta!
+
+1591
+1:74:3.045 --> 1:74:4.210
+Chết tiệt!
+
+1592
+1:74:4.212 --> 1:74:5.948
+SPENCER: Tôi không thể giữ cánh tay anh ấy.
+Di chuyển! Di chuyển!
+
+1593
+1:74:7.148 --> 1:74:8.683
+(XẾP HẠNG)
+
+1594
+1:74:18.559 --> 1:74:20.761
+- Giơ tay!
+- Lấy nó đi, lấy nó!
+
+1595
+1:74:20.763 --> 1:74:22.098
+Có bạn đi!
+
+1596
+1:74:28.237 --> 1:74:29.703
+ANTHONY: Dude,
+đó là nó, đó là nó!
+
+1597
+1:74:29.705 --> 1:74:31.040
+ALEK: Bạn đã hiểu rồi! Bạn hiểu rồi!
+
+1598
+1:74:31.975 --> 1:74:33.209
+(LỰA CHỌN)
+
+1599
+1:74:41.315 --> 1:74:43.650
+(GROANING)
+
+1600
+1:74:43.652 --> 1:74:46.719
+Guys! Guys!
+Tên này đã bị bắn rồi.
+
+1601
+1:74:46.721 --> 1:74:48.021
+Anh chàng này đang chảy máu,
+anh ấy cần giúp đỡ!
+
+1602
+1:74:48.023 --> 1:74:50.560
+- Giữ anh ta xuống.
+- ALEK: Đi, tôi đã nhận anh ta.
+
+1603
+1:74:53.795 --> 1:74:55.598
+ANTHONY: Di chuyển, di chuyển, di chuyển!
+
+1604
+1:74:56.665 --> 1:74:58.334
+Dấu! Dấu!
+
+1605
+1:74:59.300 --> 1:75:0.968
+- Dấu! Dấu!
+- Chết tiệt.
+
+1606
+1:75:0.970 --> 1:75:3.536
+ISABELLE: Hãy giúp anh ấy.
+Bạn có thể giúp anh ta, xin vui lòng?
+
+1607
+1:75:3.538 --> 1:75:5.306
+Tôi đạt được rồi. Tôi đạt được rồi.
+
+1608
+1:75:5.308 --> 1:75:6.638
+ISABELLE: Xin hãy giúp anh ta.
+
+1609
+1:75:6.640 --> 1:75:7.911
+(GROANING)
+
+1610
+1:75:8.676 --> 1:75:10.811
+Bạn có thể giúp anh ta?
+
+1611
+1:75:10.813 --> 1:75:12.245
+ALEK: Chúng tôi cần một cái gì đó
+để buộc anh ta với.
+
+1612
+1:75:12.247 --> 1:75:14.781
+Không, chỉ cần đưa anh ta.
+Giữ anh ta xuống.
+
+1613
+1:75:14.783 --> 1:75:16.450
+ALEK: Được rồi.
+
+1614
+1:75:16.452 --> 1:75:17.919
+Anh ta có một cái khác ở đó.
+
+1615
+1:75:17.921 --> 1:75:20.022
+Nghe này, anh ta cũng đang chảy máu ở đây.
+
+1616
+1:75:22.023 --> 1:75:23.222
+SPENCER: Tôi hiểu rồi, tôi hiểu rồi.
+
+1617
+1:75:23.224 --> 1:75:24.857
+Bạn sẽ là
+được rồi, anh bạn.
+
+1618
+1:75:24.859 --> 1:75:25.758
+ISABELLE: Anh ấy đang chảy máu
+từ đây nữa. Nhìn.
+
+1619
+1:75:25.760 --> 1:75:26.825
+SPENCER: Bạn tốt.
+
+1620
+1:75:26.827 --> 1:75:28.160
+Tôi ở đây, anh bạn, tôi ở đây.
+
+1621
+1:75:28.162 --> 1:75:29.996
+Đừng lo lắng.
+Hey, cố gắng không di chuyển, được chứ?
+
+1622
+1:75:29.998 --> 1:75:31.231
+ALEK: Các bạn có anh ta?
+
+1623
+1:75:31.233 --> 1:75:32.633
+tôi sẽ đi
+rõ ràng những chiếc xe khác.
+
+1624
+1:75:32.635 --> 1:75:34.969
+SPENCER: Lắng nghe tôi,
+được không?
+
+1625
+1:75:34.971 --> 1:75:36.436
+Lắng nghe vợ của bạn.
+Không sao đâu. Xem,
+
+1626
+1:75:36.438 --> 1:75:38.038
+khi bạn di chuyển như thế,
+chúng ta không thể làm điều đó, được chứ?
+
+1627
+1:75:38.040 --> 1:75:39.539
+- Được rồi.
+- SPENCER: Được chứ?
+
+1628
+1:75:39.541 --> 1:75:41.874
+ISABELLE: Đừng di chuyển, Mark,
+xin vui lòng. Ở lại với tôi.
+
+1629
+1:75:41.876 --> 1:75:43.843
+Nếu tôi mất nó,
+bạn sẽ chết, được chứ?
+
+1630
+1:75:43.845 --> 1:75:44.911
+- Đuợc.
+- Tôi biết bạn đang làm tổn thương,
+
+1631
+1:75:44.913 --> 1:75:46.245
+nhưng đừng di chuyển, được chứ?
+
+1632
+1:75:46.247 --> 1:75:48.682
+Lắng nghe tôi. Lắng nghe tôi.
+Anh yêu em.
+
+1633
+1:75:48.684 --> 1:75:49.951
+MARK: Anh cũng yêu em, em yêu.
+
+1634
+1:75:49.953 --> 1:75:51.552
+ISABELLE: Bạn ở lại
+với tôi, được chứ?
+
+1635
+1:75:51.554 --> 1:75:53.520
+- SPENCER: Này, Mark? Dấu?
+- Ừ.
+
+1636
+1:75:53.522 --> 1:75:56.123
+Chào bạn,
+bạn có muốn nói lời cầu nguyện không?
+
+1637
+1:75:56.125 --> 1:75:57.824
+- Không, cám ơn.
+- SPENCER: Không?
+
+1638
+1:75:57.826 --> 1:75:59.359
+Anh ấy chưa sẵn sàng để đi.
+
+1639
+1:75:59.361 --> 1:76:1.363
+- SPENCER: Được rồi.
+- Anh ta chưa sẵn sàng để đi, được chứ?
+
+1640
+1:76:3.966 --> 1:76:5.332
+(LẤY MỌI NGƯỜI)
+
+1641
+1:76:5.334 --> 1:76:7.033
+Không không. Không sao đâu.
+
+1642
+1:76:7.035 --> 1:76:9.002
+Có ai có khăn không?
+Bất cứ điều gì! Bất cứ điều gì!
+
+1643
+1:76:9.004 --> 1:76:10.406
+Không sao đâu. Không sao đâu.
+
+1644
+1:76:15.577 --> 1:76:17.477
+(LẤY MỌI NGƯỜI)
+
+1645
+1:76:17.479 --> 1:76:19.512
+WOMAN: Không, không sao đâu.
+
+1646
+1:76:19.514 --> 1:76:21.513
+Anh ta là một người tốt.
+Anh ấy đang giúp chúng tôi.
+
+1647
+1:76:21.515 --> 1:76:22.615
+Có ai khác bị thương không?
+
+1648
+1:76:22.617 --> 1:76:24.351
+Không sao đâu. Không sao đâu.
+
+1649
+1:76:24.353 --> 1:76:26.052
+Nói với mọi người
+chỉ để ở lại đây.
+
+1650
+1:76:26.054 --> 1:76:26.920
+Đuợc.
+
+1651
+1:76:26.922 --> 1:76:28.790
+(NÓI NÓI)
+
+1652
+1:76:39.300 --> 1:76:40.767
+Chỉ cần lấy cà vạt. Đi tiếp.
+
+1653
+1:76:40.769 --> 1:76:42.401
+Lấy nó quanh tay anh ta.
+Dưới cánh tay anh.
+
+1654
+1:76:42.403 --> 1:76:44.670
+SPENCER: Thưa bà. Thưa bà!
+ISABELLE: Vâng.
+
+1655
+1:76:44.672 --> 1:76:45.838
+Được rồi, tôi cần bạn
+nói chuyện với anh ấy.
+
+1656
+1:76:45.840 --> 1:76:47.440
+Giúp tôi tỉnh táo.
+Chào! Chào!
+
+1657
+1:76:47.442 --> 1:76:49.610
+- Tên bạn là gì?
+- Mark, anh sẽ ổn thôi.
+
+1658
+1:76:49.612 --> 1:76:50.677
+Dấu.
+
+1659
+1:76:50.679 --> 1:76:52.111
+Dấu. Này, tôi là Spencer, anh bạn.
+
+1660
+1:76:52.113 --> 1:76:53.547
+Hey, nó sẽ ổn thôi.
+
+1661
+1:76:53.549 --> 1:76:56.149
+Chung tôi đa hiểu. Đuợc?
+Tôi cũng cắt một chút.
+
+1662
+1:76:56.151 --> 1:76:57.517
+ISABELLE: Bạn sẽ
+không sao đâu.
+
+1663
+1:76:57.519 --> 1:76:58.852
+SPENCER: Sẽ là
+tất cả đều tốt. Được rồi?
+
+1664
+1:76:58.854 --> 1:77:1.021
+Chúng tôi đã ngừng chảy máu.
+
+1665
+1:77:1.023 --> 1:77:2.489
+Bạn đến từ đâu?
+
+1666
+1:77:2.491 --> 1:77:3.757
+Virginia.
+
+1667
+1:77:3.759 --> 1:77:6.758
+Virginia. Chào!
+Tôi đến từ California, anh bạn.
+
+1668
+1:77:6.760 --> 1:77:9.096
+Chúng ta đều là người Mỹ.
+
+1669
+1:77:9.098 --> 1:77:10.463
+Tôi yêu bạn? Đừng đi.
+
+1670
+1:77:10.465 --> 1:77:11.965
+SPENCER: Bạn sẽ
+tốt thôi tốt thôi?
+
+1671
+1:77:11.967 --> 1:77:12.899
+Chúng ta sẽ lấy một số loại bia
+sau đây.
+
+1672
+1:77:12.902 --> 1:77:14.200
+Sẽ tốt thôi.
+
+1673
+1:77:14.202 --> 1:77:15.235
+- Nhìn xem chúng ta may mắn thế nào.
+- ALEK: Chết tiệt.
+
+1674
+1:77:15.237 --> 1:77:17.038
+Nó, giống như, một trong một triệu.
+
+1675
+1:77:18.407 --> 1:77:19.705
+Spencer, Spencer.
+
+1676
+1:77:19.707 --> 1:77:21.074
+Đây. Tôi có một chiếc áo len
+để chúng ta có thể ngừng chảy máu.
+
+1677
+1:77:21.076 --> 1:77:22.476
+Bạn có thể sử dụng áo len này không?
+
+1678
+1:77:22.478 --> 1:77:23.911
+Yeah, được rồi. Tôi đạt được rồi.
+
+1679
+1:77:23.913 --> 1:77:25.378
+- Đuợc. Đuợc.
+- Đuợc?
+
+1680
+1:77:25.380 --> 1:77:27.213
+- SPENCER: Anthony. Anthony.
+- Ừ, bạn cần gì?
+
+1681
+1:77:27.215 --> 1:77:28.448
+Tôi cần một bộ med hoặc một cái gì đó
+để cắt quần áo của mình với.
+
+1682
+1:77:28.450 --> 1:77:30.150
+Đuợc. Tôi sẽ thử
+và tìm một cái gì đó.
+
+1683
+1:77:30.152 --> 1:77:31.817
+Nào.
+Hãy ra khỏi đây.
+
+1684
+1:77:31.819 --> 1:77:33.020
+SPENCER: Họ có
+có một cái.
+
+1685
+1:77:33.022 --> 1:77:34.553
+ANTHONY: Vâng. Tôi có bạn.
+Tôi có bạn.
+
+1686
+1:77:34.555 --> 1:77:36.056
+ISABELLE: Sẽ ổn thôi.
+
+1687
+1:77:36.058 --> 1:77:37.856
+SPENCER: Này, anh bạn, tôi cần bạn
+để tỉnh táo, được chứ?
+
+1688
+1:77:37.858 --> 1:77:39.525
+Giữ cho đôi mắt của bạn mở.
+Tập trung vào vợ của bạn.
+
+1689
+1:77:39.527 --> 1:77:42.094
+ISABELLE: Ở lại với tôi.
+SPENCER: Thôi nào, anh bạn. Chào.
+
+1690
+1:77:42.096 --> 1:77:43.562
+Chúng ta sẽ đi
+đến ga xe lửa.
+
+1691
+1:77:43.564 --> 1:77:45.298
+Chúng tôi sẽ giúp bạn,
+đuợc? Bạn tốt.
+
+1692
+1:77:45.300 --> 1:77:48.634
+Hãy ở lại với tôi.
+Ở lại với tôi.
+
+1693
+1:77:48.636 --> 1:77:51.303
+MARK: Được rồi.
+
+1694
+1:77:51.305 --> 1:77:54.410
+- Đuợc? Cứ ở lại với tôi.
+- MARK: Được rồi, được rồi.
+
+1695
+1:78:17.465 --> 1:78:19.000
+(CHỈ CHẾ BIẾN)
+
+1696
+1:78:29.178 --> 1:78:32.212
+ISABELLE: Vẫn chảy máu
+ở phía sau.
+
+1697
+1:78:32.214 --> 1:78:33.745
+SPENCER: Không sao đâu. Tôi không thể
+đối phó với điều đó ngay bây giờ.
+
+1698
+1:78:33.747 --> 1:78:36.115
+Chào. Đó là anh chàng bạn muốn,
+ngay tại đó. Anh ta ra ngoài.
+
+1699
+1:78:36.117 --> 1:78:37.717
+ISABELLE: Bạn có nghe thấy tôi không?
+Bạn đã ngừng chảy máu?
+
+1700
+1:78:37.719 --> 1:78:39.319
+MAN: Anh ta có bắn súng không?
+
+1701
+1:78:39.321 --> 1:78:40.686
+ISABELLE: Tôi biết
+bạn đang đau đớn.
+
+1702
+1:78:40.688 --> 1:78:42.187
+Đừng di chuyển, được không?
+Chỉ cần không di chuyển.
+
+1703
+1:78:42.189 --> 1:78:43.190
+MAN: Có một anh chàng ở đằng kia
+bị bắn. Anh ấy đang chảy máu.
+
+1704
+1:78:43.192 --> 1:78:45.025
+(SIRENS BLARING DISTANCE)
+
+1705
+1:78:45.027 --> 1:78:46.562
+(NÓI NÓI)
+
+1706
+1:78:48.831 --> 1:78:49.964
+ANTHONY:
+Bạn sắp xong rồi, anh bạn.
+
+1707
+1:78:49.966 --> 1:78:51.496
+Các nhân viên y tế đang đến.
+
+1708
+1:78:51.498 --> 1:78:52.832
+Bạn sẽ làm được.
+Họ đang đến, chỉ cần giữ nó.
+
+1709
+1:78:52.834 --> 1:78:54.167
+(MAN NÓI PHÁP)
+
+1710
+1:78:54.169 --> 1:78:55.701
+Ở đây họ đến ngay bây giờ.
+Chỉ cần giữ nó, người đàn ông.
+
+1711
+1:78:55.703 --> 1:78:57.369
+Bạn đã làm nó, con người. Nào.
+
+1712
+1:78:57.371 --> 1:79:0.207
+ISABELLE: Họ đang đến, Mark.
+Họ đang đến, được không?
+
+1713
+1:79:0.209 --> 1:79:1.508
+Họ sẽ
+đưa bạn đến bệnh viện.
+
+1714
+1:79:1.510 --> 1:79:2.642
+Họ sẽ
+chăm sóc bạn, được chứ?
+
+1715
+1:79:2.644 --> 1:79:3.744
+MARK: Được rồi.
+
+1716
+1:79:3.746 --> 1:79:4.811
+SPENCER:
+Họ sẽ chăm sóc bạn.
+
+1717
+1:79:4.813 --> 1:79:6.181
+Bạn đã làm nó lâu rồi.
+
+1718
+1:79:12.321 --> 1:79:13.923
+ANTHONY: Họ
+ngay tại đây, Spencer.
+
+1719
+1:79:25.733 --> 1:79:26.999
+SPENCER: Không, không. Dừng lại, dừng lại.
+
+1720
+1:79:27.001 --> 1:79:28.668
+Okay, nhìn kìa. Đến đây.
+
+1721
+1:79:28.670 --> 1:79:29.937
+Bạn thấy không? Đuợc.
+
+1722
+1:79:29.939 --> 1:79:31.906
+Một hai ba.
+
+1723
+1:79:31.908 --> 1:79:33.475
+Đi đi đi.
+
+1724
+1:79:36.845 --> 1:79:38.848
+(GROANING)
+
+1725
+1:79:39.916 --> 1:79:41.617
+(NHÓM NÓI GỐC)
+
+1726
+1:80:17.117 --> 1:80:18.750
+- Chào.
+- Không sao chứ?
+
+1727
+1:80:18.752 --> 1:80:19.985
+- Ừ.
+- Cảm thấy ổn chứ?
+
+1728
+1:80:19.987 --> 1:80:21.253
+Tuyệt.
+
+1729
+1:80:21.255 --> 1:80:22.621
+Chúng ta đang đi đâu?
+
+1730
+1:80:22.623 --> 1:80:24.490
+Chúng tôi đang làm gì ở đây?
+
+1731
+1:80:24.492 --> 1:80:25.960
+Đi đường này? Đuợc.
+
+1732
+1:80:25.962 --> 1:80:28.030
+(CHỈ CHẾ BIẾN)
+
+1733
+1:81:3.665 --> 1:81:7.734
+SPENCER: Chúa ơi, làm cho tôi
+một công cụ hòa bình của bạn. </ i>
+
+1734
+1:81:7.736 --> 1:81:11.370
+<i> Nơi có hận thù,
+hãy để tôi gieo tình yêu. </ i>
+
+1735
+1:81:11.372 --> 1:81:14.774
+<i> Nơi có thương tích, tha thứ. </ i>
+
+1736
+1:81:14.776 --> 1:81:17.977
+<i> Nơi có nghi ngờ, đức tin. </ i>
+
+1737
+1:81:17.979 --> 1:81:21.880
+<i> Nơi tuyệt vọng, hy vọng. </ i>
+
+1738
+1:81:21.882 --> 1:81:24.718
+<i> Nơi có bóng tối,
+ánh sáng. </ i>
+
+1739
+1:81:24.720 --> 1:81:28.053
+<i> Và nơi có nỗi buồn,
+niềm vui. </ i>
+
+1740
+1:81:28.055 --> 1:81:30.623
+<i> Vì nó đang cho
+mà chúng tôi nhận được. </ i>
+
+1741
+1:81:30.625 --> 1:81:33.558
+<i> Nó đang tha thứ
+chúng tôi được tha thứ. </ i>
+
+1742
+1:81:33.560 --> 1:81:37.967
+<i> Và nó sắp chết
+chúng ta được sinh ra để sống đời đời. </ i>
+
+1743
+1:81:38.700 --> 1:81:39.970
+<i> Amen. </ i>
+
+1744
+1:81:41.971 --> 1:81:44.173
+(CHÉO CHẠY)
+
+1745
+1:82:7.261 --> 1:82:9.465
+- (TẤT CẢ THAM GIA)
+- (NHẤP CHUỘT MÁY)
+
+1746
+1:82:17.037 --> 1:82:18.603
+Chào buổi trưa.
+
+1747
+1:82:18.605 --> 1:82:19.640
+Cảm ơn bạn.
+
+1748
+1:82:23.412 --> 1:82:24.580
+Này, hon.
+
+1749
+1:82:40.362 --> 1:82:42.564
+(NHẤP CHUỘT MÁY)
+
+1750
+1:82:49.337 --> 1:82:51.570
+(NÓI NÓI)
+
+1751
+1:82:51.572 --> 1:82:53.307
+(TẤT CẢ ĐƠN VỊ)
+
+1752
+1:83:6.821 --> 1:83:8.357
+(THAY ĐỔI KHÔNG BAO GIỜ)
+
+1753
+1:83:27.175 --> 1:83:28.710
+(NÓI NÓI)
+
+1754
+1:86:24.486 --> 1:86:26.688
+(TẤT CẢ ĐƠN VỊ)
+
+1755
+1:88:23.505 --> 1:88:26.141
+(CROWD CHEERING
+VÀ ÁP DỤNG)
+
+1756
+1:88:34.582 --> 1:88:35.817
+PHỤ NỮ: Whoo!
+
+1757
+1:89:13.540 --> 1:89:18.545
+

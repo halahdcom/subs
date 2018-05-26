@@ -1,0 +1,3771 @@
+﻿1
+00:00:01,912 --> 00:00:07,059
+Sudah beberapa tahun sejak serangan oleh
+makhluk ysng muncul dari laut yang dalam,
+
+2
+00:00:07,083 --> 00:00:11,939
+mengancam untuk menghancurkan semua kehidupan
+di bumi. Korban tewas sangat tinggi hari itu-
+
+3
+00:00:11,963 --> 00:00:14,734
+- terutama di pantai timur Amerika Serikat.
+
+4
+00:00:14,758 --> 00:00:20,573
+Tapi, tim pilot khusus mengambil
+alih robot Armada...
+
+5
+00:00:20,597 --> 00:00:22,575
+dan berperang melawan binatang buas.
+
+6
+00:00:22,599 --> 00:00:28,456
+Para prajurit pemberani dan peralatan
+hi-tech mereka menyelamatkan planet ini.
+
+7
+00:00:28,480 --> 00:00:32,168
+Meskipun keberhasilan Armada,
+kehancuran meluas-
+
+8
+00:00:32,192 --> 00:00:35,755
+- dan rekonstruksi
+berjalan lambat.
+
+9
+00:00:35,779 --> 00:00:41,219
+Mencegah bencana serupa
+menjadi perdebatan di kalangan militer-
+
+10
+00:00:41,243 --> 00:00:44,929
+- Departemen Luar Negeri dan
+pasukan keamanan nasional lainnya.
+
+11
+00:00:44,955 --> 00:00:48,559
+Tapi percayalah bahwa patroli
+di laut, darat dan udara-
+
+12
+00:00:48,583 --> 00:00:52,647
+- akan melakukan segalanya untuk
+mencegah pengulangan yang mengerikan.
+
+13
+00:00:52,671 --> 00:00:57,776
+<i>Kapal selam nuklir menyisir lantai samudera</i>
+sebagai bagian dari pertahanan.
+
+14
+00:00:58,134 --> 00:01:02,782
+<i>Sekarang sudah bertahun-tahun damai dan
+tenang, dan seluruh dunia damai kembali</i>
+
+15
+00:01:02,806 --> 00:01:07,661
+USS Virginia. Kode Neptunes Nest.
+20 mil dari pantai AS.
+
+16
+00:01:07,852 --> 00:01:10,955
+Neptunes Nest di sini.
+Intrepid Gold, apakah bisa diterima?
+
+17
+00:01:12,023 --> 00:01:15,711
+- Ya, aku belum mati.
+- Bagaimana di Sektor Merah hari ini?
+
+18
+00:01:15,735 --> 00:01:20,007
+- Sonar tidak menunjukkan apa-apa saat ini.
+- Apakah kau sudah minum?
+
+19
+00:01:20,031 --> 00:01:25,555
+- Aku seorang pensiunan... semacam itu.
+- Apakah kau menggunakan sonar ganda hari ini?
+
+20
+00:01:25,579 --> 00:01:29,599
+- Ya, sedikit.
+- Hei, kau masih dalam daftar gaji.
+
+21
+00:01:30,584 --> 00:01:34,896
+Aku menjalankannya setiap hari selama
+seminggu. Itu tidak menunjukkan apa-apa.
+
+22
+00:01:38,216 --> 00:01:41,695
+Tunggu sebentar.
+Aku mengatakan itu terlalu cepat.
+
+23
+00:01:53,773 --> 00:01:58,880
+- Aku punya sesuatu di sini. Kau melihatnya?
+- Ya, Intrepid Gold.
+
+24
+00:01:58,904 --> 00:02:05,093
+- Segera ambil langkah pencegahan.
+- Baiklah, santai. Itu sesuatu yang teknis.
+
+25
+00:02:09,623 --> 00:02:12,517
+Bom kejutan dilemparkan.
+
+26
+00:02:15,170 --> 00:02:19,316
+Kontak pertama dalam... lima detik.
+
+27
+00:02:20,091 --> 00:02:21,651
+Empat...
+
+28
+00:02:23,595 --> 00:02:25,697
+Tiga...
+
+29
+00:02:26,306 --> 00:02:28,616
+Dua...
+
+30
+00:02:30,352 --> 00:02:32,078
+Satu....
+
+31
+00:02:37,192 --> 00:02:41,421
+Hubungi satu.
+Hubungi empat dan tiga.
+
+32
+00:02:42,030 --> 00:02:45,258
+Semua biaya dalam kontak.
+Aku tidak melihat apa-apa.
+
+33
+00:02:46,368 --> 00:02:49,597
+Diterima, Intrepid Gold.
+Kapal bawah laut sedang menyelidikinya.
+
+34
+00:02:49,621 --> 00:02:54,184
+Apa-apaan ini?
+Mereka kembali... Mustahil!
+
+35
+00:02:58,296 --> 00:03:03,945
+Segeralah pindah 2 mil ke barat daya!
+Ulangi: Hubungkan ke flottil!
+
+36
+00:03:03,969 --> 00:03:06,071
+Diterima.
+
+37
+00:03:10,892 --> 00:03:12,869
+Tidak. Tidak, tidak!
+
+38
+00:03:19,109 --> 00:03:21,419
+Apa-apaan ini?
+
+39
+00:03:25,073 --> 00:03:27,342
+Siap tembakan!
+
+40
+00:03:31,079 --> 00:03:33,264
+Apa-apaan ini? Ayo!
+
+41
+00:03:35,079 --> 00:03:40,264
+<font color="#ffff00">{\move(192,300,192,1)}- Alih Bahasa oleh -
+\N{\r}{\move(192,300,192,1)\fscx0\fscy0\t(0,4000,\fscx150\fscy150)}* Atras Zihny T *</font>
+
+42
+00:04:11,244 --> 00:04:14,889
+Senjata, tembak!
+
+43
+00:04:31,514 --> 00:04:35,036
+Hello. Jika kau butuh bantuan dengan anak-anak,
+kau da Jenny harus melakukannya sendiri.
+
+44
+00:04:35,060 --> 00:04:39,582
+- Mereka kembali! Mereka kembali!
+- Apakah kau yakin?
+
+45
+00:04:39,606 --> 00:04:43,960
+Mereka menurunkan kapal perang! Itu menuju
+ke pantai dan sudah cukup sekarang.
+
+46
+00:04:45,237 --> 00:04:48,174
+Aku bersumpah. Kami menemukan satu lagi.
+
+47
+00:04:48,198 --> 00:04:52,052
+Ada satu di jalanmu.
+Pria itu bernama Russo.
+
+48
+00:04:52,077 --> 00:04:56,306
+Aku mengatakan mereka kembali.
+Dan kita harus memperbarui Armada.
+
+49
+00:04:56,831 --> 00:04:59,851
+Nah, sekarang adalah kesempatanmu.
+
+50
+00:05:02,963 --> 00:05:07,692
+- Nah, ini anakmu.
+- Oke. Kami akan berbicara nanti...
+
+51
+00:05:15,976 --> 00:05:18,870
+Punya dia Dr. Roth?
+
+52
+00:05:19,563 --> 00:05:24,000
+Namaku Russo. Kepala taktik dan
+keamanan di Halestromes Labs.
+
+53
+00:05:24,609 --> 00:05:28,546
+- Kami mengantarmu ke fasilitas.
+- Aku tahu itu.
+
+54
+00:05:31,366 --> 00:05:36,388
+- Bisakah aku berpakaian?
+- Kami telah mengumpulkan semua informasi yang diperlukan.
+
+55
+00:05:37,998 --> 00:05:41,059
+Cepatlah! Waktu berjalan.
+
+56
+00:05:56,933 --> 00:06:00,162
+Bar membutuhkan kecepatan
+24 km ke daratan
+
+57
+00:06:00,186 --> 00:06:02,831
+- dengan cara apapun.
+- Kau baru saja mengatakannya.
+
+58
+00:06:06,359 --> 00:06:09,505
+- Apa yang kau cari?
+- Aku hanya bersikap sopan.
+
+59
+00:06:09,529 --> 00:06:12,800
+Gadis itu menghancurkanmu sangat kuat.
+Hati-hati...
+
+60
+00:06:12,824 --> 00:06:14,096
+Dia benar.
+Dia tidak menagih uang untuk minumanmu.
+
+61
+00:06:14,104 --> 00:06:17,096
+- Apa?
+- Aku yakin bukan itu masalahnya.
+
+62
+00:06:17,120 --> 00:06:20,473
+- Dia baru. Itu kesalahan lain.
+- Tentu.
+
+63
+00:06:21,875 --> 00:06:25,395
+- Ini ada padaku.
+- Kau benar sekali.
+
+64
+00:06:29,466 --> 00:06:34,447
+Pernahkah kau mendengar apa yang terjadi?
+Semua petinggi sedikit tegang hari ini.
+
+65
+00:06:34,471 --> 00:06:37,533
+- Kurasa Worthington ada di sana.
+- Aku tidak tahu.
+
+66
+00:06:37,557 --> 00:06:42,538
+Aku mendengar seseorang berkata mereka ingin
+menjemput dr. Roth ind. Mereka punya foto.
+
+67
+00:06:42,562 --> 00:06:46,626
+Dr. Roth?
+Dia sangat kacau dan dipecat.
+
+68
+00:06:46,650 --> 00:06:52,590
+Itu kesalahan memecatnya.
+Dia membuat sistem operasi.
+
+69
+00:06:52,614 --> 00:06:58,971
+- Hanya dia yang tahu robotnya.
+- Horowitz tidak menginginkan yang lain.
+
+70
+00:06:58,995 --> 00:07:02,850
+Horowitz? Dia juga gila.
+Ini akan menyenangkan.
+
+71
+00:07:02,874 --> 00:07:04,601
+Masa-masa sulit.
+
+72
+00:07:07,420 --> 00:07:13,401
+- Itu berisiko. Kau harus lebih berhati-hati.
+- Dan siapa yang menang?
+
+73
+00:07:14,261 --> 00:07:18,074
+- Dia tidak punya keterampilan!
+- Sesuatu yang bisa aku lakukan.
+
+74
+00:07:18,098 --> 00:07:20,826
+Kalau tidak, aku bukan pemimpin kelompok.
+
+75
+00:07:20,850 --> 00:07:25,540
+Terus terang, kupikir itu baik
+bahwa mereka mendapat bantuan ekstra.
+
+76
+00:07:25,564 --> 00:07:30,169
+Kami tidak tahu apa yang akan terjadi, dan
+ini yang terakhir, itu akan menjadi sulit.
+
+77
+00:07:30,193 --> 00:07:33,422
+Mereka menendang benda-benda itu akhirnya.
+Aku bilang membawanya.
+
+78
+00:07:33,446 --> 00:07:37,885
+Aku juga merindukan aksi, tetapi
+apa yang kita ketahui tentang ini?
+
+79
+00:07:37,909 --> 00:07:42,640
+Mereka adalah raksasa besar yang jahat yang
+membunuh orang. Apa lagi yang harus kita ketahui?
+
+80
+00:07:42,664 --> 00:07:47,645
+Seorang pria di pelatihan mengatakan dia telah melihat
+salah satu dari mereka dengan matanya sendiri.
+
+81
+00:07:47,669 --> 00:07:50,940
+- Meludah api.
+- Seperti seekor naga?
+
+82
+00:07:50,964 --> 00:07:56,153
+- Jangan percaya semua yang kau dengar, Badger.
+- Setidaknya mereka kuat.
+
+83
+00:07:56,177 --> 00:07:58,656
+Tentu lebih kuat dari kita.
+
+84
+00:07:58,680 --> 00:08:04,745
+Tidak hanya aku yang takut dengan
+robot baru dan menikmati OS.
+
+85
+00:08:04,769 --> 00:08:07,515
+Dan rasa sakit umpan baliknya?
+
+86
+00:08:07,522 --> 00:08:13,294
+Jika kenyataannya mirip dengan apa yang
+kami lihat di simulator, kami selesai.
+
+87
+00:08:13,320 --> 00:08:19,385
+- Oh, sayang, apakah kau takut sakit?
+" Aku khawatir tentang kinerja.
+
+88
+00:08:19,409 --> 00:08:21,804
+Palu memiliki kecemasan kinerja.
+
+89
+00:08:21,828 --> 00:08:25,308
+Aku akan melakukan apa
+pun untuk membela negara.
+
+90
+00:08:25,332 --> 00:08:30,146
+Tapi aku tidak sendirian
+karena merasa belum siap.
+
+91
+00:08:30,170 --> 00:08:35,608
+- Apakah kau takut?
+- Ya. Dan kau seharusnya.
+
+92
+00:08:36,009 --> 00:08:38,529
+Kami tidak pernah menguji
+peralatan dalam praktek lapangan.
+
+93
+00:08:38,553 --> 00:08:42,366
+Setelah begitu banyak simulator
+kita tidak bisa lebih siap.
+
+94
+00:08:42,390 --> 00:08:46,119
+- Kau tidak mati di simulator.
+Apakah kau takut mati?
+
+95
+00:08:46,353 --> 00:08:49,457
+Kau tidak bisa jika kau
+ingin bertahan hidup.
+
+96
+00:08:49,481 --> 00:08:56,504
+- Aku siap mati. Bagaimana kau?
+- Sejak aku lahir.
+
+97
+00:09:02,035 --> 00:09:06,389
+"Kita tidak boleh membicarakannya
+di depan umum. - Dia benar.
+
+98
+00:09:07,123 --> 00:09:12,103
+- Sebagian besar.
+- Jatuhkan pesonanya. Apa yang pernah terjadi padamu?
+
+99
+00:09:12,712 --> 00:09:15,106
+Minuman gratis.
+
+100
+00:09:15,382 --> 00:09:18,444
+Bisakah kita mencapai pantai
+sebelum kita kembali?
+
+101
+00:09:18,468 --> 00:09:23,115
+"Aku lelah menjadi roda ketiga.
+- Apa maksudmu?
+
+102
+00:09:23,139 --> 00:09:26,326
+- Cari tahu.
+- Kita hebat.
+
+103
+00:09:29,062 --> 00:09:30,997
+Apa itu?
+
+104
+00:09:32,148 --> 00:09:35,085
+- Mereka memainkan lagu kami.
+- Ayo pergi..
+
+105
+00:09:41,199 --> 00:09:44,053
+- Jadi, tangkap aku.
+- Makhluk itu mencapai daratan.
+
+106
+00:09:44,077 --> 00:09:49,182
+Kami tidak tahu apa yang dilakukannya.
+Itu menetap di pantai.
+
+107
+00:09:50,876 --> 00:09:55,981
+"Ini akan seburuk yang terakhir kali.
+- Tentu lebih buruk.
+
+108
+00:09:58,133 --> 00:10:02,530
+- Pembunuh Raksasa, Russo di sini. Kami datang.
+- Pembunuh Raksasa?
+
+109
+00:10:02,554 --> 00:10:05,991
+- Apakah kau merasa nyaman di belakang sana?
+- Tidak juga.
+
+110
+00:10:06,224 --> 00:10:07,534
+Baik.
+
+111
+00:10:26,411 --> 00:10:30,682
+Halestrome Lab 26 km ke daratan
+
+112
+00:10:36,755 --> 00:10:40,525
+Apa-apaan ini?
+
+113
+00:11:18,755 --> 00:11:21,274
+Perjalanan panjang?
+
+114
+00:11:22,050 --> 00:11:26,154
+Fasilitas ini 30 lantai di
+bawah permukaan tanah.
+
+115
+00:11:32,185 --> 00:11:35,038
+FEMAS annex 8 km ke pedalaman
+
+116
+00:11:42,028 --> 00:11:48,885
+- Hei, Maggie? Apakah kau melihat apa yang kulihat?
+- Ya, dan itu tidak kelihatan bagus.
+
+117
+00:11:49,452 --> 00:11:51,388
+Apa yang kau lakukan?
+
+118
+00:11:54,124 --> 00:11:57,268
+Ayolah, Karen, jawab.
+
+119
+00:12:00,463 --> 00:12:06,696
+- Alex... aku hanya ingin menelponmu.
+- Bawa Sam dan cepat pergi.
+
+120
+00:12:06,720 --> 00:12:10,575
+- Aku akan menemuimu di tempat pertemuan.
+- Aku melihat sesuatu yang aneh.
+
+121
+00:12:10,599 --> 00:12:13,744
+- Mereka kembali.
+- Apa maksudmu kembali?
+
+122
+00:12:13,768 --> 00:12:18,749
+Karen, dimana Sam? Dia bawa mobilku. Dia
+akan menjemputku untuk makan siang.
+
+123
+00:12:18,773 --> 00:12:24,380
+Sampai jumpa di tempat tersebut. Beritahu
+aku jika kau tidak bisa mendapatkan dia.
+
+124
+00:12:24,404 --> 00:12:27,090
+- Aku mencintaimu.
+- Tunggu...
+
+125
+00:12:37,417 --> 00:12:41,438
+Sam, hubungi aku segera!
+Ini darurat!
+
+126
+00:12:51,681 --> 00:12:55,452
+- Coba ikuti, Tn. Roth!
+- Ya, Pak.
+
+127
+00:12:58,772 --> 00:13:03,294
+- Dr. Roth? Terima kasih sudah datang.
+- Apakah aku punya pilihan?
+
+128
+00:13:03,318 --> 00:13:08,841
+Tidak. Aku Jenderal Worthington.
+Pentagon telah mengirimku.
+
+129
+00:13:08,865 --> 00:13:11,928
+Ini adalah fasilitas pribadi.
+Di mana Chuck?
+
+130
+00:13:11,952 --> 00:13:14,847
+Ini adalah bagian dari
+Departemen Pertahanan.
+
+131
+00:13:14,871 --> 00:13:19,227
+- Bapak Rickman tidak akan ada di sini.
+- Oke.
+
+132
+00:13:19,251 --> 00:13:23,647
+Larry Enders mengatakan kau telah
+diangkat. Apakah itu benar?
+
+133
+00:13:23,797 --> 00:13:27,151
+Yah... tentang apa itu?
+Apakah robot baru tidak berfungsi?
+
+134
+00:13:27,175 --> 00:13:33,115
+Seperti Rickman, Mike, dan semua genius
+lainnya, mereka pikir mereka akan melakukannya?
+
+135
+00:13:33,139 --> 00:13:34,992
+Apa yang kau inginkan padaku?
+
+136
+00:13:35,016 --> 00:13:38,704
+Kau bekerja pada batas saraf
+dengan kecerdasan buatan-
+
+137
+00:13:38,728 --> 00:13:44,544
+- Tanpa daya tahan dan transferensi
+rasa sakit dari mesin-ke-pilot.
+
+138
+00:13:44,568 --> 00:13:49,257
+- Masalah dengan seri Armada terakhir.
+- Aku memberimu solusi.
+
+139
+00:13:49,281 --> 00:13:53,678
+- Kau tidak akan menggunakannya.
+- Ada kehidupan yang dipertaruhkan di sini.
+
+140
+00:13:53,702 --> 00:13:56,680
+Sekarang kita letakkan di belakang kita.
+
+141
+00:13:58,290 --> 00:14:01,519
+Oke. Generator stimulasi
+kabel pembangkit.
+
+142
+00:14:01,543 --> 00:14:07,483
+Menggerakkan rasa sakit dari benang saraf
+dan memandu mereka melalui generator.
+
+143
+00:14:07,507 --> 00:14:13,530
+- Dalam lingkaran tak berujung. Pesan
+rasa sakit tidak pernah mencapai otak.
+
+144
+00:14:15,932 --> 00:14:18,994
+Kedengarannya mudah, tetapi ternyata tidak.
+Biar kutebak.
+
+145
+00:14:19,644 --> 00:14:24,917
+Metode darurat transfer darurat dari Departemen
+Pertahanan untuk mengurangi rasa sakit.
+
+146
+00:14:24,941 --> 00:14:28,170
+- tidak berhasil dan sekarang kau sadari
+
+147
+00:14:28,194 --> 00:14:31,340
+- Kau perlu menyesuaikan
+tautan transfer saraf
+
+148
+00:14:31,364 --> 00:14:36,345
+- ke sistem AI robot
+Apakah itu benar, Jendral?
+
+149
+00:14:36,369 --> 00:14:40,390
+Ya. Biar kutunjukkan sesuatu.
+
+150
+00:14:51,968 --> 00:14:56,282
+Ini adalah seri baru
+Armada robot militer.
+
+151
+00:14:56,306 --> 00:14:58,284
+Lumayan.
+
+152
+00:14:58,308 --> 00:15:01,745
+Kami harus segera mencoba nervelink.
+
+153
+00:15:03,271 --> 00:15:05,957
+Ayo lakukan.
+
+154
+00:15:14,449 --> 00:15:17,887
+Kau sudah memiliki pilot
+terlatih untuk mereka?
+
+155
+00:15:17,911 --> 00:15:20,765
+Pilot kami telah terlatih
+dalam simulator.
+
+156
+00:15:20,789 --> 00:15:24,727
+Tetapi simulator menggunakan
+garis batas lama.
+
+157
+00:15:24,751 --> 00:15:27,520
+- Jadi tidak pernah?
+- Pita merah.
+
+158
+00:15:27,671 --> 00:15:29,022
+Apalagi yang baru?
+
+159
+00:15:29,256 --> 00:15:33,694
+Dr. Horowitz, bangunannya jatuh!
+Apakah robot belum siap?
+
+160
+00:15:33,718 --> 00:15:39,909
+Tidak. Aku jamin bahwa
+program Armada terkendali.
+
+161
+00:15:39,933 --> 00:15:44,622
+Aku tunjukkan bahwa baik Roth maupun orang lain
+tidak akan menjadi masalah, maupun sang jenderal.
+
+162
+00:15:44,646 --> 00:15:47,542
+Dengar Horowitz, dengan segala hormat, satu
+dengan sedikit pengalaman sepertimu...
+
+163
+00:15:47,566 --> 00:15:50,918
+<i>katakan saja itu hanya
+sedikit membingungkan.</i>
+
+164
+00:15:51,361 --> 00:15:56,467
+Aku telah dibidang ini selama bertahun-tahun,
+telah melihat pria dan wanita meninggal-
+
+165
+00:15:56,491 --> 00:16:02,348
+- dan aku di sini terakhir kali, hal-hal
+dari musuh membunuh orang yang kucintai!
+
+166
+00:16:02,372 --> 00:16:04,600
+Apakah itu sama untukmu?
+
+167
+00:16:04,624 --> 00:16:07,144
+Semuanya tergantung padamu.
+Misi selesai, kau akan mendapatkan medali.-
+
+168
+00:16:07,168 --> 00:16:09,938
+- Tapi gagal, kau mendapatkan
+lebih banyak darah di tanganmu.
+
+169
+00:16:11,256 --> 00:16:14,985
+- Tn. Roth sudah tiba.
+- Aku datang sekarang.
+
+170
+00:16:18,430 --> 00:16:22,577
+- Dr. Horowitz!
+- Apakah Komando Marinir menghubungimu?
+
+171
+00:16:22,601 --> 00:16:27,290
+Tidak, belum, Dr. Horowitz.
+Ini adalah dr. J.P. Roth.
+
+172
+00:16:27,314 --> 00:16:31,168
+Dia akan membantu kita
+dengan batas saraf robot.
+
+173
+00:16:31,192 --> 00:16:33,629
+- Senang bertemu denganmu.
+- Aku tahu siapa kau.
+
+174
+00:16:33,653 --> 00:16:37,049
+Aku membaca teorimu.
+Tentang koneksi quantum.
+
+175
+00:16:37,073 --> 00:16:41,072
+Itu dipikirkan. Secara teori, tentu saja.
+Tetapi apakah itu benar-benar bekerja?
+
+176
+00:16:41,073 --> 00:16:42,972
+Aku tidak tahu.
+
+177
+00:16:42,996 --> 00:16:45,391
+- Apakah ini pujian?
+- Mungkin.
+
+178
+00:16:45,415 --> 00:16:49,103
+Dr. Roth? Andrews
+mencarimu di jalur aman.
+
+179
+00:16:49,323 --> 00:16:50,658
+Terima kasih.
+
+180
+00:16:51,379 --> 00:16:53,482
+- Halo?
+Apakah kau di laboratorium?
+
+181
+00:16:53,506 --> 00:16:57,111
+Ya. Aku ingin memasuki batas
+dan mencoba menjalankan robot.
+
+182
+00:16:57,135 --> 00:17:00,072
+Fantastis! Terus kabari aku.
+
+183
+00:17:00,096 --> 00:17:05,160
+- Aku akan melakukannya. Hati-hati sekarang.
+- Kau melakukan hal yang sama.
+
+184
+00:17:11,233 --> 00:17:14,544
+Dr. Roth? Jika kau mau......
+
+185
+00:17:18,114 --> 00:17:20,216
+Itu dia.
+
+186
+00:17:20,659 --> 00:17:22,636
+UNGU.
+
+187
+00:17:23,495 --> 00:17:26,681
+- Siap diaktifkan?
+- Ya, Pak.
+
+188
+00:17:33,630 --> 00:17:38,277
+- Adakah yang mengubah sistem operasi?
+- Ya, Kami menggunakan Robonet.
+
+189
+00:17:38,301 --> 00:17:43,990
+Kau bercanda. Pemotongan batas
+dibuat untuk bekerja dengan Python.
+
+190
+00:17:47,852 --> 00:17:50,747
+- Apa yang...?
+- Apa itu?
+
+191
+00:17:51,481 --> 00:17:55,043
+Aku tidak tahu, tapi
+itu tidak bagus.
+
+192
+00:18:17,966 --> 00:18:22,196
+- Ibu, aku terjebak macet.
+Sam, kau harus menjemputku sekarang!
+
+193
+00:18:22,220 --> 00:18:27,951
+- Katakan itu pada yang menyebabkan kemacetan.
+- Kau harus mencari rute lain.
+
+194
+00:18:28,602 --> 00:18:32,206
+- Apa yang salah?
+- Kau punya lima menit.
+
+195
+00:18:32,230 --> 00:18:36,294
+5 menit? Maka aku akan melanggar
+beberapa undang-undang.
+
+196
+00:18:36,318 --> 00:18:43,342
+- Luar biasa. Tunggu.
+- Itu bukan tipuan?
+
+197
+00:18:43,366 --> 00:18:46,845
+Aku mencintaimu. Jaga dirimu baik-baik.
+
+198
+00:18:51,875 --> 00:18:58,106
+Python terintegrasi lebih baik dengan
+pemetaan otak. Ini bercampur lebih baik.
+
+199
+00:18:59,424 --> 00:19:03,362
+- Robonet itu seperti dinosaurus.
+- Uang bukan masalah. Ini tentang hidup atau mati.
+
+200
+00:19:03,386 --> 00:19:07,909
+Robonet dan Python RTC berbagi
+batasan biner tertentu-
+
+201
+00:19:07,933 --> 00:19:12,705
+- tetapi hanya satu baris kode yang salah
+yang menyebabkan seluruh tempat akan meledak.
+
+202
+00:19:12,729 --> 00:19:16,458
+- Apakah pilot telah menjadi peta otak?
+- Ya.
+
+203
+00:19:16,483 --> 00:19:18,251
+Hebat.
+
+204
+00:19:18,860 --> 00:19:23,256
+Ada batasan untuk berapa banyak kode yang
+bisa kutulis. Tunjukkan padaku pilotnya.
+
+205
+00:19:37,295 --> 00:19:42,108
+Semua pilot:
+melapor ke ruang sebelah sekarang.
+
+206
+00:19:59,234 --> 00:20:02,422
+Sekelompok anak-anak. Aku harap aku
+tidak menggoreng otak mereka..
+
+207
+00:20:02,424 --> 00:20:04,422
+Mereka sudah berlatih, Dok.
+
+208
+00:20:07,033 --> 00:20:11,179
+Apa yang terjadi?
+Dokter, mengapa robot tidak menjawab?
+
+209
+00:20:15,458 --> 00:20:17,727
+Ada penundaan.
+
+210
+00:20:20,088 --> 00:20:24,861
+- Aku harus memeriksa seluruh perangkat lunak.
+- Tidak ada waktu, Dokter.
+
+211
+00:20:24,885 --> 00:20:28,197
+Pilot terlatih dengan baik.
+Mereka bisa memberi kompensasi.
+
+212
+00:20:28,221 --> 00:20:34,411
+Aku tidak akan mengirim pilot sampai mati
+jika mereka tidak dapat mengendalikan robot!
+
+213
+00:20:35,437 --> 00:20:37,665
+Namaku Hammer, Pak.
+
+214
+00:20:37,689 --> 00:20:42,877
+Aku tahu risikonya ketika aku mendaftar.
+Mereka membutuhkan kita di luar sana.
+
+215
+00:20:43,987 --> 00:20:49,092
+Apakah kau mengerti masalah, Hammer?
+Kau mengalami keterlambatan.
+
+216
+00:20:49,576 --> 00:20:54,014
+Respons yang tertunda dari
+otakmu ke sistem AI robot.
+
+217
+00:20:55,123 --> 00:21:01,438
+Kau tidak melihat serangan itu. Kau belum
+melihatnya di sini dengan penundaan.
+
+218
+00:21:02,339 --> 00:21:07,320
+Aku menghargai perhatianmu, Pak.
+Kita semua melakukan itu.
+
+219
+00:21:07,344 --> 00:21:10,489
+Hanya itu yang kami miliki, Dokter.
+
+220
+00:21:10,513 --> 00:21:15,161
+Aku kehilangan keluargaku
+tiga tahun lalu.
+
+221
+00:21:15,185 --> 00:21:19,956
+Dengar... mari lakukan pekerjaan kita.
+
+222
+00:21:23,401 --> 00:21:25,378
+Oke, kumpulkan mereka..
+
+223
+00:21:37,207 --> 00:21:39,685
+- Ibu?
+- Di luar! Aku sedang menyetir
+
+224
+00:21:39,709 --> 00:21:41,645
+Apa? Apa yang terjadi?
+
+225
+00:21:49,344 --> 00:21:53,783
+- Kita akan keluar kota.
+- Bagaimana dengan pekerjaannya? Di mana ayahmu?
+
+226
+00:21:53,807 --> 00:21:58,203
+Dia menemui kami di rumah nenek.
+- Di Tennessee? Sejauh ini?
+
+227
+00:21:58,979 --> 00:22:01,998
+Itu pasti serius.
+
+228
+00:22:07,195 --> 00:22:10,716
+Siapa yang siap?
+Duduklah.
+
+229
+00:22:10,740 --> 00:22:14,804
+Pak Hammer, ada sedikit kejutan.
+Itu akan melambat.
+
+230
+00:22:14,828 --> 00:22:17,555
+- Inisialisasi.
+- Aktivasi.
+
+231
+00:22:18,415 --> 00:22:23,561
+- Ya, aku bisa merasakan itu.
+Kepalanya siap. Korban berikutnya.
+
+232
+00:22:24,337 --> 00:22:27,358
+- Tanda panggilan "Bug", pak.
+- Bugs?
+
+233
+00:22:27,382 --> 00:22:31,778
+- Menyengat seperti lebah....
+- Itu asli. Duduklah
+
+234
+00:22:33,555 --> 00:22:36,825
+- Inisialisasi.
+- Aku mendapatkannya.
+
+235
+00:22:38,351 --> 00:22:39,953
+Aktivasi.
+
+236
+00:22:42,230 --> 00:22:45,585
+- Menyengatmu?
+- Aku bisa mengatasinya.
+
+237
+00:22:45,609 --> 00:22:47,711
+Korban berikutnya.
+
+238
+00:22:49,070 --> 00:22:53,216
+- Tanda panggilan "Badger", Pak.
+- Duduklah.
+
+239
+00:22:58,079 --> 00:23:00,515
+- Inisialisasi.
+- Mengaktifkan.
+
+240
+00:23:03,543 --> 00:23:08,440
+- Terasa baik.
+- Terasa baik. Oke. Kita selesai.
+
+241
+00:23:09,174 --> 00:23:13,196
+- Yah... Apakah kita siap untuk menguji mereka?
+- Ya
+
+242
+00:23:13,220 --> 00:23:16,782
+- Kau mendengarnya. Masukkan ke Armadamu.
+- Ya, pak!
+
+243
+00:23:16,806 --> 00:23:21,244
+Kunci dan biarkan.
+Kau mendengarnya! kita tidak punya waktu!
+
+244
+00:23:48,588 --> 00:23:52,151
+Exoskelettes mereka mengalami
+kalsifikasi secara eksponensial.
+
+245
+00:23:52,175 --> 00:23:55,029
+Mungkin karena
+peningkatan suhu inti.
+
+246
+00:23:55,053 --> 00:24:00,159
+- Menyalahkan pemanasan global?
+- Kepadatan tulang bukan hanya satu organisme.
+
+247
+00:24:00,183 --> 00:24:02,745
+Ini memiliki beberapa lapisan.
+
+248
+00:24:02,769 --> 00:24:07,875
+Mereka di sini dulunya
+mirip seperti jangkrik.
+
+249
+00:24:07,899 --> 00:24:11,087
+Hedomorf ini adalah
+makhluk luar biasa.
+
+250
+00:24:11,111 --> 00:24:13,548
+- Ada apa denganmu?
+- Apa?
+
+251
+00:24:13,572 --> 00:24:16,634
+Seolah-olah kau mengaguminya.
+
+252
+00:24:16,658 --> 00:24:20,221
+Aku mempelajari bentuk yang tidak
+diketahui dari mahluk luar angkasa.
+
+253
+00:24:20,245 --> 00:24:24,267
+Mereka telah membunuh jutaan orang.
+Maaf, aku tidak tertarik.
+
+254
+00:24:24,291 --> 00:24:29,437
+Kau harus memahami musuhmu
+untuk mengalahkannya.
+
+255
+00:24:37,596 --> 00:24:42,702
+- Aku cukup tahu.
+- Mengapa kau ada di sini?
+
+256
+00:24:42,726 --> 00:24:46,706
+Aku mencari controller LDO
+untuk penampang robot...
+
+257
+00:24:46,730 --> 00:24:51,294
+- tetapi mereka telah mengubah segalanya.
+- Apa yang akan dilakukan LDO?
+
+258
+00:24:51,318 --> 00:24:58,466
+Ini mempromosikan respons dan kustomisasi.
+Tidak banyak, tetapi semuanya penting.
+
+259
+00:24:59,201 --> 00:25:05,015
+Jenderal Worthington tampaknya
+bersedia mengorbankan pilotnya.
+
+260
+00:25:05,248 --> 00:25:08,352
+Kau mengenalnya lebih baik.
+Apakah dia terlalu memaksakan mereka?
+
+261
+00:25:08,376 --> 00:25:12,815
+Tidak, dia tahu apa yang mereka bisa.
+Jangan meremehkannya. Mereka keren.
+
+262
+00:25:12,839 --> 00:25:17,153
+Ini bukan tentang menjadi keren. Ketika
+kau menghubungkan ke matriks robot-
+
+263
+00:25:17,177 --> 00:25:21,448
+- tingkat kekuatan yang benar-benar berbeda
+diperlukan. Dan aku tahu Armadaian terbaik.
+
+264
+00:25:22,641 --> 00:25:25,704
+- Kau melakukannya. keluar dari permainan
+untuk sementara waktu sekarang, Roth.
+
+265
+00:25:25,706 --> 00:25:26,704
+- Aku memperhatikan itu.
+
+266
+00:25:26,728 --> 00:25:31,042
+Aku menghabiskan beberapa tahun untuk
+mengkodekan dan memprogramnya dengan sempurna.
+
+267
+00:25:31,066 --> 00:25:36,923
+- Sekarang mereka memiliki kode Mickey Mouse.
+- Aku tahu mereka tidak seperti sebelumnya.
+
+268
+00:25:36,947 --> 00:25:41,093
+Tetapi kami telah membuat kemajuan besar.
+Armadas begitu bagus mereka bisa tinggal.
+
+269
+00:25:41,117 --> 00:25:46,389
+Tentunya tidak.
+Kalau tidak, mereka tidak akan meneleponku.
+
+270
+00:26:48,018 --> 00:26:49,452
+Aku terhubung.
+
+271
+00:26:53,732 --> 00:26:59,171
+Hammer, jangan bergerak secara fisik saja.
+Berkonsentrasi pada gerakan.
+
+272
+00:26:59,195 --> 00:27:03,758
+Antarmuka saraf lebih cepat dengan impuls
+mesin otakmu. Masuk akal?
+
+273
+00:27:04,659 --> 00:27:06,803
+Aku pikir begitu.
+
+274
+00:27:16,838 --> 00:27:21,318
+Kau harus memahami waktu tunda.
+
+275
+00:27:24,596 --> 00:27:28,284
+Bugs and Badger melakukan hal yang sama.
+Bergerak dengan robot.
+
+276
+00:27:28,308 --> 00:27:30,702
+- Diterima.
+- Diterima.
+
+277
+00:27:37,692 --> 00:27:41,422
+Kerjakan itu.
+Kau harus mengkompensasi penundaan itu.
+
+278
+00:27:41,446 --> 00:27:45,050
+Itulah satu-satunya hal yang dapat
+menyelamatkan hidupmu di sana.
+
+279
+00:27:46,785 --> 00:27:49,305
+Sekarang kita periksa
+sistem persenjataannya.
+
+280
+00:27:49,329 --> 00:27:52,432
+Oke! Waktunya berpesta.
+
+281
+00:27:56,253 --> 00:27:59,898
+- Sistem persenjataan tidak ada penundaan.
+- Ini membantu kami.
+
+282
+00:27:59,923 --> 00:28:03,652
+Pilot, mulai persiapan
+dan diagnosa akhir!
+
+283
+00:28:04,052 --> 00:28:07,573
+Makhluk itu memegang posisinya,
+Kita tidak tahu niatnya-
+
+284
+00:28:07,597 --> 00:28:11,785
+- tetapi itu menciptakan pemusnahan
+massal dan kau berada di lapangan.
+
+285
+00:28:12,269 --> 00:28:16,581
+- Mulai urutan boot awal.
+- Diterima.
+
+286
+00:28:22,737 --> 00:28:26,509
+- Tarik lengan orbital.
+- Mulai mesin utama.
+
+287
+00:28:26,533 --> 00:28:30,762
+- Diterima.
+- Siap diluncurkan. Ulangi, siap diluncurkan..
+
+288
+00:28:32,706 --> 00:28:35,642
+- Kami siap untuk lepas landas.
+- Oke!
+
+289
+00:28:36,209 --> 00:28:39,312
+Hubungkan penguat.
+
+290
+00:28:57,814 --> 00:29:00,834
+Ibu, aku takut!
+
+291
+00:29:03,320 --> 00:29:07,340
+Kita harus pergi, kita
+harus keluar kota.
+
+292
+00:29:14,289 --> 00:29:17,017
+Cross, apa itu?
+Ibu, berhati-hatilah!
+
+293
+00:29:19,044 --> 00:29:23,441
+- Ibu, kita akan mati di sini.
+- Sam, kita akan tetap tenang.
+
+294
+00:29:23,465 --> 00:29:28,154
+- Semua orang keluar dari mobil!
+- Ke mana? Kita harus tetap di sini.
+
+295
+00:29:28,178 --> 00:29:32,866
+- Dan hancur seperti serangga? Kita pergi.
+- Sam...
+
+296
+00:29:33,642 --> 00:29:35,285
+Sialan!
+
+297
+00:29:43,360 --> 00:29:50,259
+- Kami mendekat. Bagaimana kabarmu?
+- Respons kemudi lambat, tetapi itu terus berjalan.
+
+298
+00:29:50,283 --> 00:29:54,638
+- Robot ini hampir tidak menjawab.
+- Ya
+
+299
+00:29:55,288 --> 00:30:00,018
+Kita berlatih sedikit di sepanjang jalan.
+Memecahkan masalah sebelum kita menyerang.
+
+300
+00:30:24,776 --> 00:30:27,962
+Kalian mengerti waktu jeda?
+
+301
+00:30:28,947 --> 00:30:31,508
+Ya, pak.
+
+302
+00:30:32,200 --> 00:30:36,304
+<i>Membiasakan diri,</i>
+Tapi kita akan berhasil.
+
+303
+00:30:39,291 --> 00:30:41,269
+Bugs? Badger?
+
+304
+00:30:41,293 --> 00:30:43,937
+- Aku baik-baik saja, Pak.
+- Sama di sini.
+
+305
+00:30:55,473 --> 00:31:01,830
+Giant Killer, kita melihat subjeknya.
+Ulangi, kita melihat itemnya.
+
+306
+00:31:02,480 --> 00:31:05,500
+Ini jauh lebih besar daripada yang kukira.
+
+307
+00:31:08,862 --> 00:31:11,589
+Jenderal, waktu jeda
+akan membunuh mereka.
+
+308
+00:31:14,326 --> 00:31:17,804
+- Haruskah mereka beroperasi tanpa kontrol penuh?
+- Mereka berhasil.
+
+309
+00:31:18,705 --> 00:31:26,354
+- Pembunuh Raksasa? Menunggu instruksi.
+- Izin untuk menyerang, Hammer.
+
+310
+00:31:28,089 --> 00:31:31,067
+Kau mendengarnya.
+Kami diizinkan untuk menyerang.
+
+311
+00:31:31,301 --> 00:31:34,446
+- Diterima.
+- Ok.
+
+312
+00:31:34,804 --> 00:31:39,951
+Badger, Bug, lindungi aku.
+Aku meluncurkan roket.
+
+313
+00:32:02,332 --> 00:32:08,356
+Pembunuh Raksasa? Hits penuh.
+Aku ulangi, sepenuhnya diselesaikan.
+
+314
+00:32:08,380 --> 00:32:10,982
+Kerja bagus, Hammer!
+
+315
+00:32:11,466 --> 00:32:17,906
+- Dapatkah kau memastikan bahwa hewan itu mati?
+- Kami mencari Giant Killer.
+
+316
+00:32:29,359 --> 00:32:32,129
+- Apakah kau melihat itu?
+- Ya
+
+317
+00:32:32,153 --> 00:32:34,464
+Apa artinya?
+
+318
+00:32:44,791 --> 00:32:46,309
+Tidak mati!
+
+319
+00:32:48,628 --> 00:32:51,982
+Pembunuh Raksasa! Tidak mati!
+Aku ulangi, dia tidak mati!
+
+320
+00:33:01,266 --> 00:33:03,410
+Semakin lambat dan lambat!
+
+321
+00:33:16,114 --> 00:33:18,717
+Aku punya masalah.
+
+322
+00:33:20,785 --> 00:33:26,099
+Panel kontrolku lebih pendek.
+Kurasa aku kehilangan kekuatan.
+
+323
+00:33:30,503 --> 00:33:33,064
+Apakah itu disana?
+
+324
+00:33:36,801 --> 00:33:38,945
+Apa yang terjadi?
+
+325
+00:33:41,264 --> 00:33:42,949
+Pembunuh Raksasa?
+
+326
+00:33:43,099 --> 00:33:46,369
+- Apakah sudah selesai?
+- Kita akan pergi!
+
+327
+00:33:53,568 --> 00:33:58,841
+Hallo! Hallo!
+Aku butuh bantuan!
+
+328
+00:33:58,865 --> 00:34:04,179
+Aku butuh bantuanmu.
+Aku tidak bisa bernapas..
+
+329
+00:34:05,956 --> 00:34:08,851
+Kami telah kehilangan kontak
+radio dengan Armada 1!
+
+330
+00:34:08,875 --> 00:34:12,522
+Ini mematikan, pergi-line!
+Sistem gagal!
+
+331
+00:34:12,546 --> 00:34:16,108
+Aku tidak bisa berbuat apa pun dari sini.
+Itu bukan kesalahan sistem!
+
+332
+00:34:16,132 --> 00:34:18,903
+Ada masalah fisik
+dengan robot itu!
+
+333
+00:34:18,927 --> 00:34:23,239
+- Hammer, apa yang terjadi di sana?
+- Tunggu, Hammer!
+
+334
+00:34:25,809 --> 00:34:28,411
+Aku datang, Hammer!
+
+335
+00:34:29,688 --> 00:34:33,541
+- Bugs, waspadalah!
+- Aku tahu itu!
+
+336
+00:34:34,276 --> 00:34:38,171
+Bugs, lanjutkan!
+Aku masuk dan lindungi Hammer!
+
+337
+00:34:38,697 --> 00:34:41,925
+Jenderal, aku akan pergi ke sana. Sekarang!
+
+338
+00:34:43,535 --> 00:34:45,261
+Russo.
+
+339
+00:34:46,037 --> 00:34:48,099
+Lee, Wright. Sekarang
+kita sedang mengemudi!
+
+340
+00:34:48,123 --> 00:34:51,267
+Dr. Horowitz, salah satu dari kalian
+akan tinggal di sini. Dokter!
+
+341
+00:34:54,963 --> 00:34:57,817
+Maaf, Dokter.
+Itu terlalu berbahaya.
+
+342
+00:34:57,841 --> 00:35:03,739
+"Aku empat tahun di bangsal trauma.
+- Tidak ada waktu lagi. Kami akan pergi.
+
+343
+00:35:03,763 --> 00:35:07,660
+- Hammer membutuhkanku di sana.
+- Aku melindunginya, Russo.
+
+344
+00:35:07,684 --> 00:35:10,954
+- Tapi tetap dekat.
+- Turun!
+
+345
+00:35:14,858 --> 00:35:17,377
+- Badger, apa kau baik-baik saja?
+- Aku baik-baik saja.
+
+346
+00:35:22,157 --> 00:35:24,509
+Astaga.
+
+347
+00:35:26,286 --> 00:35:29,639
+- Kita bisa tangani.
+- Hampir sampai.
+
+348
+00:35:32,918 --> 00:35:34,936
+Sialan!
+
+349
+00:35:43,678 --> 00:35:47,324
+- Tetap tenang, dokter.
+- Ya Tuhan..
+
+350
+00:35:52,938 --> 00:35:56,709
+- Aku tidak tahu mereka sangat besar.
+- Benar-benar liar.
+
+351
+00:35:56,733 --> 00:35:59,961
+Berikan gas itu!
+
+352
+00:36:00,362 --> 00:36:03,214
+Sekarang kita lihat hampir sampai.
+Tenang saja.
+
+353
+00:36:03,823 --> 00:36:06,301
+Bagaimana cara kerja 6 orang itu, Wright?
+
+354
+00:36:18,713 --> 00:36:22,276
+- Wright, kau ber 6.
+- Lihat. Tunggu. Kau bisa melihat udara.
+
+355
+00:36:22,300 --> 00:36:25,154
+- Apa?
+- Udara keluar dari kokpitnya.
+
+356
+00:36:25,178 --> 00:36:28,574
+- Ini pasokan oksigennya.
+- Bagaimana kita memperbaikinya?
+
+357
+00:36:28,598 --> 00:36:33,120
+Para robot, seperti
+pesawat luar angkasa.
+
+358
+00:36:33,144 --> 00:36:38,958
+Braket pasti menghancurkan penyaringan.
+Kita harus menutup katup.
+
+359
+00:36:39,359 --> 00:36:45,256
+Aku akan mencoba menyelamatkan ECU
+dan mengembalikan Armada ke internet.
+
+360
+00:36:45,407 --> 00:36:47,926
+Lakukan itu. Aku sedang merawat Hammer.
+
+361
+00:36:51,955 --> 00:36:54,684
+Sayang sekali, Bug!
+Tembak sialan itu!
+
+362
+00:36:54,708 --> 00:36:58,396
+Kau terlalu dekat dengan rudal.
+Aku harus menggunakan meriam.
+
+363
+00:36:58,420 --> 00:37:00,940
+Baik. Lakukan sesuatu!
+
+364
+00:37:00,964 --> 00:37:04,150
+Melibatkan senjata Gatling.
+
+365
+00:37:04,676 --> 00:37:07,570
+Tenang, hati-hati.
+
+366
+00:37:09,306 --> 00:37:10,992
+- Ya, pak.
+- Lee?
+
+367
+00:37:11,016 --> 00:37:15,745
+- Aku sedang melakukannya, Russo..
+- Pegang itu. Aku naik.
+
+368
+00:37:21,443 --> 00:37:25,380
+Hammer! Hammer! Tidak ada jawaban.
+
+369
+00:37:31,620 --> 00:37:35,516
+Kokpit penuh dengan gas.
+Kita harus menyingkirkan Hammer.
+
+370
+00:37:35,540 --> 00:37:37,684
+Roth, kau juga.
+
+371
+00:37:49,179 --> 00:37:50,613
+Hammer.
+
+372
+00:37:52,933 --> 00:37:54,826
+- Hammer!
+- Ya Tuhan.
+
+373
+00:37:58,992 --> 00:38:00,291
+Hammer!
+
+374
+00:38:00,293 --> 00:38:02,760
+- Aku mengerti, pergi perbaiki ECU.
+- Aku ada di dalamnya!
+
+375
+00:38:02,762 --> 00:38:04,396
+- Tetap denganku, tolong.
+- Gantung di sana, sayang.
+
+376
+00:38:04,398 --> 00:38:06,130
+- Lihat aku.
+- Ayolah!
+
+377
+00:38:06,132 --> 00:38:07,831
+Hammer!
+
+378
+00:38:07,833 --> 00:38:10,670
+Aku tidak punya impuls.
+Dapatkan tas medis!
+
+379
+00:38:11,535 --> 00:38:16,139
+Tunggu, kawan.
+Tunggu, jangan menyerah. Ayo!
+
+380
+00:38:16,164 --> 00:38:18,892
+Roth!
+Sulit untuk bernafas!
+
+381
+00:38:20,001 --> 00:38:23,855
+Tetap bersama kami.
+Jangan menyerah!
+
+382
+00:38:28,885 --> 00:38:31,029
+Hammer, ayo!
+
+383
+00:38:34,391 --> 00:38:36,493
+- Kami datang terlambat.
+- Persetan!
+
+384
+00:38:37,310 --> 00:38:39,287
+Dia mati.
+
+385
+00:38:39,563 --> 00:38:42,875
+Kita akan pergi.
+Kita tidak punya waktu!
+
+386
+00:38:42,899 --> 00:38:44,959
+Kita harus pergi.
+
+387
+00:38:45,735 --> 00:38:47,629
+Pergi pergi!
+
+388
+00:39:08,675 --> 00:39:13,655
+Seluruh umat manusia tidak
+dapat menyingkirkan hal itu.
+
+389
+00:39:14,222 --> 00:39:19,328
+- Apa, serangga! Apa yang sedang kau lakukan?
+- Badger, gunakan misilmu!
+
+390
+00:39:19,352 --> 00:39:22,790
+- Tidak! Itu terlalu berisiko!
+- Tembak!
+
+391
+00:39:22,814 --> 00:39:27,377
+Kau memiliki tembakan yang jelas!
+Pukul anak brengsek ini!
+
+392
+00:39:31,072 --> 00:39:33,885
+Rudal ditembakkan!
+Lepaskan!!
+
+393
+00:39:33,909 --> 00:39:35,510
+Berlindung! Berlindung!
+Berlindung!
+
+394
+00:39:53,845 --> 00:39:58,659
+Makhluk itu jatuh!
+Ulangi, makhluk itu jatuh!
+
+395
+00:39:58,683 --> 00:40:00,285
+Pembunuh Raksasa, diterima.
+
+396
+00:40:03,438 --> 00:40:05,833
+Kami memiliki konfirmasi visual.
+
+397
+00:40:05,857 --> 00:40:09,295
+Kerja bagus, Pak Russo.
+Status Hammer?
+
+398
+00:40:09,319 --> 00:40:14,299
+Pak Russo, dimana Hammer?
+Aku ulangi di mana Hammer?
+
+399
+00:40:20,580 --> 00:40:23,725
+- Di mana Hammer?
+- Dia mati.
+
+400
+00:40:25,752 --> 00:40:26,978
+Apa?
+
+401
+00:40:27,546 --> 00:40:28,772
+Tidak!
+
+402
+00:40:36,263 --> 00:40:37,822
+Sialan!
+
+403
+00:40:39,808 --> 00:40:43,412
+- Aku akan melihat lebih dekat.
+- Tidak, tidak.
+
+404
+00:40:43,436 --> 00:40:50,293
+Aku semakin dekat. Jika ada lebih banyak di
+luar sana, aku harus belajar apa yang kubisa.
+
+405
+00:41:02,289 --> 00:41:04,641
+Kau akan membunuhku.
+
+406
+00:41:06,585 --> 00:41:12,524
+Bugs and Badger, Russo di sini.
+Perlu ikhtisar segera.
+
+407
+00:41:12,799 --> 00:41:16,695
+- Diterima, Pembunuh Raksasa.
+- Diterima.
+
+408
+00:41:20,807 --> 00:41:22,701
+Kita pergi.
+
+409
+00:41:31,443 --> 00:41:34,170
+Apa yang tidak terlihat bagus.
+
+410
+00:41:34,613 --> 00:41:38,092
+- Lari!
+- Itu tidak bagus.
+
+411
+00:41:38,116 --> 00:41:42,429
+Berlindung.
+
+412
+00:41:42,746 --> 00:41:45,557
+Armada, Armada, musuh yang
+lebih banyak bergerak!
+
+413
+00:42:09,564 --> 00:42:11,041
+Tidak, tidak!
+
+414
+00:42:12,901 --> 00:42:15,003
+Tidak... Tidak!
+
+415
+00:42:31,586 --> 00:42:35,523
+Bug, Badger, tahan tembakan!
+<i>Batalkan, batalkan!</i>
+
+416
+00:42:36,091 --> 00:42:37,525
+Diterima.
+
+417
+00:42:41,304 --> 00:42:45,492
+- Bug, dimana kau?
+- Aku di sini!
+
+418
+00:42:48,645 --> 00:42:52,248
+Oke. Kembalilah ke pangkalan!
+
+419
+00:43:03,451 --> 00:43:06,597
+Ya Tuhan! Oke.
+Alex? Alex?
+
+420
+00:43:06,621 --> 00:43:08,391
+- Karen?
+Apakah kau baik-baik saja?
+
+421
+00:43:08,415 --> 00:43:11,226
+- Ya Karen, apa kau keluar kota?
+- Tidak.
+
+422
+00:43:12,210 --> 00:43:16,274
+"Kami mencari phenobunker.
+- Apakah kau masih menyetir?
+
+423
+00:43:16,298 --> 00:43:21,195
+- Tidak, kami berjalan kaki.
+- Tidak, Karen! Kau tidak boleh berjalan-jalan!
+
+424
+00:43:21,219 --> 00:43:25,741
+Kami baik-baik saja sekarang. Tenang.
+Apakah kau sudah membunuhnya?
+
+425
+00:43:25,765 --> 00:43:29,328
+Kau harus meninggalkan jalanan.
+Temukan kamar dan kunci diri!
+
+426
+00:43:29,352 --> 00:43:31,622
+- Aku akan menjemputmu.
+- Ibu!
+
+427
+00:43:31,646 --> 00:43:33,373
+Apa?
+
+428
+00:43:35,859 --> 00:43:39,963
+- Sialan! Sialan!
+- Karen! Sialan!
+
+429
+00:43:44,242 --> 00:43:48,722
+Kami melakukan reorganisasi,
+memobilisasi kekuatan pasar.
+
+430
+00:43:49,539 --> 00:43:52,475
+Kami mengirim Armadaans
+untuk memantau.
+
+431
+00:43:52,751 --> 00:43:57,315
+Kios-kios pasar, bisa pergi dari
+rumah ke rumah, jalan ke jalan-
+
+432
+00:43:57,339 --> 00:44:00,026
+-dan membunuh serangga.
+
+433
+00:44:00,050 --> 00:44:05,363
+Mereka tidak boleh masuk ke pedalaman. Karena
+kita tidak akan pernah menghentikannya.
+
+434
+00:44:06,681 --> 00:44:11,287
+Tidak. Sama sekali tidak. Akan ada
+kerugian yang terlalu besar, Jenderal.
+
+435
+00:44:11,311 --> 00:44:14,539
+Warga sipil akan terjebak dalam
+baku tembak.. Itu terlalu berisiko.
+
+436
+00:44:21,238 --> 00:44:24,507
+- Kita pergi ke Tahap 2.
+- Diterima.
+
+437
+00:44:25,200 --> 00:44:28,136
+Kita sedang menyelesaikan Tahap 2.
+
+438
+00:44:28,954 --> 00:44:32,474
+Adakah yang akan memberi
+tahu apa Fase 2 itu?
+
+439
+00:44:38,088 --> 00:44:41,816
+Ini aku, Dr. Roth.
+Bioweapons.
+
+440
+00:44:43,134 --> 00:44:46,447
+Ini leluconmu, kan?
+Perang Biologis?
+
+441
+00:44:46,471 --> 00:44:49,617
+Tidak bisakah kau menemukan yang lain?
+Seperti serangan penerbangan?
+
+442
+00:44:49,641 --> 00:44:52,161
+Kami telah mencobanya.
+Itu tidak berhasil.
+
+443
+00:44:52,185 --> 00:44:56,332
+Apa pun yang kau gunakan, itu mengenai
+semuanya. Ada kejatuhan besar.
+
+444
+00:44:56,356 --> 00:45:02,712
+Dr. Roth, aku tidak ingin menjatuhkan bom karpet,
+oke? Aku akan mengarahkan pada makhluk-makhluk itu.
+
+445
+00:45:15,000 --> 00:45:18,311
+Armadas kembali.
+
+446
+00:45:33,393 --> 00:45:38,915
+Dr. Horowitz, apa yang Andkau a
+butuhkan untuk memulai Tahap 2?
+
+447
+00:45:39,524 --> 00:45:45,296
+Aku butuh salah satu laba-laba.
+Aku ingin tahu apa yang sedang kita hadapi.
+
+448
+00:45:46,323 --> 00:45:50,427
+Aku tidak peduli apa yang dipikirkan U.N.
+Tarik keatas.
+
+449
+00:45:56,750 --> 00:46:00,854
+Maafkan aku, Pak.
+Kami melakukan apa yang kami bisa.
+
+450
+00:46:02,714 --> 00:46:07,902
+Ya, maksudku...
+Kau melakukan apa yang kau bisa.
+
+451
+00:46:10,889 --> 00:46:14,535
+Kami beralih ke Tahap 2 sekarang.
+
+452
+00:46:14,559 --> 00:46:19,832
+Beristirahatlah sampai kau membutuhkannya.
+Badger, awasi dia.
+
+453
+00:46:19,856 --> 00:46:23,084
+Siap Pak. Pastikan kau diperiksa
+oleh petugas medis.
+
+454
+00:46:29,157 --> 00:46:33,095
+Pasang pertahanan
+di pinggiran kota.
+
+455
+00:46:33,119 --> 00:46:37,557
+Apapun dengan lebih dari dua
+kaki harus segera dibunuh.
+
+456
+00:46:38,124 --> 00:46:40,143
+Diterima.
+
+457
+00:46:55,392 --> 00:47:01,082
+- Apakah kau siap untuk melakukan sesuatu?
+- Kami berdua. Kami membutuhkanmu.
+
+458
+00:47:01,106 --> 00:47:04,710
+Kau tahu lebih banyak tentang robot daripada
+orang lain. Itu sebabnya kau ada di sini.
+
+459
+00:47:04,734 --> 00:47:09,006
+Tetapi kau harus mempelajari aturannya.
+Dan aku membuat aturan.
+
+460
+00:47:09,030 --> 00:47:12,718
+Mengapa kau membuat aturan tentang apa
+yang Armadies dapat atau tidak bisa...
+
+461
+00:47:12,742 --> 00:47:18,808
+- Ketika kau tahu aku tahu lebih banyak tentang mereka?
+- Kau skeptis dan ragu.
+
+462
+00:47:18,832 --> 00:47:22,478
+Aku tahu robot dapat melakukan
+lebih dari yang kau pikirkan.
+
+463
+00:47:22,502 --> 00:47:28,733
+- Jika Hallstrome membiarkan aku bekerja
+- Aku sangat setuju denganmu. Oke?
+
+464
+00:47:30,010 --> 00:47:35,408
+Dan kau tidak seperti
+yang kukira.
+
+465
+00:47:35,432 --> 00:47:37,869
+Apakah kau mengatakan
+sesuatu yang baik kepadaku?
+
+466
+00:47:37,893 --> 00:47:42,957
+Maaf. Aku hanya mengatakan aku menyesal
+bahwa aku salah menilaimu.
+
+467
+00:47:42,981 --> 00:47:46,669
+- Apanya yang salah denganku?
+- Kau memiliki reputasi tertentu.
+
+468
+00:47:46,693 --> 00:47:50,756
+- Apakah yang kulakukan?
+- Kau melempar kursi ke luar jendela.
+
+469
+00:47:50,780 --> 00:47:52,590
+Ya.
+
+470
+00:47:53,825 --> 00:47:58,723
+Aku harus tahu bahwa jika aku dapat
+mensintesis biovapen-yang ditargetkan
+
+471
+00:47:58,747 --> 00:48:02,350
+- Dapatkah kau memformat Armadas dan
+membubarkan semuanya secara efektif?
+
+472
+00:48:02,584 --> 00:48:09,566
+Aku akan bekerja dengan resonansi untuk
+meningkatkan efeknya. Tapi... ya, ya.
+
+473
+00:48:10,258 --> 00:48:11,693
+Baik.
+
+474
+00:48:33,782 --> 00:48:37,469
+- Lee!
+- Sedang dalam perjalanan.
+
+475
+00:48:38,620 --> 00:48:41,140
+- Apa yang kita lakukan disini?
+- Merencanakan tempat persembunyian.
+
+476
+00:48:41,164 --> 00:48:44,352
+Kami harus mengambil alih laba-laba.
+Ketahui di mana mereka berada.
+
+477
+00:48:44,376 --> 00:48:48,647
+Di mana mereka berkumpul di mana mereka akan
+pergi. Ambil orang terbelakang dan yang lemah.
+
+478
+00:48:50,924 --> 00:48:54,069
+Bagaimana denganmu? Bagaimana
+kau menjadi manajer tim ini?
+
+479
+00:48:55,554 --> 00:48:58,991
+Timku diserang oleh hal-hal ini
+di dekat San Diego.
+
+480
+00:48:59,015 --> 00:49:05,372
+Aku termasuk dalam operasi ilmiah
+Departemen Pertahanan.
+
+481
+00:49:06,690 --> 00:49:12,295
+Orang-orangku mati karena aku ragu
+menggunakan aset manusia dalam perang.
+
+482
+00:49:12,862 --> 00:49:17,926
+Aku mengatakan mundur...
+ketika aku harus memerintahkan serangan.
+
+483
+00:49:21,288 --> 00:49:24,559
+Aku adalah satu-satunya
+yang selamat hari itu.
+
+484
+00:49:24,583 --> 00:49:28,229
+Aku menjadi ahli di kementerian dalam
+negeri, pertahanan dan presiden.
+
+485
+00:49:28,253 --> 00:49:33,441
+Kami memahami risiko, Roth.
+Hanya itu yang tersisa.
+
+486
+00:49:36,887 --> 00:49:38,239
+Seperti apa bentuknya?
+
+487
+00:49:38,263 --> 00:49:43,827
+Mereka tetap bersama di laut, tetapi beberapa
+kelompok kecil sedang menuju ke kota.
+
+488
+00:49:44,394 --> 00:49:50,126
+Kami mendapatkan teman. Ini akan
+segera lepas jadi kami bawa dokter ke lab!
+
+489
+00:49:50,150 --> 00:49:52,919
+Aku tidak akan kembali.
+
+490
+00:49:54,029 --> 00:49:59,468
+Sama sekali tidak. Terlalu berbahaya
+di luar sana. Mereka ada di mana-mana.
+
+491
+00:49:59,492 --> 00:50:02,763
+Kami memperbaiki spider-mu.
+Kembali ke laboratorium. Ayo.
+
+492
+00:50:02,787 --> 00:50:07,435
+Dan jika kau tidak mendapatkan laba-laba? Bagaimana
+aku harus mengambil tes jaringan di lapangan?
+
+493
+00:50:07,459 --> 00:50:14,275
+Apakah kau terbiasa mengambil sampel jaringan
+di lapangan dan mengumpulkannya, Russo?
+
+494
+00:50:14,299 --> 00:50:19,113
+Lee, Wright, periksa.
+Kami membawa dr. Roth ke laboratorium-
+
+495
+00:50:19,137 --> 00:50:21,699
+lalu kita keluar lagi.
+
+496
+00:50:21,723 --> 00:50:24,785
+Tidak, aku tidak ke mana-mana.
+Buang-buang waktu saja.
+
+497
+00:50:24,809 --> 00:50:27,954
+Aku bisa tinggal di sini
+dan membantu Horowitz.
+
+498
+00:50:29,606 --> 00:50:31,583
+Sana! Sana!
+
+499
+00:50:32,692 --> 00:50:36,755
+- Ibu! Ibu!
+- Sam, lari! Lari!
+
+500
+00:50:46,164 --> 00:50:48,141
+Pergi!
+
+501
+00:50:55,835 --> 00:50:57,336
+Baiklah. baiklah.
+
+502
+00:50:59,886 --> 00:51:04,741
+- Ibu?
+- Kita harus menemukan ruang terkunci.
+
+503
+00:51:05,267 --> 00:51:07,243
+Ayo!
+
+504
+00:51:17,070 --> 00:51:18,672
+Russo!
+
+505
+00:51:21,449 --> 00:51:25,804
+- Ada aktifitas di depan rumah itu.
+- Aku tidak suka ini.
+
+506
+00:51:28,164 --> 00:51:31,226
+Tenang. Aku dapatkan mereka.
+
+507
+00:51:31,269 --> 00:51:32,670
+Turun!
+
+508
+00:51:32,672 --> 00:51:34,368
+Whoa!
+
+509
+00:51:34,379 --> 00:51:39,777
+Kami tidak memiliki senjata atau orang untuk
+mengalahkan begitu banyak dari mereka.
+
+510
+00:51:39,801 --> 00:51:42,989
+Mereka merobek orang ini, kau bercanda.
+
+511
+00:51:43,013 --> 00:51:49,202
+Apapun yang terjadi padamu atau Dr.
+Horowitz, maka misi gagal.
+
+512
+00:51:49,853 --> 00:51:54,958
+Kesempatan terbaik kami adalah aku mendapatkan
+seekor laba-laba tunggal, lebih baik mati.
+
+513
+00:51:56,234 --> 00:52:00,588
+Kita tidak harus berakhir dalam pertarungan
+api dengan sejumlah besar dari mereka.
+
+514
+00:52:04,409 --> 00:52:05,677
+Lihatlah!
+
+515
+00:52:18,506 --> 00:52:23,069
+Wright, tetap bersama mereka.
+Lee, tetaplah dekat.
+
+516
+00:52:44,741 --> 00:52:47,177
+- Lee!
+- Aku melihat mereka.
+
+517
+00:52:52,415 --> 00:52:54,894
+- Aku punya satu!
+- Aku punya dua kiri!
+
+518
+00:52:54,918 --> 00:52:58,438
+Hitung sampai lima!
+Tiga! Satu!
+
+519
+00:53:05,053 --> 00:53:09,449
+Bantu! Kami butuh bantuan!
+- Wright!
+
+520
+00:53:14,145 --> 00:53:16,081
+Apa yang terjadi?
+
+521
+00:53:19,943 --> 00:53:22,921
+- Roth! Kembalilah!
+- Kemana kau pergi?
+
+522
+00:53:24,573 --> 00:53:28,343
+Russo! Wright jatuh!
+Roth datang kepadamu!
+
+523
+00:53:36,585 --> 00:53:40,271
+- Di mana kau belajar menembak seperti itu?
+- Aku dari New York.
+
+524
+00:53:40,589 --> 00:53:43,984
+Ayo, kita ambil ini.
+
+525
+00:53:46,428 --> 00:53:49,155
+Ayo masuk!
+
+526
+00:53:59,024 --> 00:54:01,501
+Pergi! Pergi!
+
+527
+00:54:08,491 --> 00:54:12,305
+- Kami baik-baik saja.
+- Masukkan laba-laba sekarang?
+
+528
+00:54:12,329 --> 00:54:17,310
+Atau jika monster datang
+dan menghancurkan gedung.
+
+529
+00:54:17,334 --> 00:54:22,939
+Sam, sekarang kita tidak keluar, oke?
+Lihatlah aku. Tarik nafas.
+
+530
+00:54:23,924 --> 00:54:28,737
+Ayahmu menemukan kita.
+Apakah kau mengerti itu? Oke?
+
+531
+00:54:37,437 --> 00:54:40,917
+- Aku mendorong sedikit. Itu bisa menyengat.
+- Ayo..
+
+532
+00:54:40,941 --> 00:54:45,086
+- Tenang.
+- Tenang? Hammer sudah mati!
+
+533
+00:54:45,320 --> 00:54:48,090
+- Kita akan keluar lagi...
+- Jatuhkan sekarang.
+
+534
+00:54:48,114 --> 00:54:53,054
+- Aku merekomendasikan beberapa hari istirahat.
+- Persetan dengan itu!
+
+535
+00:54:53,078 --> 00:54:56,390
+Aku akan pergi lagi sekarang!
+Apakah robot sudah siap?
+
+536
+00:54:56,414 --> 00:54:59,351
+Kami mendapatkan kesempatan kami.
+
+537
+00:55:00,544 --> 00:55:04,522
+Dia mati.
+Aku ingin melihat mereka mati.
+
+538
+00:55:06,091 --> 00:55:09,611
+Kami tahu apa yang kami hadapi.
+
+539
+00:55:11,930 --> 00:55:17,452
+Aku tidak berpikir dia pergi.
+Aku tidak mau menangis.
+
+540
+00:55:19,938 --> 00:55:22,290
+Aku tidak mau menangis.
+
+541
+00:55:23,066 --> 00:55:26,170
+- Biarkan aku melihat lagi.
+- Tidak, aku pergi sekarang.
+
+542
+00:55:26,194 --> 00:55:30,299
+- Aku tidak bisa membiarkanmu pergi.
+- Aku tidak bertanya padamu.
+
+543
+00:55:30,323 --> 00:55:35,387
+- Maka kau harus menandatangani beberapa dokumen.
+- Di mana pena sialan itu?
+
+544
+00:55:48,466 --> 00:55:50,026
+Dokter...
+
+545
+00:55:51,845 --> 00:55:55,032
+Tiga, bertiga.
+Satu, dua, tiga.
+
+546
+00:55:55,056 --> 00:55:58,994
+- Tenang...
+- Letakkan itu.
+
+547
+00:55:59,603 --> 00:56:04,667
+Kita harus meletakkannya di luar.
+Kami tidak tahu apakah itu menginfeksi.
+
+548
+00:56:04,691 --> 00:56:07,920
+- Kami akan mengambil peralatan.
+- Baiklah, mengerti. Pada tiga.
+
+549
+00:56:07,944 --> 00:56:11,047
+Tiga, dua.
+
+550
+00:56:12,741 --> 00:56:17,762
+Russo di sini. Aku butuh dr.
+Peralatan Horowitz segera.
+
+551
+00:56:19,164 --> 00:56:20,849
+Ulangi.
+
+552
+00:56:23,793 --> 00:56:27,772
+Itu pasti lelucon.
+Diterima.
+
+553
+00:56:31,801 --> 00:56:37,907
+Kau sudah mendapat telepon. Temanku baru saja
+dibunuh oleh setan ini. Lakukan dengan cepat.
+
+554
+00:56:38,433 --> 00:56:41,537
+Halo?
+Larry, dimana kau?
+
+555
+00:56:41,561 --> 00:56:45,915
+Aku sedang dalam perjalanan kembali.
+Dengarkan sebelum perahu jatuh
+
+556
+00:56:45,941 --> 00:56:48,752
+- Kami mendapat konfirmasi
+dari mana mereka berasal.
+
+557
+00:56:48,902 --> 00:56:52,964
+Kami memiliki kapal selam yang siap menggunakan
+senjata nuklir untuk melawan mereka.
+
+558
+00:56:53,698 --> 00:56:56,719
+Apakah kau tahu seberapa besar gelombang
+pasang yang akan dihasilkannya?
+
+559
+00:56:56,743 --> 00:57:00,138
+- Ya aku tahu.
+- Apa lagi yang kau punya?
+
+560
+00:57:00,747 --> 00:57:05,019
+- Ada lebih banyak lagi.
+- Apakah ada di antara mereka?
+
+561
+00:57:05,043 --> 00:57:10,315
+- Kaulah yang meramalkannya, bukan?
+- Aku berharap aku salah.
+
+562
+00:57:11,091 --> 00:57:15,279
+Ya, tapi apa yang kau lakukan dengan
+laba-laba? Apa yang terjadi pada Armada?
+
+563
+00:57:15,303 --> 00:57:19,033
+Kami mengambil seekor laba-laba. Horowitz ingin
+menciptakan patogen yang membunuh mereka-
+
+564
+00:57:19,057 --> 00:57:22,203
+- dan aku akan mencoba
+menyebarkannya dengan Armadians.
+
+565
+00:57:22,227 --> 00:57:26,666
+Kedengarannya seperti rencana. Aku akan
+membuatmu diposting, karena aku tau itu.
+
+566
+00:57:26,690 --> 00:57:31,127
+- Bagus. Bagus, kau masih hidup.
+- Aku juga berpikir begitu.
+
+567
+00:57:34,322 --> 00:57:36,257
+Apakah kau sudah selesai?
+
+568
+00:57:40,370 --> 00:57:42,514
+- Apakah masih ada lagi?
+- Ya.
+
+569
+00:57:44,082 --> 00:57:48,646
+- Apa yang kau pikirkan tentang itu?
+- Mereka terlihat seperti laba-laba biasa.
+
+570
+00:57:48,670 --> 00:57:50,898
+Kecuali ukurannya.
+
+571
+00:57:50,922 --> 00:57:55,568
+Mungkin karena radiasi, atau kita
+telah menemukan spesies baru.
+
+572
+00:57:55,886 --> 00:58:00,575
+- Aku harus memotongnya dulu.
+- Ayolah.
+
+573
+00:58:00,599 --> 00:58:05,037
+Pak Sekretaris, aku mengerti bahwa
+tidak ada yang disiapkan. Ya. Oke.
+
+574
+00:58:05,061 --> 00:58:09,125
+Memobilisasi banyak
+kekuatan pasukan darat, jika perlu.
+
+575
+00:58:09,149 --> 00:58:13,296
+Jenderal, Dr. Peralatan
+Horowitz sudah siap.
+
+576
+00:58:13,320 --> 00:58:15,046
+Diterima.
+
+577
+00:58:32,422 --> 00:58:33,983
+Biarkan aku melihat.
+
+578
+00:58:34,007 --> 00:58:38,696
+Tingkat radiasi normal dan tidak
+mengeluarkan toksisitas apa pun.
+
+579
+00:58:38,720 --> 00:58:41,656
+Ini kabar baik.
+
+580
+00:58:42,641 --> 00:58:46,202
+Lalu kita lihat di dalam dirimu.
+
+581
+00:58:53,401 --> 00:58:55,378
+Itu bau.
+
+582
+00:58:57,656 --> 00:59:03,762
+Ini menarik. Berikut adalah mayat yang
+tidak bisa aku identifikasi di sini.
+
+583
+00:59:03,870 --> 00:59:08,226
+Biasanya kau bisa mengetahui fungsinya
+jika kau tahu sedikit tentang organisme.
+
+584
+00:59:08,250 --> 00:59:11,186
+Tapi yang ini...
+
+585
+00:59:14,130 --> 00:59:19,779
+Teman-teman, ini bukan berbasis karbon. Semua
+kehidupan di bumi adalah berbasis karbon..
+
+586
+00:59:19,803 --> 00:59:23,991
+Apa maksudmu?
+Bukankah mereka berasal dari bumi?
+
+587
+00:59:24,015 --> 00:59:27,577
+Jika mereka bukan dari
+Bumi, mereka adalah alien.
+
+588
+00:59:28,061 --> 00:59:31,249
+Jika kau memiliki hipotesis
+lain, aku ingin mendengarnya.
+
+589
+00:59:31,273 --> 00:59:35,063
+Terlepas apakah mereka alien, itu
+adalah masalah menghentikan hal-hal ini.
+
+590
+00:59:35,123 --> 00:59:36,986
+Tentu saja, Jenderal.
+
+591
+00:59:36,987 --> 00:59:41,299
+Terus kabari aku.
+Aku akan menjelaskan ke Gedung Putih.
+
+592
+00:59:42,576 --> 00:59:44,804
+- Bisakah kau melihat kelenjar ini?
+- Ya.
+
+593
+00:59:44,828 --> 00:59:48,015
+Biasanya itu akan menghilangkan
+garam dari tubuh.
+
+594
+00:59:48,039 --> 00:59:52,728
+Tapi tampaknya ditutupi oleh
+semacam membran plasma terbalik.
+
+595
+00:59:52,752 --> 00:59:58,608
+- Ini seperti garam yang dikristalkan.
+- Ya. Tubuh ini menyimpan garam.
+
+596
+00:59:59,009 --> 01:00:03,823
+Yang masuk akal untuk
+membalikkan membran plasma
+
+597
+01:00:03,847 --> 01:00:07,368
+- dengan aman mengambil garam
+dari lautan tempat tinggalnya.
+
+598
+01:00:07,392 --> 01:00:10,830
+Itu disimpan di kelenjarnya,
+mengembalikannya ke sistemnya...
+
+599
+01:00:10,854 --> 01:00:16,419
+- seperti yang dilakukan tubuh kita dengan insulin.
+- Jenis seperti unta menyimpan lemak di punuknya?
+
+600
+01:00:16,443 --> 01:00:18,296
+Ya. Perbandingan yang bagus.
+
+601
+01:00:18,320 --> 01:00:23,426
+Berita bagus, karena jika aku dapat
+menemukan cara untuk menghancurkan membran-
+
+602
+01:00:23,450 --> 01:00:27,722
+- apakah itu lebih baik daripada menciptakan
+patogen yang merusak lingkungan-
+
+603
+01:00:27,746 --> 01:00:31,308
+dan dapat membahayakan penduduk.
+
+604
+01:00:32,542 --> 01:00:33,852
+Permisi.
+
+605
+01:00:34,252 --> 01:00:37,773
+Intrepid Gold mendekati aktivitas sonar.
+
+606
+01:00:37,797 --> 01:00:39,797
+Temen-teman, kurasa ada
+sesuatu yang lain di sini!
+
+607
+01:00:40,786 --> 01:00:42,255
+Aku keluar dari sini.
+
+608
+01:00:43,428 --> 01:00:45,864
+Ayo, sayang, ayolah.
+
+609
+01:00:53,104 --> 01:00:58,418
+Lanjutkan! Lanjutkan!
+Ayo! Lebih cepat!
+
+610
+01:01:01,863 --> 01:01:07,552
+USS Radiant mendekati tempat di
+mana Intrepid Gold dihancurkan.
+
+611
+01:01:08,411 --> 01:01:13,099
+Senjata nuklir itu memiliki lapis baja.
+Ini mungkin resort kami.
+
+612
+01:01:14,751 --> 01:01:17,437
+Kau tahu pendapatku.
+
+613
+01:01:26,471 --> 01:01:31,327
+Atlant komando, di sini adalah kapten
+kapal Sterling di USS Radiant.
+
+614
+01:01:31,351 --> 01:01:34,913
+Bisakah kau melihat gambarnya?
+
+615
+01:01:38,400 --> 01:01:43,339
+Perintah Atlantik menegaskan.
+Kau bisa menyapu dan menghancurkan.
+
+616
+01:01:43,363 --> 01:01:46,800
+Diterima. Lakukan perintah
+untuk menyapu dan menghancurkan.
+
+617
+01:01:54,749 --> 01:01:57,937
+Ruang torpedo depan, buat pipa satu
+sampai empat siap untuk menembak...
+
+618
+01:01:57,961 --> 01:02:03,566
+- dengan MOD7 CBASS.
+- Diterima, bos. MOD7 CBASS.
+
+619
+01:02:09,055 --> 01:02:12,867
+Bersiap untuk peluncuran
+di tandai.
+
+620
+01:02:14,603 --> 01:02:21,251
+Dan tiga... dua... satu tandai!
+
+621
+01:02:28,450 --> 01:02:31,428
+- Atau tidak.
+- Kau pasti bercanda.
+
+622
+01:02:32,412 --> 01:02:34,723
+Itu disapu bersih.
+
+623
+01:02:35,332 --> 01:02:39,896
+- Ada makhluk lain di luar sana.
+- Makhluk.
+
+624
+01:02:39,920 --> 01:02:44,942
+Aku perlu tahu apakah Dr. Horowitz
+telah datang untuk menghapusnya.
+
+625
+01:02:44,966 --> 01:02:48,445
+Dan aku butuh Armadas sekarang!
+
+626
+01:02:49,387 --> 01:02:51,197
+Diterima.
+
+627
+01:03:02,108 --> 01:03:05,922
+Dan itulah cara kita akan membunuh mereka.
+
+628
+01:03:05,946 --> 01:03:10,550
+Laba-laba baik-baik saja. Tetapi bagaimana
+jika kita memiliki makhluk yang lebih besar?
+
+629
+01:03:10,867 --> 01:03:15,097
+Kurasa itu karena laba-laba
+berasal dari yang lebih besar-
+
+630
+01:03:15,121 --> 01:03:19,976
+- Mereka mungkin memiliki komposisi
+dan organ genetik yang sama.
+
+631
+01:03:23,463 --> 01:03:27,860
+Armada adalah cara terbaik untuk
+menerapkan agen ini.. Apakah kau setuju?
+
+632
+01:03:27,884 --> 01:03:29,653
+Benar.
+
+633
+01:03:30,053 --> 01:03:32,241
+- Tapi bagaimana kita menyebarkannya?
+- Unit semburan api..
+
+634
+01:03:32,253 --> 01:03:33,241
+- Hmm, brilian.
+
+635
+01:03:33,265 --> 01:03:38,538
+- Aku hanya menyempurnakannya sedikit.
+- Oke. Mari kita lakukan secepatnya.
+
+636
+01:03:38,562 --> 01:03:43,500
+Terus beri kami informasi, dokter. Kami tidak
+punya banyak waktu. Atau tidak ada waktu.
+
+637
+01:03:47,237 --> 01:03:51,883
+- Kau yakin itu berhasil?
+- Kami tidak punya apa-apa lagi.
+
+638
+01:03:52,242 --> 01:03:56,180
+- Apakah itu yang kau cari?
+- Ya.
+
+639
+01:03:56,204 --> 01:04:02,185
+Kita bisa menggunakan yang lebih besar, 22
+atau 24, tetapi itu harus menjadi pendahuluan.
+
+640
+01:04:03,879 --> 01:04:09,150
+Hei...
+Terima kasih telah bekerja sama denganku.
+
+641
+01:04:09,843 --> 01:04:15,740
+Aku senang kita
+bisa bekerja sama.
+Meskipun ini hari terakhir kita hidup.
+
+642
+01:04:28,194 --> 01:04:33,550
+Oke, pak Russo. Katakan padaku ketika
+kau melihat cahaya kontak menghilang.
+
+643
+01:04:36,203 --> 01:04:37,887
+Sudah mati!
+
+644
+01:04:38,163 --> 01:04:42,310
+Unit-unit pengintaian telah mengkonfirmasi
+bahwa dua benda bergerak menuju pantai.
+
+645
+01:04:42,334 --> 01:04:44,936
+- Dua?
+- Astaga.
+
+646
+01:05:06,983 --> 01:05:10,171
+Seperti sarung tangan.
+
+647
+01:05:10,195 --> 01:05:14,508
+Terkunci dan diisi daya. Kusarankan
+kita menyimpan satu sebagai cadangan.
+
+648
+01:05:14,532 --> 01:05:18,261
+- Ide bagus.
+- Bagus.
+
+649
+01:05:19,037 --> 01:05:23,558
+- Apakah sudah siap?
+- Sangat siap, itu bisa.
+
+650
+01:05:24,068 --> 01:05:25,635
+Di mana pilotnya?
+
+651
+01:05:26,002 --> 01:05:30,065
+Aku tidak tahan
+menunggu hal ini.
+
+652
+01:05:38,098 --> 01:05:42,911
+- Bug! Badger! Ke hangar, cepat!
+- Akhirnya!
+
+653
+01:05:43,270 --> 01:05:46,915
+Bug, bangun!
+Sudah waktunya untuk pergi.
+
+654
+01:05:47,941 --> 01:05:52,754
+Bug, angkat pantatmu!
+Kita akan pergi! Bugs!
+
+655
+01:05:53,863 --> 01:05:56,675
+Bugs! Ya Tuhan! Russo!
+
+656
+01:05:56,992 --> 01:06:02,974
+- Bugs, Badger, kau harus datang sekarang.
+- Russo, ayo! Ada yang salah dengan Bugs!
+
+657
+01:06:02,998 --> 01:06:06,601
+Aku membaliknya dan dia...
+
+658
+01:06:07,836 --> 01:06:12,065
+Apa-apaan ini
+Russo, mengapa pintunya tidak terbuka?
+
+659
+01:06:18,847 --> 01:06:22,952
+Aku kehilangan orang baik sekarang.
+Apa yang sedang terjadi?
+
+660
+01:06:22,976 --> 01:06:26,414
+Kita harus menempatkan mereka di karantina.
+Dia terinfeksi.
+
+661
+01:06:26,438 --> 01:06:30,960
+Bagaimana kita menghentikan mereka tanpa
+pilot untuk menerbangkan Armadaans?
+
+662
+01:06:30,984 --> 01:06:36,799
+- Tunggu. Apakah kita tidak memiliki pilot yang tersisa?
+- Ya. Tetapi tidak di sini.
+
+663
+01:06:36,823 --> 01:06:40,136
+Semuanya terjadi sangat cepat.
+Kita sama sekali tidak siap.
+
+664
+01:06:40,160 --> 01:06:45,683
+Itu harus aku. Dokter, adakah yang
+bisa mengendalikan hal-hal itu?
+
+665
+01:06:45,707 --> 01:06:48,561
+- Apakah kau pernah dipetakan otak?
+- Tidak, makanya aku bertanya.
+
+666
+01:06:48,585 --> 01:06:53,898
+Kau bisa melakukannya. Kau bisa mendapatkan mesin
+Bugs, tetapi penundaan itu akan semakin besar.
+
+667
+01:06:54,132 --> 01:06:58,905
+Pemetaan otak bervariasi dan aku tidak
+tahu bagaimana Armada bekerja untukmu.
+
+668
+01:06:58,929 --> 01:07:01,490
+Kami tidak punya pilihan.
+
+669
+01:07:01,514 --> 01:07:04,118
+- Taruh saja aku di sana.
+- Aku ambil yang lain.
+
+670
+01:07:04,142 --> 01:07:06,579
+Tidak, kau tetap di sini
+dan lindungi punggungku.
+
+671
+01:07:06,603 --> 01:07:12,293
+- Tidak, aku mengambil Armada kedua.
+- Aku tak bisa kendalikan Robot satu miliar dolar, Dokter.
+
+672
+01:07:12,317 --> 01:07:18,007
+Jenderal, Armada's AI bekerja dengan
+impuls otak kita. Aku dipetakan otak.
+
+673
+01:07:18,031 --> 01:07:22,595
+Aku memiliki sedikit keterlambatan.
+Jujur, kita tidak punya pilihan.
+
+674
+01:07:22,619 --> 01:07:27,223
+"Kita tidak bisa mengirimnya sendirian.
+- Tidak, biarkan orang lain yang melakukannya.
+
+675
+01:07:29,292 --> 01:07:33,188
+- Apakah kau khawatir tentang aku, Horowitz?
+- Mungkin.
+
+676
+01:07:33,755 --> 01:07:37,567
+Dan namaku adalah Andrea.
+- J.P.
+
+677
+01:07:39,219 --> 01:07:41,696
+Apa artinya?
+
+678
+01:07:42,138 --> 01:07:46,785
+"-Aku mengatakan bahwa jika aku
+bertahan hidup. - Jadi selamat.
+
+679
+01:07:47,519 --> 01:07:49,537
+Bunuh mereka.
+
+680
+01:07:49,813 --> 01:07:52,625
+- Apakah kau siap?
+- Ya.
+
+681
+01:07:52,649 --> 01:07:55,543
+Ayo pergi, ayo pergi, ayo pergi!
+
+682
+01:08:55,962 --> 01:08:58,064
+Lee, apakah kau dalam posisi?
+
+683
+01:08:58,423 --> 01:09:00,902
+Ya. Aku memiliki kontak mata dengan tujuan.
+
+684
+01:09:00,926 --> 01:09:03,404
+- Bagus. Kedatangan dalam dua menit.
+- Diterima.
+
+685
+01:09:03,428 --> 01:09:06,323
+Pastikan tujuan telah
+dipilih sebelum kita tiba.
+
+686
+01:09:09,184 --> 01:09:13,247
+Russo, ubah L menjadi 070328!
+
+687
+01:09:13,271 --> 01:09:16,291
+Menunggu aktivasi.
+
+688
+01:09:16,524 --> 01:09:18,918
+Mengerti. Bersihkan sinyal.
+
+689
+01:09:20,737 --> 01:09:23,425
+Ini seharusnya mempermudahnya untuk
+misil untuk mencapai target.
+
+690
+01:09:23,841 --> 01:09:25,743
+<i>Pergi dapatkan mereka, Russo.</i>
+
+691
+01:09:28,745 --> 01:09:32,725
+Dokter! Tetap di belakangku!
+Aku menanggung beban dari semua serangan!!
+
+692
+01:09:32,749 --> 01:09:36,562
+Ketika aku memberi aba-aba, apakah kau melakukan
+serangan semprotan, apakah kau mengerti?
+
+693
+01:09:36,586 --> 01:09:38,355
+Ya.
+
+694
+01:09:42,676 --> 01:09:44,986
+Bisakah kau melihat apa
+yang kita lihat di sini?
+
+695
+01:09:45,762 --> 01:09:48,157
+Apa yang mereka lakukan?
+
+696
+01:09:48,181 --> 01:09:50,785
+Semua laba-laba tertangkap
+pada makhluk yang lebih besar.
+
+697
+01:09:50,809 --> 01:09:56,039
+Tetap di belakangnya. Jangan terlalu bersemangat.
+Aku pergi dulu dan periksa reaksinya.
+
+698
+01:09:59,901 --> 01:10:02,837
+Russo, waspadalah!
+Yang besar keluar untukmu!
+
+699
+01:10:13,081 --> 01:10:16,601
+- Aku masuk, Russo!
+- Negatif! Tetap kembali!
+
+700
+01:10:25,343 --> 01:10:28,155
+Pak Russo, ada banyak
+laba-laba di jalanmu!
+
+701
+01:10:28,179 --> 01:10:34,411
+Aku tahu dengan baik. Itu AI sialan.
+Penundaan serius.
+
+702
+01:10:45,572 --> 01:10:48,299
+Ya Tuhan, itu seperti berjalan di lumpur!
+
+703
+01:10:54,497 --> 01:10:57,225
+Pergi saja!
+
+704
+01:11:01,046 --> 01:11:05,108
+- Sekarang! Terapkan sekarang!
+- Oke! Aku ke sana!
+
+705
+01:11:10,388 --> 01:11:13,658
+Apa? Itu tidak berhasil!
+
+706
+01:11:13,975 --> 01:11:19,331
+- Dokter, gunakan kotak api!
+- Itu tidak berhasil!
+
+707
+01:11:22,734 --> 01:11:25,170
+Si penyembur api turun!
+
+708
+01:11:29,741 --> 01:11:31,593
+Dokter, pergi!
+
+709
+01:11:33,471 --> 01:11:35,206
+Oh!
+
+710
+01:11:41,345 --> 01:11:42,547
+Ah!
+
+711
+01:11:48,552 --> 01:11:49,944
+Terima kasih.
+
+712
+01:11:50,262 --> 01:11:55,701
+- Apakah kau menemukan kesalahan pada sistem?
+- Tidak. Masih tidak berhasil.
+
+713
+01:11:55,725 --> 01:11:59,829
+Tetap pergi sampai
+kau mengetahui cara memperbaikinya.
+
+714
+01:12:04,234 --> 01:12:06,044
+Sialan!
+
+715
+01:12:15,328 --> 01:12:17,847
+Aku hanya punya sedikit amunisi.
+
+716
+01:12:21,886 --> 01:12:23,718
+Jatuh kembali saat
+menggunakan roket.
+
+717
+01:12:23,720 --> 01:12:24,887
+Tetap pada jarak yang aman.
+
+718
+01:12:24,889 --> 01:12:26,021
+Aku ulangi, tetap
+pada jarak yang aman!
+
+719
+01:12:26,023 --> 01:12:27,322
+Dimengerti?
+
+720
+01:12:27,423 --> 01:12:28,423
+Ya.
+
+721
+01:12:36,474 --> 01:12:39,285
+Ayo! Sekarang kita sedang mengemudi!
+
+722
+01:12:46,985 --> 01:12:50,088
+Ya! Ayo! Sekarang kita sedang mengemudi!
+
+723
+01:12:50,697 --> 01:12:53,550
+Bagaimana penyembur api itu?
+
+724
+01:12:53,742 --> 01:12:56,888
+Tidak ada yang berhasil.
+Aku tidak tahu bagaimana kelanjutannya.
+
+725
+01:12:56,912 --> 01:13:00,807
+Sekarang perbaiki pemindai api!
+Kami membutuhkannya!
+
+726
+01:13:09,925 --> 01:13:14,404
+- Katakan kau melihat ini.
+- Ya.
+
+727
+01:13:16,640 --> 01:13:21,202
+Giant Killer, apakah kau
+mendapatkan umpan ini?
+
+728
+01:13:22,062 --> 01:13:24,707
+Ya, pak Russo. Kami melihatnya.
+
+729
+01:13:24,731 --> 01:13:27,584
+Sepertinya mereka
+saling melebur.
+
+730
+01:13:33,156 --> 01:13:35,008
+Apa itu?
+
+731
+01:13:38,119 --> 01:13:42,349
+- Roth, bagaimana menurutmu?
+- Tidak tahu itu.
+
+732
+01:13:46,545 --> 01:13:49,899
+- Ini rekombinasi.
+- Apa artinya itu?
+
+733
+01:13:49,923 --> 01:13:54,903
+Ini memiliki protein rekombinan.
+Ini menjadi organisme.
+
+734
+01:13:58,181 --> 01:14:00,659
+Aku pikir kau benar.
+
+735
+01:14:07,065 --> 01:14:10,585
+Dr. Roth, kembali! Kembali!
+
+736
+01:14:23,073 --> 01:14:24,706
+<i>Dok, aku ingin kau tetap
+jauh dari hal ini</i>
+
+737
+01:14:24,708 --> 01:14:26,909
+<i>mungkin sampai kau
+mencari tahu apa sih</i>
+
+738
+01:14:26,911 --> 01:14:28,577
+<i>sedang terjadi dengan
+sistem senjata itu!</i>
+
+739
+01:14:28,578 --> 01:14:30,855
+- Diterima?
+- Ya, Pak Russo.
+
+740
+01:14:33,758 --> 01:14:39,197
+Dr Roth, apakah kau datang dengan
+cara lain untuk menyebarkan patogen?
+
+741
+01:14:42,517 --> 01:14:48,916
+- Berikan aku cadangan. Aku akan pergi ke sana.
+- Tidak. Jangan sendirian. Itu bunuh diri.
+
+742
+01:14:48,940 --> 01:14:50,792
+Aku melakukannya.
+
+743
+01:14:51,693 --> 01:14:57,298
+Oke. Aku mengawalmu dan
+melindungimu. Kau akan kembali.
+
+744
+01:14:57,532 --> 01:15:00,344
+Jaga dia, Lee.
+Dia adalah kesempatan terakhir kita.
+
+745
+01:15:00,712 --> 01:15:02,077
+Ya pak.
+
+746
+01:15:02,079 --> 01:15:03,280
+Ayolah.
+
+747
+01:15:20,889 --> 01:15:22,157
+Maju!
+
+748
+01:16:02,222 --> 01:16:06,786
+Kakiku Itu terbakar!
+Itu membakar melalui gugatan itu!
+
+749
+01:16:06,810 --> 01:16:09,913
+Katakanlah kau memilikinya secara online!
+
+750
+01:16:12,983 --> 01:16:16,670
+Katakanlah sekarang bahwa senjatamu
+sedang online lagi!
+
+751
+01:16:17,153 --> 01:16:19,757
+Tidak, tapi aku punya ide.
+
+752
+01:16:19,781 --> 01:16:23,678
+Aku ingin mendorong lengan
+flap ke tenggorokan kesaksian.
+
+753
+01:16:23,702 --> 01:16:30,058
+Asam harus makan melalui tubuh
+lalat dan menutup semprotan.
+
+754
+01:16:33,044 --> 01:16:37,315
+Ini gila, Roth. Gila.
+Oke.
+
+755
+01:16:38,592 --> 01:16:40,278
+Aku punya ide.
+
+756
+01:16:40,302 --> 01:16:45,907
+Tunggu dengan wadah cadangan.
+Biarkan aku mencobanya di sini dulu.
+
+757
+01:16:46,391 --> 01:16:51,330
+Roth, apa kau yakin? Aku tidak suka itu.
+Kau harus melemahkannya dulu.
+
+758
+01:16:51,354 --> 01:16:55,709
+Bagaimana itu?
+Misil tidak bisa mengatasinya.
+
+759
+01:16:56,318 --> 01:16:59,629
+Aku tahu apa yang bisa.
+Tetapi harus langsung dan akurat.
+
+760
+01:16:59,654 --> 01:17:03,758
+Aku tidak suka nadamu.
+Begitulah cara kau berbicara di Tripoli.
+
+761
+01:17:05,785 --> 01:17:08,556
+Apa itu? Istrimu?
+
+762
+01:17:08,580 --> 01:17:12,560
+- Dia ada di gedung 1 km dari sini.
+- Ayo kita dapatkan dia.
+
+763
+01:17:12,584 --> 01:17:18,315
+- Tidak, kita adalah cadangan Roth dan Russo.
+- Lee, pergi bawalah istri dan anakmu.
+
+764
+01:17:29,351 --> 01:17:34,581
+Sekarang kita lakukan ini di sini dulu.
+Aku memukul bajingan itu.
+
+765
+01:17:35,482 --> 01:17:40,337
+- lalu kau selesaikan pekerjaannya.
+- Itu tidak diperlukan. Aku datang sekarang.
+
+766
+01:17:40,612 --> 01:17:44,466
+Diam! Lakukan apa yang kukatakan!
+
+767
+01:17:46,451 --> 01:17:50,597
+Masukkan sinyalku.
+Apakah kau siap?
+
+768
+01:17:56,628 --> 01:17:58,813
+Oke. Kita mulai.
+
+769
+01:18:00,090 --> 01:18:03,985
+- Russo! Tidak!
+- Apakah hanya itu yang kau miliki?
+
+770
+01:18:04,469 --> 01:18:06,279
+Dua...
+
+771
+01:18:15,730 --> 01:18:17,248
+Tidak!
+
+772
+01:18:21,319 --> 01:18:23,630
+Apa itu?
+
+773
+01:18:25,532 --> 01:18:30,011
+- Aku cinta kamu sayang.
+- Aku juga mencintaimu.
+
+774
+01:18:35,750 --> 01:18:38,061
+- Karen?
+- Ayah!
+
+775
+01:18:43,967 --> 01:18:47,237
+Aku tahu kau akan datang.
+
+776
+01:18:47,971 --> 01:18:50,365
+- Apakah sudah selesai?
+- Ya.
+
+777
+01:18:50,807 --> 01:18:54,536
+Aku punya mobil di luar.
+Sekarang kita pulang.
+
+778
+01:19:01,401 --> 01:19:04,212
+SaAku ya memasukkan ke tenggorokannya.
+
+779
+01:19:11,703 --> 01:19:14,514
+Ayolah. Gunakan asamnya.
+
+780
+01:19:24,591 --> 01:19:28,194
+Oke, datanglah ke Ibu!
+
+781
+01:20:03,505 --> 01:20:07,276
+- Apakah mereka berdua baik saja?
+- Segar bugar. Terima kasih, Dokter.
+
+782
+01:20:07,300 --> 01:20:11,029
+Kita akan menyeberang ke Roth
+sebelum asam makan ke kokpit.
+
+783
+01:20:12,722 --> 01:20:16,327
+Tunggu sebentar, Dokter.
+Ini bisa sulit.
+
+784
+01:20:16,351 --> 01:20:18,536
+Belok kanan!
+
+785
+01:20:30,541 --> 01:20:33,378
+Dok, dapatkan Roth.
+Aku akan melindungimu dari sini.
+
+786
+01:20:45,755 --> 01:20:49,651
+Dr. Roth? Bisakah kau mendengarku?
+
+787
+01:20:54,431 --> 01:20:58,994
+Dr. Roth?
+Dr. Roth, bisakah kau mendengarku?
+
+788
+01:21:04,524 --> 01:21:07,711
+Dr. Roth, bisakah kau mendengarku?
+
+789
+01:21:08,320 --> 01:21:12,090
+- Ini aku, Andrea.
+- Apa yang terjadi?
+
+790
+01:21:12,616 --> 01:21:19,055
+Kau membunuh mereka. Itu yang terjadi.
+Kau adalah seorang pahlawan.
+
+791
+01:21:19,331 --> 01:21:23,059
+Kita akan pergi dari sini.
+Ayo.
+
+792
+01:21:30,175 --> 01:21:32,068
+Kau baik-baik saja?
+
+793
+01:21:32,719 --> 01:21:36,364
+Ayo. Kita harus cepat pergi.
+
+794
+01:22:14,553 --> 01:22:16,697
+- James Patrick.
+- Apa?
+
+795
+01:22:16,721 --> 01:22:20,992
+Sudah kubilang aku akan memberitahumu
+jika aku selamat.
+
+796
+01:22:21,977 --> 01:22:26,790
+- Aku senang kau belum mati.
+- Aku juga.
+
+797
+01:22:28,977 --> 01:22:35,790
+<font color="#ffff00">{\move(192,300,192,1)}- Alih Bahasa oleh -
+\N{\r}{\move(192,300,192,1)\fscx0\fscy0\t(0,4000,\fscx150\fscy150)}* Atras Zihny T *</font>
+
+798
+01:22:36,977 --> 01:22:44,790
+<font color="#ffff00">{\move(192,300,192,1)}- Alih Bahasa oleh -
+\N{\r}{\move(192,300,192,1)\fscx0\fscy0\t(0,4000,\fscx150\fscy150)}* Atras Zihny T *</font>
+
+799
+01:22:46,977 --> 01:22:54,977
+<font color="#ffff00">Alih Bahasa: Atras Zihny T</font>
+
+800
+01:23:00,977 --> 01:23:08,977
+<font color="#ffff00">https://blog.tradersakti.com</font>
+

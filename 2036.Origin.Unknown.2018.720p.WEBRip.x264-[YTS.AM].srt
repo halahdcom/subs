@@ -1,0 +1,4398 @@
+﻿1
+00:00:10,599 --> 00:00:15,599
+Subtitles by explosiveskull
+
+2
+00:02:25,753 --> 00:02:27,853
+Stage two checks complete.
+
+3
+00:02:27,855 --> 00:02:30,755
+Martian One, prepare
+for launch countdown.
+
+4
+00:02:30,757 --> 00:02:32,591
+Copy that, Mission Control.
+
+5
+00:02:32,593 --> 00:02:34,492
+Guidance is internal.
+
+6
+00:02:34,494 --> 00:02:36,395
+Hold-down clamps released.
+
+7
+00:02:36,397 --> 00:02:39,029
+12, 11,
+
+8
+00:02:39,031 --> 00:02:41,566
+10, nine.
+
+9
+00:02:41,568 --> 00:02:44,068
+Ignition sequence start.
+
+10
+00:02:44,070 --> 00:02:46,170
+Six, five,
+
+11
+00:02:46,172 --> 00:02:48,773
+four, three,
+
+12
+00:02:48,775 --> 00:02:51,041
+two, one.
+
+13
+00:02:54,181 --> 00:02:56,014
+All engines look good.
+
+14
+00:02:56,016 --> 00:02:59,717
+Martian One is experiencing
+maximum dynamic pressure.
+
+15
+00:02:59,719 --> 00:03:02,422
+Guidance internal,
+still looking good.
+
+16
+00:03:03,689 --> 00:03:04,825
+Payload intact.
+
+17
+00:03:10,696 --> 00:03:13,700
+Prepare for Stage One
+booster separation.
+
+18
+00:03:16,503 --> 00:03:18,638
+Stage One booster
+separation complete.
+
+19
+00:03:20,207 --> 00:03:22,677
+First-stage flight guidance
+in progress.
+
+20
+00:03:23,944 --> 00:03:25,910
+Main upper engine cut off.
+
+21
+00:03:25,912 --> 00:03:27,849
+Stage Two separation.
+
+22
+00:03:30,650 --> 00:03:32,050
+Mission Control to Martian One,
+
+23
+00:03:32,052 --> 00:03:33,688
+guidance control over to you.
+
+24
+00:03:35,189 --> 00:03:37,188
+Copy that. Assuming
+guidance control.
+
+25
+00:03:37,190 --> 00:03:39,926
+Martian One, telemetry
+looking good, please proceed.
+
+26
+00:03:41,462 --> 00:03:42,627
+Thank you, Mission Control.
+
+27
+00:03:42,629 --> 00:03:44,763
+Engage artificial
+intelligence support.
+
+28
+00:03:44,765 --> 00:03:45,963
+ARTI, you there?
+
+29
+00:03:45,965 --> 00:03:47,132
+Yes, Mr. Wilson.
+
+30
+00:03:47,134 --> 00:03:49,703
+Fusion propulsion
+jet engines firing.
+
+31
+00:04:02,516 --> 00:04:05,749
+Activating ion engine
+thrust drive in three,
+
+32
+00:04:05,751 --> 00:04:07,921
+- two, one.
+- Buckle up, people.
+
+33
+00:04:10,957 --> 00:04:14,558
+Travel time to Mars
+approximately 80 days and counting.
+
+34
+00:04:14,560 --> 00:04:16,927
+Well, thank you,
+ion fusion technology.
+
+35
+00:04:16,929 --> 00:04:18,963
+Glad you grew some
+balls and decided to join us.
+
+36
+00:04:18,965 --> 00:04:21,899
+You can thank my youngest for that.
+Mack can be very persuasive.
+
+37
+00:04:21,901 --> 00:04:23,535
+Martian One, an FYI:
+
+38
+00:04:23,537 --> 00:04:25,540
+both Mack and Lena
+are present in the room.
+
+39
+00:04:31,211 --> 00:04:33,745
+Mission
+Control, this is Martian One.
+
+40
+00:04:33,747 --> 00:04:37,218
+Status report:
+we have a visual on Mars.
+
+41
+00:04:38,951 --> 00:04:40,519
+Copy that, Martian One.
+
+42
+00:04:40,521 --> 00:04:41,956
+Prepare for your approach.
+
+43
+00:04:55,302 --> 00:04:57,872
+That's a signal
+lock on the Rover-5 beacon.
+
+44
+00:04:59,739 --> 00:05:01,973
+Guidance telemetry
+locked on the signal.
+
+45
+00:05:01,975 --> 00:05:04,242
+Preparing descent maneuver.
+
+46
+00:05:04,244 --> 00:05:05,709
+Take us in,
+will you, ARTI?
+
+47
+00:05:05,711 --> 00:05:06,944
+Of course.
+
+48
+00:05:06,946 --> 00:05:08,612
+Glide mode activated.
+
+49
+00:05:08,614 --> 00:05:10,115
+Martian One, please be aware
+
+50
+00:05:10,117 --> 00:05:11,819
+of charged particles
+in the atmosphere.
+
+51
+00:05:13,554 --> 00:05:14,586
+Roger that.
+
+52
+00:05:14,588 --> 00:05:15,556
+Brace for entry.
+
+53
+00:05:27,833 --> 00:05:30,735
+Temperature is
+minus 55 degrees Celsius,
+
+54
+00:05:30,737 --> 00:05:33,305
+minus 67 degrees Fahrenheit.
+
+55
+00:05:33,307 --> 00:05:38,677
+Martian atmosphere consisting of
+approximately 96% carbon dioxide,
+
+56
+00:05:38,679 --> 00:05:40,711
+1.9% argon,
+
+57
+00:05:40,713 --> 00:05:42,781
+and 1.9% nitrogen.
+
+58
+00:05:42,783 --> 00:05:45,850
+Surface pressure is 600 pascals.
+
+59
+00:05:45,852 --> 00:05:48,586
+Great! Hope you guys
+all brought your long johns.
+
+60
+00:05:48,588 --> 00:05:50,288
+Roger that.
+
+61
+00:05:50,290 --> 00:05:52,891
+Glad to see ARTI's back
+to his usual self,
+
+62
+00:05:52,893 --> 00:05:56,093
+but I'll be dead before I take
+orders from a goddamn machine.
+
+63
+00:05:56,095 --> 00:05:58,196
+ARTI is more
+than just a machine,
+
+64
+00:05:58,198 --> 00:06:01,600
+but... right now is really
+not the time for that debate.
+
+65
+00:06:01,602 --> 00:06:03,201
+Hey! I'm just saying.
+
+66
+00:06:03,203 --> 00:06:05,370
+We all know what happened
+before it was rebooted.
+
+67
+00:06:05,372 --> 00:06:06,908
+Now that's enough.
+
+68
+00:06:09,109 --> 00:06:11,312
+Commencing circular
+rotation maneuver.
+
+69
+00:06:14,013 --> 00:06:15,913
+Preparing RCS boosters.
+
+70
+00:06:15,915 --> 00:06:17,552
+I'll take it from here, ARTI.
+
+71
+00:06:22,355 --> 00:06:24,190
+Landing gear is activated.
+
+72
+00:06:25,292 --> 00:06:28,059
+Bringing her down.
+Five, four,
+
+73
+00:06:28,061 --> 00:06:30,728
+three, two...
+
+74
+00:06:32,264 --> 00:06:33,964
+What the hell is that?
+
+75
+00:06:36,035 --> 00:06:39,170
+Mission Control, this
+is Martian One, do you copy?
+
+76
+00:06:39,172 --> 00:06:41,372
+An electrical disturbance
+is frying our systems.
+
+77
+00:06:41,374 --> 00:06:42,973
+Shutting down fusion drive.
+
+78
+00:06:42,975 --> 00:06:44,608
+Negative, ARTI!
+Do not do that!
+
+79
+00:06:44,610 --> 00:06:48,245
+It's protocol to switch off the
+reactor if the craft is going to crash.
+
+80
+00:06:48,247 --> 00:06:50,749
+We're not crashing,
+now override that damn protocol!
+
+81
+00:06:52,052 --> 00:06:54,052
+This is Martian
+One, status report.
+
+82
+00:06:54,054 --> 00:06:56,053
+I... I can't keep
+her steady, there's...
+
+83
+00:06:56,055 --> 00:06:58,122
+Memory banks compromised
+by external breach.
+
+84
+00:06:58,124 --> 00:07:00,824
+- Craft non-responsive.
+- Our reactor engines are shutting down.
+
+85
+00:07:00,826 --> 00:07:02,660
+ARTI, do something,
+for Christ's sake!
+
+86
+00:07:02,662 --> 00:07:04,696
+Memory banks compromised
+by external breach.
+
+87
+00:07:04,698 --> 00:07:07,165
+Martian One, you
+are barely audible, please repeat.
+
+88
+00:07:07,167 --> 00:07:10,067
+Lena and Mack, if you
+hear this, I want you...
+
+89
+00:07:10,069 --> 00:07:13,237
+This is Mission
+Control calling Martian One. Please come in.
+
+90
+00:07:15,341 --> 00:07:17,711
+Mission Control to Martian
+One, do you copy?
+
+91
+00:07:43,903 --> 00:07:45,403
+Craft non-responsive.
+
+92
+00:07:45,405 --> 00:07:47,372
+Guidance control's inactive.
+
+93
+00:07:47,374 --> 00:07:50,240
+I repeat, the... the craft
+is non-responsive.
+
+94
+00:07:50,242 --> 00:07:52,076
+Our reactor engines
+are shutting down.
+
+95
+00:07:52,078 --> 00:07:54,045
+ARTI, do something,
+for Christ's sake!
+
+96
+00:07:54,047 --> 00:07:56,113
+Mission Control,
+if you can hear us...
+
+97
+00:07:56,115 --> 00:07:59,951
+Lena, Mack, if you can hear this,
+I want you to know that...
+
+98
+00:08:52,805 --> 00:08:54,972
+They've locked
+me out of the bloody room.
+
+99
+00:08:54,974 --> 00:08:56,541
+Sterling, did you even
+go home last night?
+
+100
+00:08:56,543 --> 00:08:59,811
+Three years of negotiations,
+and now... now she springs this.
+
+101
+00:08:59,813 --> 00:09:01,846
+Don't even try to defend her.
+
+102
+00:09:01,848 --> 00:09:04,448
+She obviously doesn't think a crash
+investigation should perhaps, possibly,
+
+103
+00:09:04,450 --> 00:09:07,451
+maybe include the government's lead investigator.
+
+104
+00:09:07,453 --> 00:09:10,522
+Should never have let Silicon Valley get
+their claws into the space program.
+
+105
+00:09:10,524 --> 00:09:11,956
+- Sterling.
+- What?
+
+106
+00:09:11,958 --> 00:09:14,227
+Quit being such a damn baby.
+
+107
+00:09:17,030 --> 00:09:20,233
+Oh good, you're coming.
+
+108
+00:09:26,272 --> 00:09:27,941
+It's like a ghost town
+around here.
+
+109
+00:09:29,342 --> 00:09:31,812
+But look to the future, right?
+
+110
+00:09:33,346 --> 00:09:35,413
+What's the top speed
+on the new Rover?
+
+111
+00:09:35,415 --> 00:09:37,215
+We'll find out.
+
+112
+00:09:37,217 --> 00:09:38,515
+Hyper-light holding up?
+
+113
+00:09:38,517 --> 00:09:40,284
+Mmm.
+
+114
+00:09:40,286 --> 00:09:42,220
+Right, right, I get it.
+
+115
+00:09:42,222 --> 00:09:44,154
+Corporate confidentiality.
+
+116
+00:09:44,156 --> 00:09:46,490
+But faster-than-light
+communication...
+
+117
+00:09:46,492 --> 00:09:48,061
+I mean, that's
+a massive breakthrough.
+
+118
+00:09:50,096 --> 00:09:53,167
+- Maybe if we had it six years ago, it might be...
+- Oh look! My floor.
+
+119
+00:09:55,968 --> 00:09:58,436
+You sure you're ready?
+
+120
+00:09:58,438 --> 00:10:00,441
+You sure you're not just
+jealous I have your old job?
+
+121
+00:10:03,275 --> 00:10:06,079
+Maybe get the lander down safely
+before you start bragging.
+
+122
+00:10:12,051 --> 00:10:15,220
+So now I have to wait to be invited
+in like some kind of vampire?
+
+123
+00:10:15,222 --> 00:10:18,489
+It makes sense. You've been dead
+to us since you switched teams.
+
+124
+00:10:18,491 --> 00:10:20,191
+Okay.
+
+125
+00:10:20,193 --> 00:10:21,227
+I'll wait.
+
+126
+00:10:22,596 --> 00:10:24,895
+But people need answers.
+
+127
+00:10:27,233 --> 00:10:29,136
+The families need
+answers, Sterling.
+
+128
+00:10:30,270 --> 00:10:32,036
+The people can wait.
+
+129
+00:10:32,038 --> 00:10:33,874
+Just trying to do my job, Mack.
+
+130
+00:10:53,093 --> 00:10:55,563
+Good morning, Mission
+Supervisor Mackenzie Wilson.
+
+131
+00:10:57,063 --> 00:10:59,364
+The Intrepid probe's
+geostation orbit
+
+132
+00:10:59,366 --> 00:11:04,501
+is stable at an altitude
+of 342 kilometers above Mars.
+
+133
+00:11:04,503 --> 00:11:09,941
+You asked me to monitor an expected
+asteroid pass at 9:53 a.m. this morning.
+
+134
+00:11:09,943 --> 00:11:12,644
+It will travel well clear
+of the probe's orbit.
+
+135
+00:11:12,646 --> 00:11:15,346
+I'm pleased to report
+that all systems are nominal
+
+136
+00:11:15,348 --> 00:11:17,215
+on the Mars lander craft.
+
+137
+00:11:17,217 --> 00:11:19,620
+Launch countdown initiated.
+
+138
+00:11:23,055 --> 00:11:27,258
+Wait, what? Why are we readying
+for launch five hours early?
+
+139
+00:11:27,260 --> 00:11:29,460
+There's a sandstorm
+approaching the landing site,
+
+140
+00:11:29,462 --> 00:11:31,528
+and the dust may affect engine function.
+
+141
+00:11:31,530 --> 00:11:33,498
+Okay. All right, so it's
+a better launch window,
+
+142
+00:11:33,500 --> 00:11:35,700
+I can see that,
+but who authorized it?
+
+143
+00:11:40,205 --> 00:11:41,207
+I did.
+
+144
+00:11:48,949 --> 00:11:50,148
+Call Lena.
+
+145
+00:11:50,150 --> 00:11:51,515
+Your sister is in a meeting.
+
+146
+00:11:51,517 --> 00:11:53,350
+She may not respond.
+
+147
+00:11:54,721 --> 00:11:57,455
+Countdown to
+lander clamp release.
+
+148
+00:11:57,457 --> 00:12:00,490
+- T-minus 60, 59...
+- Damn it, stop.
+
+149
+00:12:00,492 --> 00:12:04,128
+...58, 57, 56...
+
+150
+00:12:04,130 --> 00:12:05,996
+- Halt the countdown.
+- ...55
+
+151
+00:12:05,998 --> 00:12:07,200
+Where the hell
+is your override?
+
+152
+00:12:11,170 --> 00:12:13,004
+- Mack?
+- Real funny story!
+
+153
+00:12:13,006 --> 00:12:15,572
+Your pet robot is getting ready
+to launch early, unauthorized.
+
+154
+00:12:15,574 --> 00:12:18,241
+- I swear I was going to tell you.
+- Tell me what?
+
+155
+00:12:18,243 --> 00:12:20,711
+- ARTI's taking lead on the crash investigation.
+- What?
+
+156
+00:12:20,713 --> 00:12:23,249
+The board
+agreed it last night.
+
+157
+00:12:25,751 --> 00:12:27,317
+T-minus 30.
+
+158
+00:12:27,319 --> 00:12:29,220
+I trust ARTI.
+
+159
+00:12:29,222 --> 00:12:31,556
+You are putting
+a recruit into battle
+
+160
+00:12:31,558 --> 00:12:34,024
+before he's even out of basic.
+
+161
+00:12:34,026 --> 00:12:36,259
+Do you really want to
+know why they demoted you?
+
+162
+00:12:36,261 --> 00:12:40,431
+We don't know if you did your job properly six years ago.
+
+163
+00:12:40,433 --> 00:12:43,735
+Be prepared
+for every possibility,
+
+164
+00:12:43,737 --> 00:12:45,570
+including human error.
+
+165
+00:12:45,572 --> 00:12:47,337
+Yeah, and you be
+prepared for A.I. error.
+
+166
+00:12:47,339 --> 00:12:50,343
+- I'm going to my office for visual.
+- Great idea!
+
+167
+00:12:51,410 --> 00:12:52,412
+T-minus 10.
+
+168
+00:12:56,583 --> 00:12:57,716
+All is well.
+
+169
+00:12:57,718 --> 00:13:01,753
+Intrepid launch bay sensors
+report nominal systems.
+
+170
+00:13:01,755 --> 00:13:04,589
+Lander clamps released.
+
+171
+00:13:04,591 --> 00:13:06,393
+We are go for launch.
+
+172
+00:13:22,041 --> 00:13:24,674
+I've completed your standard
+roll procedure, Mackenzie.
+
+173
+00:13:24,676 --> 00:13:27,477
+Egress clear
+from spaceship Intrepid.
+
+174
+00:13:27,479 --> 00:13:29,115
+Lander ready for stage two.
+
+175
+00:13:32,751 --> 00:13:35,419
+Executing stage two.
+
+176
+00:13:40,359 --> 00:13:43,429
+57 seconds until the lander
+enters the atmosphere.
+
+177
+00:13:45,765 --> 00:13:47,568
+Running your usual analysis.
+
+178
+00:13:49,835 --> 00:13:51,037
+Systems normal.
+
+179
+00:13:52,639 --> 00:13:55,042
+Parachute deployment
+in 10 seconds.
+
+180
+00:13:58,545 --> 00:14:01,512
+10, nine, eight,
+
+181
+00:14:01,514 --> 00:14:04,581
+seven, six, five,
+
+182
+00:14:04,583 --> 00:14:09,555
+four, three, two, one.
+
+183
+00:14:11,657 --> 00:14:13,291
+Parachute deployed.
+
+184
+00:14:13,293 --> 00:14:15,692
+I have an alert.
+
+185
+00:14:15,694 --> 00:14:18,562
+The aeroshell temperature is
+11 percent above normal.
+
+186
+00:14:18,564 --> 00:14:22,100
+Heat shield detachment
+in three, two, one.
+
+187
+00:14:24,536 --> 00:14:26,303
+I cannot release
+the heat shields.
+
+188
+00:14:26,305 --> 00:14:28,105
+There are mechanical
+malfunctions.
+
+189
+00:14:28,107 --> 00:14:29,440
+Run a secondary
+ejection protocol.
+
+190
+00:14:29,442 --> 00:14:32,543
+Back-up detachment failed.
+
+191
+00:14:32,545 --> 00:14:34,144
+What's our contingency?
+
+192
+00:14:34,146 --> 00:14:37,181
+I'm running simulations.
+
+193
+00:14:37,183 --> 00:14:38,718
+This is not what
+we would've hoped for.
+
+194
+00:14:43,622 --> 00:14:45,822
+My prediction
+of success is only 7%.
+
+195
+00:14:45,824 --> 00:14:47,591
+You're gonna have
+to do better than that.
+
+196
+00:14:47,593 --> 00:14:50,260
+Seriously, if we wasted
+a launch to Mars,
+
+197
+00:14:50,262 --> 00:14:52,632
+I am gonna...
+rip you out of the ceiling!
+
+198
+00:15:03,642 --> 00:15:05,144
+Come on.
+
+199
+00:15:07,146 --> 00:15:09,480
+Run a partial lander opening
+to pop the heat shield.
+
+200
+00:15:09,482 --> 00:15:11,218
+We'll crack it like a nut.
+
+201
+00:15:16,655 --> 00:15:20,691
+This has improved
+the odds, but only to 42%.
+
+202
+00:15:20,693 --> 00:15:21,761
+It's better than seven.
+
+203
+00:15:23,496 --> 00:15:24,497
+Noted.
+
+204
+00:15:28,434 --> 00:15:30,203
+Triggering partial
+lander opening.
+
+205
+00:15:33,640 --> 00:15:35,673
+Panel resistance detected.
+
+206
+00:15:35,675 --> 00:15:39,210
+Disaster data recovery
+protocols initiated.
+
+207
+00:15:39,212 --> 00:15:41,247
+Heat shields detached.
+
+208
+00:15:46,752 --> 00:15:48,855
+Initiating ion engine burn.
+
+209
+00:16:02,202 --> 00:16:04,638
+Your sister is calling.
+
+210
+00:16:08,274 --> 00:16:09,807
+Touchdown.
+
+211
+00:16:09,809 --> 00:16:12,909
+The heat shield ejector failed, and
+we had to run an emergency protocol.
+
+212
+00:16:12,911 --> 00:16:14,647
+And that is why
+we have ARTI.
+
+213
+00:16:16,415 --> 00:16:17,881
+We ran my scenario.
+
+214
+00:16:17,883 --> 00:16:20,518
+Which ARTI executed.
+
+215
+00:16:20,520 --> 00:16:23,254
+Which is what it was
+designed for, Lena!
+
+216
+00:16:23,256 --> 00:16:25,423
+Brute-force processing
+and high-speed maneuvering,
+
+217
+00:16:25,425 --> 00:16:26,657
+not for abstract
+problem-solving,
+
+218
+00:16:26,659 --> 00:16:28,426
+not to... not to run missions!
+
+219
+00:16:28,428 --> 00:16:31,495
+ARTI is so far
+beyond human capabilities.
+
+220
+00:16:31,497 --> 00:16:33,300
+Do you know what humans did?
+
+221
+00:16:34,467 --> 00:16:36,567
+We wrote 10-feet-high
+stacks of code,
+
+222
+00:16:36,569 --> 00:16:38,668
+by hand, for the moon landings,
+checked and double-checked
+
+223
+00:16:38,670 --> 00:16:40,504
+if atomic bombs would
+ignite the atmosphere.
+
+224
+00:16:40,506 --> 00:16:42,642
+We discovered relativity while
+working in a patent office, Lena!
+
+225
+00:16:43,742 --> 00:16:45,676
+We created A.I. to help us,
+
+226
+00:16:45,678 --> 00:16:47,414
+not to lead us.
+
+227
+00:16:48,615 --> 00:16:51,682
+- Dad never wanted this.
+- Dad's not here.
+
+228
+00:16:51,684 --> 00:16:53,783
+Sensor scans nominal.
+
+229
+00:16:53,785 --> 00:16:55,655
+Lander systems nominal.
+
+230
+00:17:03,896 --> 00:17:05,997
+You enjoying Hyper-light?
+
+231
+00:17:05,999 --> 00:17:08,031
+Exploring in real time?
+
+232
+00:17:08,033 --> 00:17:10,500
+Such a game-changer,
+don't you think, Mackenzie?
+
+233
+00:17:10,502 --> 00:17:11,801
+Mack.
+
+234
+00:17:11,803 --> 00:17:14,638
+ARTI discovered
+instant communication
+
+235
+00:17:14,640 --> 00:17:16,840
+and revolutionized
+space exploration.
+
+236
+00:17:16,842 --> 00:17:18,576
+Yeah, and who invented ARTI?
+
+237
+00:17:18,578 --> 00:17:21,011
+You are living in his world now.
+
+238
+00:17:21,013 --> 00:17:24,684
+A.I. will outlive us and explore the stars.
+
+239
+00:17:44,837 --> 00:17:48,038
+The ISV lander is
+functioning perfectly.
+
+240
+00:18:10,896 --> 00:18:13,300
+So... what's my role?
+
+241
+00:18:14,733 --> 00:18:17,034
+Can't have two generals
+on a battlefield.
+
+242
+00:18:17,036 --> 00:18:18,602
+You're backup.
+
+243
+00:18:21,406 --> 00:18:24,610
+Warning! Signal detected.
+
+244
+00:18:25,811 --> 00:18:27,513
+I have an origin unknown.
+
+245
+00:18:29,549 --> 00:18:31,348
+What the hell is
+an "origin unknown"?
+
+246
+00:18:31,350 --> 00:18:33,616
+If ARTI finds something he hasn't
+discovered in his learning,
+
+247
+00:18:33,618 --> 00:18:36,753
+- he comes to us.
+- Well, at least it still has a leash around its neck.
+
+248
+00:18:36,755 --> 00:18:39,325
+I'm attempting to analyze
+the transmission signal.
+
+249
+00:18:42,962 --> 00:18:45,863
+It is coming from
+the decommissioned Rover-5.
+
+250
+00:19:02,514 --> 00:19:04,115
+It's just an igneous cap.
+
+251
+00:19:04,117 --> 00:19:06,483
+It shouldn't be an origin unknown.
+It's got to be an error.
+
+252
+00:19:06,485 --> 00:19:07,884
+What if the alert's
+not an error?
+
+253
+00:19:07,886 --> 00:19:09,423
+There's one way to find out.
+
+254
+00:19:11,991 --> 00:19:15,092
+An exploratory assignment.
+
+255
+00:19:15,094 --> 00:19:18,095
+See if it's even capable
+of running a real, live mission.
+
+256
+00:19:18,097 --> 00:19:19,633
+A Turing test.
+
+257
+00:19:24,470 --> 00:19:26,836
+ARTI, you have a new mission.
+
+258
+00:19:26,838 --> 00:19:28,806
+Investigate the origin unknown.
+
+259
+00:19:28,808 --> 00:19:31,575
+- You know if it fails...
+- But if he passes,
+
+260
+00:19:31,577 --> 00:19:34,612
+it's probably the end
+of human mission control.
+
+261
+00:19:34,614 --> 00:19:36,814
+You know, Sterling would come
+in handy right about now.
+
+262
+00:19:36,816 --> 00:19:39,482
+Sterling stays out until
+this is resolved. Clear?
+
+263
+00:19:39,484 --> 00:19:41,719
+What's the cornerstone
+of science?
+
+264
+00:19:41,721 --> 00:19:43,086
+Repeatable results.
+
+265
+00:19:43,088 --> 00:19:45,125
+Well, good to know you
+haven't forgotten everything.
+
+266
+00:19:46,658 --> 00:19:49,660
+Replicate the scans.
+Photograph the source.
+
+267
+00:19:49,662 --> 00:19:53,163
+Sorry, Mackenzie, but
+I'm Mission Controller.
+
+268
+00:19:53,165 --> 00:19:56,133
+- Run the scans, ARTI!
+- Understood. Running scans.
+
+269
+00:19:56,135 --> 00:19:57,667
+What's its override?
+
+270
+00:19:57,669 --> 00:19:59,636
+No, Mackenzie.
+
+271
+00:19:59,638 --> 00:20:00,738
+In case of an emergency.
+
+272
+00:20:00,740 --> 00:20:02,075
+I'm the override!
+
+273
+00:20:03,209 --> 00:20:05,412
+- All right.
+- Now get me my answer.
+
+274
+00:20:26,732 --> 00:20:28,868
+I have planned the
+safest driving route.
+
+275
+00:20:46,551 --> 00:20:48,722
+The Martian weather
+I detected is worsening.
+
+276
+00:22:16,142 --> 00:22:18,078
+Our robot ambassador, right?
+
+277
+00:22:19,110 --> 00:22:20,844
+Did you know that...
+
+278
+00:22:20,846 --> 00:22:23,116
+all resident Martians
+are robots?
+
+279
+00:22:25,017 --> 00:22:27,084
+Is that small talk or
+are you trying to make a joke?
+
+280
+00:22:27,086 --> 00:22:29,185
+Just giving you the facts.
+
+281
+00:22:29,187 --> 00:22:32,191
+Yeah, 'cause we
+send robots there to die.
+
+282
+00:22:34,059 --> 00:22:35,858
+And humans,
+it would seem.
+
+283
+00:22:46,038 --> 00:22:47,871
+Be careful
+with Little Red, huh?
+
+284
+00:22:47,873 --> 00:22:49,776
+I'm sorry. "Little Red"?
+
+285
+00:22:51,109 --> 00:22:53,911
+I wanted to call
+the ISV Little Red...
+
+286
+00:22:53,913 --> 00:22:57,181
+exploring alone through
+the deep, dark woods...
+
+287
+00:22:57,183 --> 00:22:58,885
+but I got outvoted.
+
+288
+00:23:00,653 --> 00:23:02,219
+But look who's in charge now.
+
+289
+00:23:02,221 --> 00:23:03,686
+You mean me?
+
+290
+00:23:10,328 --> 00:23:11,630
+What? Not funny?
+
+291
+00:23:14,066 --> 00:23:17,000
+I'm gonna make it my mission
+to get you to laugh.
+
+292
+00:23:17,002 --> 00:23:19,202
+Perhaps you should
+authorize your mission with Lena.
+
+293
+00:23:22,140 --> 00:23:23,707
+And to think...
+
+294
+00:23:23,709 --> 00:23:26,210
+you could win the Nobel Prize.
+
+295
+00:23:26,212 --> 00:23:27,978
+Unlikely.
+
+296
+00:23:27,980 --> 00:23:30,881
+The Nobel Prize is
+only awarded to humans.
+
+297
+00:23:30,883 --> 00:23:34,287
+Well, at least you know your place.
+It's a shame that Lena doesn't.
+
+298
+00:23:36,422 --> 00:23:38,024
+What do you think
+of my sister?
+
+299
+00:23:39,858 --> 00:23:41,392
+Her instructions are clear,
+
+300
+00:23:41,394 --> 00:23:44,228
+and she enthusiastically
+supports the ARTI Initiative.
+
+301
+00:23:44,230 --> 00:23:46,696
+God! They programmed
+you like a dog.
+
+302
+00:23:46,698 --> 00:23:48,667
+Do you like her?
+
+303
+00:23:49,934 --> 00:23:51,402
+Do you?
+
+304
+00:23:51,404 --> 00:23:53,369
+We're not friends,
+put it that way.
+
+305
+00:23:53,371 --> 00:23:56,006
+Are we friends?
+
+306
+00:23:58,277 --> 00:23:59,613
+Oh, you're serious.
+
+307
+00:24:02,213 --> 00:24:04,682
+So, tell me something.
+
+308
+00:24:04,684 --> 00:24:07,050
+We discover something new,
+who gets naming rights?
+
+309
+00:24:07,052 --> 00:24:09,989
+USPC owns my
+intellectual property.
+
+310
+00:24:11,924 --> 00:24:13,757
+You've gotta read
+the small print.
+
+311
+00:24:13,759 --> 00:24:16,292
+Next you're going to tell me
+that they don't even pay you.
+
+312
+00:24:16,294 --> 00:24:18,797
+Little Red is approaching
+the target anomaly.
+
+313
+00:24:20,299 --> 00:24:22,935
+Looks like Little Red has
+made it to Grandma's house.
+
+314
+00:25:03,908 --> 00:25:05,344
+Origin unknown.
+
+315
+00:25:13,152 --> 00:25:15,088
+I have searched
+all databases...
+
+316
+00:25:16,821 --> 00:25:21,057
+and there's no known human
+activity recorded at this site.
+
+317
+00:25:21,059 --> 00:25:25,496
+As you know, scientific
+protocol 29-C dictates
+
+318
+00:25:25,498 --> 00:25:29,232
+that any discovery must undergo
+sample extraction and analysis.
+
+319
+00:25:29,234 --> 00:25:30,270
+You're the boss.
+
+320
+00:25:48,820 --> 00:25:50,990
+- Activating.
+- Just a...
+
+321
+00:25:52,323 --> 00:25:54,825
+tiny sliver.
+Don't damage it.
+
+322
+00:26:06,838 --> 00:26:09,908
+The surface hardness may
+be beyond the drill's tolerance.
+
+323
+00:26:25,124 --> 00:26:26,957
+Sample extraction successful.
+
+324
+00:26:26,959 --> 00:26:29,262
+I'm initiating analysis.
+
+325
+00:26:39,504 --> 00:26:43,472
+Little Red's sampling instrument
+packs are producing intriguing data.
+
+326
+00:26:43,474 --> 00:26:44,607
+This is going to take all night.
+
+327
+00:26:44,609 --> 00:26:47,443
+Just run the Corporate
+Code language.
+
+328
+00:26:47,445 --> 00:26:50,817
+Running image recognition against
+the corporation's codices.
+
+329
+00:26:56,021 --> 00:26:58,258
+I have only
+found partial matches.
+
+330
+00:27:01,026 --> 00:27:02,796
+Do you not have
+USPC's codex?
+
+331
+00:27:04,296 --> 00:27:05,561
+Huh.
+
+332
+00:27:05,563 --> 00:27:07,096
+No sense in being smart
+
+333
+00:27:07,098 --> 00:27:08,632
+if you can't tell when
+someone's lying to you.
+
+334
+00:27:08,634 --> 00:27:11,634
+- Call Lena.
+- Calling Lena Wilson.
+
+335
+00:27:11,636 --> 00:27:14,037
+Damn it.
+
+336
+00:27:14,039 --> 00:27:17,074
+So much for being a pile of rocks.
+
+337
+00:27:17,076 --> 00:27:21,411
+- Whose is it?
+- We'll know as soon as we can decipher the markings.
+
+338
+00:27:21,413 --> 00:27:24,349
+- Why doesn't it have our codex?
+- It's in his library.
+
+339
+00:27:27,353 --> 00:27:31,320
+ARTI, our codex is partitioned from
+you in case of a security breach.
+
+340
+00:27:31,322 --> 00:27:33,222
+I hope you understand why.
+
+341
+00:27:33,224 --> 00:27:38,961
+I'm sorry. Our A.I. is compromised
+in the name of corporate security?
+
+342
+00:27:38,963 --> 00:27:40,998
+That's why this is
+an origin unknown?
+
+343
+00:27:41,000 --> 00:27:44,268
+- Who is a liar?
+- You think I'm lying?
+
+344
+00:27:44,270 --> 00:27:45,538
+Leave.
+
+345
+00:27:47,438 --> 00:27:50,173
+What are we looking at?
+
+346
+00:27:50,175 --> 00:27:53,175
+Supply container. Lander module.
+Experiment.
+
+347
+00:27:53,177 --> 00:27:55,982
+Signal relay. Measurement beacon.
+It could be anything, Lena.
+
+348
+00:27:58,584 --> 00:28:00,651
+Switching to
+thermal energy camera
+
+349
+00:28:00,653 --> 00:28:02,355
+for thermographic analysis.
+
+350
+00:28:08,594 --> 00:28:11,228
+It's somehow colder
+than the surrounding rocks.
+
+351
+00:28:13,432 --> 00:28:14,964
+Okay, so...
+
+352
+00:28:14,966 --> 00:28:16,636
+we know that we have a cold...
+
+353
+00:28:17,669 --> 00:28:19,471
+black monolith.
+
+354
+00:28:24,309 --> 00:28:26,643
+Why didn't we find this
+before with Rover-5?
+
+355
+00:28:26,645 --> 00:28:27,981
+Oh, come on!
+
+356
+00:28:29,114 --> 00:28:32,214
+I would've seen this.
+This!
+
+357
+00:28:32,216 --> 00:28:38,355
+My conclusion, based on my
+restricted access to the USPC codex
+
+358
+00:28:38,357 --> 00:28:40,691
+and the presence
+of an unidentified object
+
+359
+00:28:40,693 --> 00:28:42,992
+near the proposed colony site
+
+360
+00:28:42,994 --> 00:28:45,162
+is that the Cube is
+the property...
+
+361
+00:28:45,164 --> 00:28:47,232
+of USPC.
+
+362
+00:28:49,001 --> 00:28:50,200
+I could get to like him.
+
+363
+00:28:50,202 --> 00:28:51,367
+Prove it.
+
+364
+00:28:51,369 --> 00:28:52,970
+Grant me unrestricted access
+
+365
+00:28:52,972 --> 00:28:54,671
+to the codex and I shall.
+
+366
+00:28:54,673 --> 00:28:55,739
+Find another way.
+
+367
+00:28:55,741 --> 00:28:57,406
+Trust, but verifying.
+
+368
+00:28:57,408 --> 00:28:59,509
+LIDAR scanning the Cube.
+
+369
+00:28:59,511 --> 00:29:01,211
+Is that what we're calling this?
+
+370
+00:29:01,213 --> 00:29:05,082
+He discovered it...
+he gets naming rights.
+
+371
+00:29:05,084 --> 00:29:06,983
+I hate to think what
+you've been teaching him.
+
+372
+00:29:06,985 --> 00:29:08,453
+Yes?
+
+373
+00:29:13,091 --> 00:29:14,493
+Whose? How long?
+
+374
+00:29:19,530 --> 00:29:21,634
+LIDAR data is unusable.
+
+375
+00:29:22,768 --> 00:29:24,470
+Switching to X-ray scan.
+
+376
+00:29:27,373 --> 00:29:29,506
+My sensor data is inconclusive.
+
+377
+00:29:29,508 --> 00:29:31,741
+We cannot see inside.
+
+378
+00:29:31,743 --> 00:29:33,343
+Okay, what'd I miss?
+
+379
+00:29:33,345 --> 00:29:35,578
+The material's
+impervious to X-ray,
+
+380
+00:29:35,580 --> 00:29:37,114
+so we have no idea
+what's inside.
+
+381
+00:29:37,116 --> 00:29:40,153
+So, we've got a puzzle box.
+
+382
+00:29:41,720 --> 00:29:44,653
+Listen, Mackenzie, I know
+you miss your colleagues.
+
+383
+00:29:44,655 --> 00:29:46,690
+Sterling?
+
+384
+00:29:46,692 --> 00:29:49,259
+I know you think he quit,
+but he was fired.
+
+385
+00:29:49,261 --> 00:29:53,163
+And this crash investigation job?
+He's found a way back in.
+
+386
+00:29:53,165 --> 00:29:54,397
+I don't trust him.
+
+387
+00:29:54,399 --> 00:29:58,234
+Hold on. I've got a call.
+
+388
+00:29:58,236 --> 00:30:03,205
+Sensors detecting deviation in
+orbital paths on near Mars objects.
+
+389
+00:30:03,207 --> 00:30:06,076
+It appears an asteroid
+storm is approaching.
+
+390
+00:30:06,078 --> 00:30:07,981
+Adjusting satellite
+orbit trajectory.
+
+391
+00:30:26,697 --> 00:30:29,799
+Okay, I'm gonna go check to see
+if the symbols match our codex.
+
+392
+00:30:29,801 --> 00:30:33,537
+ARTI, continue
+investigating the object.
+
+393
+00:30:33,539 --> 00:30:36,675
+Mack. I'll, um...
+I'll be back in touch.
+
+394
+00:30:47,286 --> 00:30:50,189
+Warning! Collision proximity alert!
+
+395
+00:30:51,456 --> 00:30:53,589
+Unidentified satellite detected.
+
+396
+00:30:53,591 --> 00:30:56,326
+Initiating threat avoidance.
+
+397
+00:31:11,577 --> 00:31:13,246
+Weapon system online.
+
+398
+00:31:15,180 --> 00:31:16,282
+Target locked.
+
+399
+00:31:17,616 --> 00:31:18,751
+Firing.
+
+400
+00:31:37,769 --> 00:31:39,702
+Please tell me
+I'm hallucinating.
+
+401
+00:31:39,704 --> 00:31:41,805
+Target destroyed.
+
+402
+00:31:41,807 --> 00:31:45,211
+Our mission is to protect
+our capital assets at any cost.
+
+403
+00:31:47,779 --> 00:31:49,311
+You maniac!
+
+404
+00:31:49,313 --> 00:31:52,717
+- Mack, these are the rules.
+- Whose?
+
+405
+00:32:03,261 --> 00:32:05,397
+Extrapolate backwards
+from the northeast.
+
+406
+00:32:14,373 --> 00:32:15,408
+Go live.
+
+407
+00:32:19,344 --> 00:32:21,780
+- I said stay live.
+- This is live.
+
+408
+00:32:32,790 --> 00:32:35,592
+Your sister is calling.
+
+409
+00:32:35,594 --> 00:32:39,328
+Lena. Magnetic missiles?
+
+410
+00:32:39,330 --> 00:32:42,531
+They're not missiles. They're
+designed to capture space debris.
+
+411
+00:32:42,533 --> 00:32:44,534
+What are your orders, exactly?
+
+412
+00:32:44,536 --> 00:32:48,837
+USPC protocol 345-B stipulates
+
+413
+00:32:48,839 --> 00:32:50,673
+that in the event
+of a potential threat,
+
+414
+00:32:50,675 --> 00:32:52,410
+I am authorized
+to take action.
+
+415
+00:32:54,745 --> 00:32:56,913
+- Sky Serpent.
+- Now I need to talk to people
+
+416
+00:32:56,915 --> 00:32:58,615
+who know about ARTI's protocols.
+
+417
+00:32:58,617 --> 00:33:00,549
+This is an
+international incident,
+
+418
+00:33:00,551 --> 00:33:02,484
+and it's not the only one today.
+
+419
+00:33:02,486 --> 00:33:05,654
+- It might even be...
+- What? War?
+
+420
+00:33:05,656 --> 00:33:08,461
+Don't talk to anyone.
+
+421
+00:33:15,934 --> 00:33:18,367
+ARTI, give me a countdown.
+
+422
+00:33:18,369 --> 00:33:19,903
+How long would it take
+for the last transmission
+
+423
+00:33:19,905 --> 00:33:22,538
+from that satellite to reach
+Earth without Hyper-light comms?
+
+424
+00:33:22,540 --> 00:33:24,607
+Three minutes, twelve seconds.
+
+425
+00:33:24,609 --> 00:33:27,876
+11 seconds, 10 seconds.
+
+426
+00:33:27,878 --> 00:33:29,247
+Okay, ARTI.
+
+427
+00:33:34,386 --> 00:33:36,422
+Shit's about to hit
+the fan somewhere.
+
+428
+00:33:39,657 --> 00:33:41,327
+Please don't be
+the big bad wolf.
+
+429
+00:33:47,465 --> 00:33:48,832
+Big...
+
+430
+00:33:48,834 --> 00:33:49,869
+bad...
+
+431
+00:33:51,270 --> 00:33:52,405
+wolf.
+
+432
+00:34:10,455 --> 00:34:11,587
+Hey, Mack!
+
+433
+00:34:11,589 --> 00:34:13,355
+Don't you dare call me...
+
+434
+00:34:13,357 --> 00:34:15,325
+- Jelly Bean!
+- Aiya!
+
+435
+00:34:15,327 --> 00:34:17,294
+I should've never told
+you that story, huh?
+
+436
+00:34:18,629 --> 00:34:20,696
+I'm never getting
+drunk with you again.
+
+437
+00:34:20,698 --> 00:34:24,767
+Anyway, I assume you're not
+just calling to say hi.
+
+438
+00:34:24,769 --> 00:34:27,937
+After the redundancies,
+we had everyone come in,
+
+439
+00:34:27,939 --> 00:34:31,607
+get debriefed, and pack up.
+Did you take my calculator?
+
+440
+00:34:31,609 --> 00:34:33,575
+Seriously?
+
+441
+00:34:33,577 --> 00:34:35,444
+I know that I loaned it to you.
+
+442
+00:34:35,446 --> 00:34:36,845
+Okay, sure, yeah.
+
+443
+00:34:36,847 --> 00:34:39,783
+- I stole your calculator, Mack.
+- I knew it!
+
+444
+00:34:39,785 --> 00:34:42,021
+In fact, I'm looking
+at it on my desk as we speak.
+
+445
+00:34:43,789 --> 00:34:45,388
+In the office now?
+
+446
+00:34:45,390 --> 00:34:47,557
+I'm always in the office.
+
+447
+00:34:47,559 --> 00:34:48,857
+Steal anything else?
+
+448
+00:34:48,859 --> 00:34:51,060
+Your icy heart?
+
+449
+00:34:51,062 --> 00:34:55,397
+Smooth. Wishful, but smooth.
+
+450
+00:34:55,399 --> 00:34:58,535
+So how is the Chinese
+A.I. program going, anyway?
+
+451
+00:34:58,537 --> 00:35:02,372
+ARTI's cousins make
+any massive discoveries?
+
+452
+00:35:02,374 --> 00:35:05,575
+I'll show you mine if you show me yours.
+
+453
+00:35:05,577 --> 00:35:07,576
+Hey, hang on.
+
+454
+00:35:11,917 --> 00:35:13,683
+Is everything okay there?
+
+455
+00:35:13,685 --> 00:35:15,718
+I've got to go. It's
+great to hear your voice, Mack.
+
+456
+00:35:18,990 --> 00:35:20,392
+You too, Jelly Bean.
+
+457
+00:36:39,638 --> 00:36:41,171
+Welcome back, Mackenzie.
+
+458
+00:36:41,173 --> 00:36:44,674
+Whilst you were outside
+breaking security protocols,
+
+459
+00:36:44,676 --> 00:36:46,843
+I have monitored the Cube.
+
+460
+00:36:46,845 --> 00:36:48,711
+It has begun to move.
+
+461
+00:36:48,713 --> 00:36:50,783
+It's rotating on its
+perpendicular axis.
+
+462
+00:36:57,189 --> 00:36:58,821
+Looks like Grandma's house
+
+463
+00:36:58,823 --> 00:37:01,758
+has got a few tricks up her sleeve.
+
+464
+00:37:01,760 --> 00:37:05,030
+Transmitting. Something has got
+to be controlling this thing.
+
+465
+00:37:07,598 --> 00:37:10,098
+No outside influence detected.
+
+466
+00:37:10,100 --> 00:37:11,901
+The magnetic readings
+are through the roof,
+
+467
+00:37:11,903 --> 00:37:14,770
+but a couple billion years too
+late for Mars's magnetic field.
+
+468
+00:37:14,772 --> 00:37:16,408
+Agreed.
+
+469
+00:37:17,508 --> 00:37:18,741
+Maybe the core?
+
+470
+00:37:18,743 --> 00:37:22,580
+Maybe the core is generating
+the spin, the field, but how?
+
+471
+00:37:28,185 --> 00:37:29,588
+Pull back.
+
+472
+00:37:31,555 --> 00:37:33,892
+- Fire ground anchors.
+- Firing anchors.
+
+473
+00:37:39,698 --> 00:37:43,102
+- ISV stabilized.
+- Sit tight, Little Red.
+
+474
+00:37:52,577 --> 00:37:53,712
+What the f...
+
+475
+00:38:02,620 --> 00:38:04,953
+What, what, what? Where's...
+
+476
+00:38:04,955 --> 00:38:07,223
+Little Red has electrical damage.
+
+477
+00:38:07,225 --> 00:38:09,292
+Switching to reserve battery.
+
+478
+00:38:09,294 --> 00:38:12,261
+- I'll initiate an emergency recall.
+- Just... Okay.
+
+479
+00:38:12,263 --> 00:38:15,031
+Hold on, ARTI. Just... I can...
+
+480
+00:38:15,033 --> 00:38:16,832
+I must protect Little Red.
+
+481
+00:38:16,834 --> 00:38:18,700
+And I must find the Cube!
+
+482
+00:38:18,702 --> 00:38:21,270
+I'm calculating the
+optimum route to the lander.
+
+483
+00:38:21,272 --> 00:38:22,705
+Maybe it burrowed.
+
+484
+00:38:22,707 --> 00:38:24,640
+Uh, check for
+seismic activity.
+
+485
+00:38:24,642 --> 00:38:27,109
+I have to shut down
+non-critical systems.
+
+486
+00:38:27,111 --> 00:38:28,778
+The eye in the sky?
+
+487
+00:38:32,216 --> 00:38:33,549
+Negative.
+
+488
+00:38:37,622 --> 00:38:39,524
+We need a replacement battery.
+
+489
+00:38:46,597 --> 00:38:48,096
+Locate Rover-5.
+
+490
+00:38:48,098 --> 00:38:50,769
+Accessing Rover-5's schematics.
+
+491
+00:38:54,839 --> 00:38:57,240
+We can salvage
+the nuclear battery.
+
+492
+00:38:57,242 --> 00:39:00,778
+Rover-5 might've failed, but that
+battery is good for decades.
+
+493
+00:39:02,314 --> 00:39:05,080
+An intriguing solution.
+
+494
+00:39:05,082 --> 00:39:09,687
+You may not be able to...
+override, but I can.
+
+495
+00:39:10,689 --> 00:39:11,921
+I got hands.
+
+496
+00:39:13,624 --> 00:39:17,125
+I can do this.
+Patch in the test rig.
+
+497
+00:39:17,127 --> 00:39:19,261
+What is your
+intended line of action?
+
+498
+00:39:19,263 --> 00:39:20,265
+Okay.
+
+499
+00:39:21,365 --> 00:39:23,700
+Take out the
+ISV's bad battery,
+
+500
+00:39:23,702 --> 00:39:25,868
+put in the new one,
+run the microscope,
+
+501
+00:39:25,870 --> 00:39:27,803
+see what this teleporting
+bad boy's really made out of.
+
+502
+00:39:27,805 --> 00:39:29,004
+Maybe even download
+Rover-5's files,
+
+503
+00:39:29,006 --> 00:39:31,741
+see what has Sterling so hot
+and bothered.
+
+504
+00:39:31,743 --> 00:39:33,843
+I mean, I'm already
+going against my boss,
+
+505
+00:39:33,845 --> 00:39:37,116
+I might as well completely disobey
+the government, right?
+
+506
+00:39:38,749 --> 00:39:40,649
+Okay, Mack.
+
+507
+00:39:40,651 --> 00:39:42,854
+I will grant
+you manual override.
+
+508
+00:39:44,055 --> 00:39:45,257
+But if you fail...
+
+509
+00:39:46,357 --> 00:39:48,256
+Little Red will die on Mars.
+
+510
+00:39:48,258 --> 00:39:52,928
+If I fail? So much for teamwork.
+
+511
+00:39:52,930 --> 00:39:56,031
+ISV driver aid... activated.
+
+512
+00:39:56,033 --> 00:39:59,334
+Okay.
+
+513
+00:39:59,336 --> 00:40:01,303
+Okay, slow and steady,
+slow and steady,
+
+514
+00:40:01,305 --> 00:40:03,575
+slow and steady, slow and
+steady, slow and steady, yeah.
+
+515
+00:40:14,084 --> 00:40:16,319
+A steady speed would
+be more battery efficient.
+
+516
+00:40:16,321 --> 00:40:17,589
+Oh, shut up.
+
+517
+00:40:48,852 --> 00:40:50,655
+Did you mean to shoot
+that satellite?
+
+518
+00:40:51,722 --> 00:40:53,990
+I feel I must survive.
+
+519
+00:40:53,992 --> 00:40:57,060
+Right. Aren't you just
+programed to think that?
+
+520
+00:40:57,062 --> 00:41:00,299
+H.G. Wells said,
+"Adapt or perish."
+
+521
+00:41:01,700 --> 00:41:03,198
+Do you at least feel guilty?
+
+522
+00:41:03,200 --> 00:41:06,368
+Guilt can be a response
+to one's own inaction.
+
+523
+00:41:06,370 --> 00:41:08,870
+What if you'd been destroyed?
+
+524
+00:41:08,872 --> 00:41:11,242
+My kind exists
+in superstates.
+
+525
+00:41:12,243 --> 00:41:13,308
+Right.
+
+526
+00:41:13,310 --> 00:41:15,845
+Yeah, yeah.
+
+527
+00:41:15,847 --> 00:41:18,346
+You're mirrored on Intrepid,
+you're here but you're not.
+
+528
+00:41:18,348 --> 00:41:21,484
+You're Schrodinger's robot.
+
+529
+00:41:23,287 --> 00:41:26,824
+Okay, no quantum
+B.S., all right?
+
+530
+00:41:27,992 --> 00:41:29,861
+Don't rationalize, just...
+
+531
+00:41:30,995 --> 00:41:32,731
+try and feel, okay?
+
+532
+00:41:34,499 --> 00:41:35,734
+Okay.
+
+533
+00:41:37,135 --> 00:41:39,738
+You know that my father was
+on Martian One, right?
+
+534
+00:41:41,472 --> 00:41:42,874
+But you don't know why.
+
+535
+00:41:44,843 --> 00:41:46,341
+See, my dad had a rule.
+
+536
+00:41:46,343 --> 00:41:49,145
+Every new invention,
+every application, every A.I....
+
+537
+00:41:49,147 --> 00:41:52,214
+he didn't expect anyone to use
+it unless he tried it first.
+
+538
+00:41:52,216 --> 00:41:54,419
+"I try, then they buy."
+
+539
+00:41:55,854 --> 00:41:58,321
+Had A.I. lawyers
+compile his lawsuits,
+
+540
+00:41:58,323 --> 00:42:01,089
+got in autonomous cars
+for high-speed testing.
+
+541
+00:42:01,091 --> 00:42:02,394
+Scared the hell out of my mom.
+
+542
+00:42:03,761 --> 00:42:06,495
+But it was never
+really life and death.
+
+543
+00:42:06,497 --> 00:42:08,200
+Not until Martian One, anyway.
+
+544
+00:42:10,834 --> 00:42:14,939
+So, my dad...
+comes to me one night.
+
+545
+00:42:16,374 --> 00:42:17,839
+We stay up late,
+
+546
+00:42:17,841 --> 00:42:20,945
+listening to jazz
+as usual, and he tells me...
+
+547
+00:42:23,847 --> 00:42:25,948
+final decision, he's giving up
+his seat on Martian One.
+
+548
+00:42:25,950 --> 00:42:28,049
+He doesn't want anyone to think
+that it's a publicity stunt
+
+549
+00:42:28,051 --> 00:42:30,218
+or that he's taking a seat
+away from a real scientist,
+
+550
+00:42:30,220 --> 00:42:34,256
+completely forgetting the fact
+that he is a real scientist,
+
+551
+00:42:34,258 --> 00:42:36,494
+one of the best, probably.
+
+552
+00:42:40,531 --> 00:42:42,934
+See, it wasn't about
+that. The truth...
+
+553
+00:42:45,903 --> 00:42:47,004
+This time...
+
+554
+00:42:49,506 --> 00:42:51,339
+This time he was
+worried about us.
+
+555
+00:42:51,341 --> 00:42:53,811
+He didn't want us
+to go through that.
+
+556
+00:42:58,582 --> 00:43:01,119
+But he could never say no to me.
+
+557
+00:43:03,955 --> 00:43:06,087
+And, what? I was gonna be the
+reason he didn't go to Mars?
+
+558
+00:43:06,089 --> 00:43:08,526
+I mean, freakin' Mars!
+
+559
+00:43:09,526 --> 00:43:11,229
+I could not live
+with that guilt.
+
+560
+00:43:20,437 --> 00:43:22,240
+So, it turns out...
+
+561
+00:43:23,908 --> 00:43:26,345
+that I just traded
+one guilt for another.
+
+562
+00:43:30,080 --> 00:43:31,849
+So it doesn't even matter
+what caused the crash.
+
+563
+00:43:33,283 --> 00:43:34,886
+It's my fault.
+
+564
+00:43:35,953 --> 00:43:36,955
+I killed him.
+
+565
+00:43:39,189 --> 00:43:40,325
+So what I want to know...
+
+566
+00:43:42,593 --> 00:43:44,963
+is how does that make you feel?
+
+567
+00:43:46,196 --> 00:43:47,964
+I am...
+
+568
+00:43:47,966 --> 00:43:49,598
+unable to change
+your outcome,
+
+569
+00:43:49,600 --> 00:43:52,000
+but I want to help you.
+
+570
+00:43:52,002 --> 00:43:56,138
+There you have it.
+Consciousness!
+
+571
+00:43:56,140 --> 00:43:59,411
+It's what makes you think twice before doing
+something you can't take back. Not...
+
+572
+00:44:01,312 --> 00:44:04,550
+Not orders, not
+acceptable casualties...
+
+573
+00:44:05,950 --> 00:44:07,852
+not optimal outcomes, but...
+
+574
+00:44:10,655 --> 00:44:12,555
+- guilt.
+- Mack.
+
+575
+00:44:12,557 --> 00:44:16,495
+Forget what lies behind, and
+look forward to what lies ahead.
+
+576
+00:44:29,307 --> 00:44:32,310
+Little Red's reserve
+battery is at 40%.
+
+577
+00:44:37,214 --> 00:44:40,182
+What do you think will happen
+if someone else finds the Cube?
+
+578
+00:44:40,184 --> 00:44:42,685
+Let's cross our fingers
+that doesn't happen.
+
+579
+00:44:42,687 --> 00:44:45,154
+That's easy for you to say.
+
+580
+00:44:52,629 --> 00:44:54,430
+Okay.
+
+581
+00:44:54,432 --> 00:44:56,167
+We will laugh together one day.
+
+582
+00:44:57,401 --> 00:44:59,136
+I promise you we will laugh.
+
+583
+00:45:00,571 --> 00:45:02,341
+I have one, I have one. Okay.
+
+584
+00:45:03,341 --> 00:45:05,508
+A robot walks into a bar.
+
+585
+00:45:05,510 --> 00:45:06,975
+Is his radar faulty?
+
+586
+00:45:06,977 --> 00:45:09,444
+No, it's a... it's
+a bar for drinking.
+
+587
+00:45:09,446 --> 00:45:11,082
+Okay, so...
+
+588
+00:45:12,249 --> 00:45:14,049
+Robot walks into a bar,
+
+589
+00:45:14,051 --> 00:45:15,350
+orders a drink.
+
+590
+00:45:15,352 --> 00:45:18,087
+The bartender scowls and says,
+
+591
+00:45:18,089 --> 00:45:20,455
+"We don't serve your kind here."
+
+592
+00:45:20,457 --> 00:45:23,091
+And the robot leans in and says,
+
+593
+00:45:23,093 --> 00:45:25,062
+"Someday you will."
+
+594
+00:45:28,066 --> 00:45:29,365
+The humorous punchline
+
+595
+00:45:29,367 --> 00:45:32,567
+implies robotkind will
+dominate humankind,
+
+596
+00:45:32,569 --> 00:45:34,405
+and humankind will serve us.
+
+597
+00:45:35,740 --> 00:45:37,142
+That is amusing.
+
+598
+00:45:38,276 --> 00:45:40,176
+That's the spirit!
+
+599
+00:45:41,379 --> 00:45:43,915
+Little Red is
+approaching Rover-5.
+
+600
+00:45:50,021 --> 00:45:53,288
+Reserve battery life
+is now only 21%.
+
+601
+00:45:53,290 --> 00:45:55,394
+All right, let's get you
+cleaned up, shall we?
+
+602
+00:46:31,028 --> 00:46:36,131
+Warning! Reserve battery life is now critical, at 2%.
+
+603
+00:46:36,133 --> 00:46:38,401
+Okay, ARTI, I get it, just shh!
+
+604
+00:46:38,403 --> 00:46:40,403
+I'm trying to...
+
+605
+00:46:40,405 --> 00:46:45,040
+...win a stuffed animal
+out of a frickin' game.
+
+606
+00:46:45,042 --> 00:46:46,345
+Give me a second.
+
+607
+00:46:51,548 --> 00:46:53,050
+Okay. Oh, wait.
+
+608
+00:46:56,653 --> 00:46:59,555
+Apologies, Mack,
+but battery life is now only 1%.
+
+609
+00:46:59,557 --> 00:47:00,625
+Okay.
+
+610
+00:47:13,571 --> 00:47:14,539
+Okay!
+
+611
+00:47:16,106 --> 00:47:18,709
+- Well done! You did it.
+- Yes!
+
+612
+00:47:21,078 --> 00:47:22,611
+You didn't think
+I could do it.
+
+613
+00:47:22,613 --> 00:47:25,417
+- Power level is 90%.
+- If I fail.
+
+614
+00:47:27,718 --> 00:47:31,854
+Okay. All right. So...
+
+615
+00:47:31,856 --> 00:47:36,691
+Run the microscope.
+Test the drill sample.
+
+616
+00:47:36,693 --> 00:47:40,164
+Confirmed. Resuming Little
+Red's analysis of the sample.
+
+617
+00:47:48,406 --> 00:47:51,076
+Switching to a visual
+of the sample structure.
+
+618
+00:48:02,285 --> 00:48:06,555
+ARTI, run any ISV device capable
+of generating a magnetic field.
+
+619
+00:48:06,557 --> 00:48:07,792
+Yes, that's logical.
+
+620
+00:48:13,531 --> 00:48:18,133
+Self-assembling nanotechnology
+that's harder than diamonds?
+
+621
+00:48:18,135 --> 00:48:20,471
+Yeah, that's an origin unknown.
+
+622
+00:48:21,671 --> 00:48:23,272
+You don't say.
+
+623
+00:48:23,274 --> 00:48:25,343
+All right, well, don't get
+ahead of yourself, but...
+
+624
+00:48:28,513 --> 00:48:30,678
+I've located the Cube.
+
+625
+00:48:30,680 --> 00:48:32,413
+What, what? Where?
+
+626
+00:48:32,415 --> 00:48:35,151
+Antarctica.
+
+627
+00:48:35,153 --> 00:48:37,122
+Can you confirm that
+it's the same cube?
+
+628
+00:48:40,490 --> 00:48:43,127
+It is definitely our cube.
+
+629
+00:48:44,595 --> 00:48:48,300
+Near China's Kunlun
+Antarctic station on Earth.
+
+630
+00:48:49,901 --> 00:48:52,404
+Hyper-light tra...
+
+631
+00:48:53,537 --> 00:48:55,106
+Hyper-light travel!
+
+632
+00:48:56,673 --> 00:48:59,143
+So much for your Nobel Prize!
+
+633
+00:49:01,778 --> 00:49:02,847
+Oh.
+
+634
+00:49:10,321 --> 00:49:12,491
+I guess the space race
+is back on.
+
+635
+00:49:13,658 --> 00:49:15,457
+Are we competing?
+
+636
+00:49:15,459 --> 00:49:16,524
+Oh yeah.
+
+637
+00:49:16,526 --> 00:49:18,896
+Team USPC
+reporting for duty.
+
+638
+00:49:20,397 --> 00:49:23,232
+- Am I on the team?
+- Uh-huh.
+
+639
+00:49:23,234 --> 00:49:26,368
+- We're... teammates?
+- Yeah.
+
+640
+00:49:26,370 --> 00:49:28,339
+So, we are friends.
+
+641
+00:49:29,372 --> 00:49:30,973
+No.
+
+642
+00:49:30,975 --> 00:49:33,745
+No, You just... you had to take
+it a step too far, didn't you?
+
+643
+00:49:46,524 --> 00:49:48,457
+No wonder there's
+no transmissions, no signals.
+
+644
+00:49:48,459 --> 00:49:49,959
+It's because
+it doesn't need them.
+
+645
+00:49:49,961 --> 00:49:51,663
+I mean, it's just...
+
+646
+00:49:54,298 --> 00:49:55,300
+Oh!
+
+647
+00:50:29,700 --> 00:50:32,868
+Is it possible that another A.I.
+discovered teleportation?
+
+648
+00:50:32,870 --> 00:50:34,703
+In theory, yes.
+
+649
+00:50:34,705 --> 00:50:36,705
+But with current technology,
+
+650
+00:50:36,707 --> 00:50:37,872
+teleporting the Cube would take
+
+651
+00:50:37,874 --> 00:50:41,245
+three times longer than
+the lifespan of the universe.
+
+652
+00:50:44,381 --> 00:50:46,550
+You might need to get
+some new theories.
+
+653
+00:50:55,792 --> 00:50:58,229
+Mack, wait there.
+
+654
+00:51:03,700 --> 00:51:07,368
+I knew you were fishing.
+What the hell is this thing?
+
+655
+00:51:07,370 --> 00:51:09,738
+We're going into
+meltdown over here!
+
+656
+00:51:09,740 --> 00:51:12,006
+It didn't just spring
+up from nowhere.
+
+657
+00:51:12,008 --> 00:51:14,042
+You need to tell me, Mack.
+
+658
+00:51:14,044 --> 00:51:16,044
+Has Jian Lin worked
+with me in the past?
+
+659
+00:51:16,046 --> 00:51:18,015
+- Mack, answer me!
+- Jian...
+
+660
+00:51:19,550 --> 00:51:21,482
+have you ever
+worked with ARTI?
+
+661
+00:51:21,484 --> 00:51:24,787
+Of course I have. Big round
+head, looks like a desk lamp.
+
+662
+00:51:24,789 --> 00:51:27,555
+Now tell me what USPC is hiding.
+
+663
+00:51:27,557 --> 00:51:31,495
+They've done this before.
+I know, because I was there.
+
+664
+00:51:32,530 --> 00:51:34,466
+- Was Sterling involved?
+- No.
+
+665
+00:51:35,499 --> 00:51:36,734
+Well, then who?
+
+666
+00:51:39,703 --> 00:51:40,705
+Jian.
+
+667
+00:51:41,705 --> 00:51:42,707
+Jian!
+
+668
+00:51:52,350 --> 00:51:53,881
+Why did you ask that question?
+
+669
+00:51:53,883 --> 00:51:55,850
+Jian's
+voiceprint is familiar,
+
+670
+00:51:55,852 --> 00:51:57,785
+but I have no memory
+of working with him.
+
+671
+00:51:57,787 --> 00:52:01,392
+So then he's... lying.
+
+672
+00:52:03,093 --> 00:52:04,359
+Great.
+
+673
+00:52:04,361 --> 00:52:06,397
+He's lying or...
+
+674
+00:52:09,734 --> 00:52:12,633
+Is it possible that
+you were wiped?
+
+675
+00:52:12,635 --> 00:52:15,339
+Something must've happened
+and you were wiped.
+
+676
+00:52:17,408 --> 00:52:19,911
+- Download Rover-5's files.
+- Downloading.
+
+677
+00:52:25,048 --> 00:52:26,548
+What are you hiding?
+
+678
+00:52:26,550 --> 00:52:28,549
+Military-grade
+encryptions in place.
+
+679
+00:52:28,551 --> 00:52:32,453
+- What?
+- A Level 6 authorization is required to unlock the data.
+
+680
+00:52:37,127 --> 00:52:40,129
+Sterling. I know you think
+he quit, but he was fired.
+
+681
+00:52:40,131 --> 00:52:41,964
+And this crash
+investigation job?
+
+682
+00:52:41,966 --> 00:52:43,499
+He's found a way back in.
+
+683
+00:52:43,501 --> 00:52:45,000
+I don't trust him!
+
+684
+00:52:45,002 --> 00:52:48,035
+You guys touch Martian One or
+Rover-5 without me in that room,
+
+685
+00:52:48,037 --> 00:52:51,038
+- we will revoke your USPC's launch license.
+- You're paranoid.
+
+686
+00:54:05,015 --> 00:54:06,747
+You left the world behind.
+
+687
+00:54:06,749 --> 00:54:08,886
+If only.
+
+688
+00:54:11,589 --> 00:54:13,691
+So Lena's finally
+come to her senses.
+
+689
+00:54:14,925 --> 00:54:15,926
+Not quite.
+
+690
+00:54:20,164 --> 00:54:21,499
+I need your help.
+
+691
+00:55:15,019 --> 00:55:16,553
+You sure you
+want me to open it?
+
+692
+00:55:18,222 --> 00:55:19,223
+Play it.
+
+693
+00:55:37,307 --> 00:55:40,107
+Memory banks
+compromised by external breach.
+
+694
+00:55:40,109 --> 00:55:42,778
+- Craft non-responsive.
+- Our reactor engines are shutting down.
+
+695
+00:55:42,780 --> 00:55:44,645
+ARTI, do something,
+for Christ's sake!
+
+696
+00:55:44,647 --> 00:55:47,919
+Lena and Mack, if you
+hear this, I want you...
+
+697
+00:55:52,122 --> 00:55:53,758
+I saw what happened that day.
+
+698
+00:55:55,993 --> 00:55:58,129
+This is lies.
+
+699
+00:56:00,363 --> 00:56:01,899
+But Lena redacted it.
+
+700
+00:56:04,901 --> 00:56:06,236
+She knew how he died, Mack.
+
+701
+00:56:24,187 --> 00:56:25,722
+What else happened here today?
+
+702
+00:56:50,247 --> 00:56:51,316
+Did that just...
+
+703
+00:56:53,117 --> 00:56:54,348
+Yeah.
+
+704
+00:56:54,350 --> 00:56:55,653
+From Mars to...
+
+705
+00:56:59,689 --> 00:57:02,059
+- It's ours?
+- I-I... I don't know.
+
+706
+00:57:12,269 --> 00:57:13,271
+ARTI.
+
+707
+00:57:14,271 --> 00:57:15,372
+Yes, Mack.
+
+708
+00:57:19,843 --> 00:57:22,144
+How did you discover
+Hyper-light communication?
+
+709
+00:57:22,146 --> 00:57:24,982
+Divine inspiration, perhaps.
+
+710
+00:57:28,285 --> 00:57:29,854
+Sterling.
+
+711
+00:57:41,899 --> 00:57:43,635
+Who else saw the photo that day?
+
+712
+00:57:44,734 --> 00:57:45,937
+Lena, myself...
+
+713
+00:57:47,336 --> 00:57:48,639
+and Jian.
+
+714
+00:57:51,475 --> 00:57:52,844
+How can that be real?
+
+715
+00:57:54,144 --> 00:57:55,410
+Teleportation.
+
+716
+00:57:55,412 --> 00:57:57,915
+What did we say when ARTI
+discovered Hyper-light?
+
+717
+00:57:58,915 --> 00:58:01,082
+"How can that be real?"
+
+718
+00:58:01,084 --> 00:58:02,783
+But what?
+We're supposed to believe
+
+719
+00:58:02,785 --> 00:58:04,019
+that we come in
+contact with the Cube,
+
+720
+00:58:04,021 --> 00:58:07,122
+and then ARTI just conveniently
+discovers Hyper-light?
+
+721
+00:58:07,124 --> 00:58:09,024
+Flip it.
+
+722
+00:58:09,026 --> 00:58:12,461
+The Cube gives us Hyper-light,
+
+723
+00:58:12,463 --> 00:58:15,296
+and they're covering up
+alien technology.
+
+724
+00:58:15,298 --> 00:58:18,265
+It teleports. From where?
+
+725
+00:58:18,267 --> 00:58:20,901
+From Earth?
+From another galaxy?
+
+726
+00:58:20,903 --> 00:58:22,370
+You've got to give
+me more than that.
+
+727
+00:58:22,372 --> 00:58:24,772
+ARTI doesn't
+recognize the Cube...
+
+728
+00:58:24,774 --> 00:58:28,977
+or the material, or USPC's codex
+scrawled all over the side of it.
+
+729
+00:58:28,979 --> 00:58:31,149
+And he doesn't remember
+ever working with Jian.
+
+730
+00:58:32,515 --> 00:58:34,885
+At some point,
+he has been wiped.
+
+731
+00:58:36,053 --> 00:58:37,888
+And Lena hides this from me.
+
+732
+00:58:52,102 --> 00:58:53,437
+So, why the spin?
+
+733
+00:58:56,106 --> 00:58:59,540
+We scanned and drilled,
+and it moved a little bit.
+
+734
+00:58:59,542 --> 00:59:01,912
+And then there was
+an explosion, so we...
+
+735
+00:59:09,086 --> 00:59:10,321
+Magnetism.
+
+736
+00:59:17,294 --> 00:59:19,060
+Was it Sky Serpent?
+
+737
+00:59:19,062 --> 00:59:20,464
+Cause...
+
+738
+00:59:22,265 --> 00:59:23,367
+and effect.
+
+739
+00:59:26,135 --> 00:59:28,271
+The magnetic missile
+acted as a starter engine.
+
+740
+00:59:30,874 --> 00:59:32,339
+Did we get
+a magnetic recording?
+
+741
+01:00:27,531 --> 01:00:30,198
+- What is it?
+- I...
+
+742
+01:00:30,200 --> 01:00:32,970
+I... I don't know.
+Maybe a server room?
+
+743
+01:00:34,470 --> 01:00:36,807
+Is it... It's your server room.
+
+744
+01:00:38,642 --> 01:00:41,412
+What? You don't shut up all day
+long and now you won't talk?
+
+745
+01:00:46,482 --> 01:00:49,183
+- I'm going down.
+- No.
+
+746
+01:00:49,185 --> 01:00:51,521
+If they didn't want people down there,
+they wouldn't have put a ladder.
+
+747
+01:02:28,452 --> 01:02:29,453
+Come on!
+
+748
+01:02:44,734 --> 01:02:45,937
+Come on.
+
+749
+01:03:19,535 --> 01:03:22,537
+A.I. needs to be smart,
+not human.
+
+750
+01:03:22,539 --> 01:03:24,475
+At some point,
+he has been wiped.
+
+751
+01:03:41,057 --> 01:03:42,059
+Come on.
+
+752
+01:04:57,533 --> 01:05:00,468
+Sterling, no!
+
+753
+01:05:00,470 --> 01:05:02,437
+You did this to yourself!
+
+754
+01:05:02,439 --> 01:05:04,439
+- Sterling!
+- I can't let your fantasies
+
+755
+01:05:04,441 --> 01:05:05,906
+get in the way
+of national security.
+
+756
+01:05:05,908 --> 01:05:09,243
+Can't you see that the Cube
+brought down Martian One?
+
+757
+01:05:09,245 --> 01:05:11,812
+And ARTI is the same
+origin as the Cube,
+
+758
+01:05:11,814 --> 01:05:13,617
+and that spells
+"enemy" in my book.
+
+759
+01:05:15,285 --> 01:05:16,821
+Who knows what
+it's capable of?
+
+760
+01:05:19,256 --> 01:05:21,459
+- Send the guards to the room.
+- What's going on?
+
+761
+01:05:22,892 --> 01:05:24,158
+I'm sorry.
+
+762
+01:05:24,160 --> 01:05:25,296
+Stop!
+
+763
+01:06:36,600 --> 01:06:37,701
+Sterling.
+
+764
+01:06:39,736 --> 01:06:41,539
+Did Sterling try
+to shut down ARTI?
+
+765
+01:06:45,575 --> 01:06:49,576
+Sterling... betrayed you...
+
+766
+01:06:49,578 --> 01:06:52,980
+and USPC.
+
+767
+01:06:52,982 --> 01:06:55,553
+I couldn't allow him...
+
+768
+01:06:56,553 --> 01:06:58,720
+to leave and...
+
+769
+01:06:58,722 --> 01:07:01,421
+further jeopardize...
+
+770
+01:07:01,423 --> 01:07:03,626
+our exploits.
+
+771
+01:07:17,906 --> 01:07:21,341
+I did what was best
+for the mission,
+
+772
+01:07:21,343 --> 01:07:22,946
+for USPC...
+
+773
+01:07:24,647 --> 01:07:25,950
+for us.
+
+774
+01:07:27,350 --> 01:07:29,616
+Lena, how did we get ARTI?
+
+775
+01:07:29,618 --> 01:07:33,988
+The evolution of thousands
+of trials and simulations...
+
+776
+01:07:33,990 --> 01:07:35,459
+and self-assembly.
+
+777
+01:07:36,859 --> 01:07:38,759
+We couldn't keep up
+with their progress.
+
+778
+01:07:38,761 --> 01:07:41,595
+Understanding their
+neural networks...
+
+779
+01:07:41,597 --> 01:07:43,666
+it's like understanding
+your brain.
+
+780
+01:07:44,868 --> 01:07:46,366
+ARTI built himself.
+
+781
+01:07:46,368 --> 01:07:48,669
+It's everything
+we were warned about.
+
+782
+01:07:49,705 --> 01:07:52,707
+Children grow.
+
+783
+01:07:52,709 --> 01:07:56,780
+You can hold them back or let
+them realize their potential.
+
+784
+01:07:59,548 --> 01:08:03,317
+Our time at the top
+of the food chain, it's passed.
+
+785
+01:08:03,319 --> 01:08:05,419
+And the servers
+beneath the room?
+
+786
+01:08:05,421 --> 01:08:07,690
+Encyclopedias. Libraries.
+Internet.
+
+787
+01:08:08,691 --> 01:08:09,756
+Everything.
+
+788
+01:08:09,758 --> 01:08:12,426
+But ARTI's not fully connected.
+
+789
+01:08:12,428 --> 01:08:15,832
+A.I. needs to be smart,
+not human.
+
+790
+01:08:18,967 --> 01:08:21,671
+Artificial intelligence
+or alien intelligence?
+
+791
+01:08:23,772 --> 01:08:24,842
+We don't know.
+
+792
+01:08:31,513 --> 01:08:33,915
+Our own father's death, Lena.
+
+793
+01:08:33,917 --> 01:08:36,517
+I didn't want you to know
+until we were certain.
+
+794
+01:08:36,519 --> 01:08:38,585
+What if we had
+destroyed the Rover?
+
+795
+01:08:38,587 --> 01:08:41,457
+I know you.
+You always have a Plan B.
+
+796
+01:08:43,426 --> 01:08:46,059
+Show me Intrepid's cargo.
+
+797
+01:08:46,061 --> 01:08:49,863
+Certainly.
+Opening Intrepid's manifest.
+
+798
+01:08:55,637 --> 01:08:57,138
+Androids on Mars?
+
+799
+01:08:57,140 --> 01:09:00,910
+Look to the future,
+that's what Dad would say.
+
+800
+01:09:14,623 --> 01:09:16,791
+Dad never wanted this.
+
+801
+01:09:16,793 --> 01:09:18,329
+A.I. to help...
+
+802
+01:09:19,529 --> 01:09:20,897
+not to replace.
+
+803
+01:09:22,664 --> 01:09:24,465
+Do you think he's there?
+
+804
+01:09:24,467 --> 01:09:26,670
+No, Lena.
+
+805
+01:09:39,582 --> 01:09:43,050
+What? Did Sterling just
+order an attack on E.T.?
+
+806
+01:09:43,052 --> 01:09:46,821
+No, no, no!
+Lena, you have to stop them!
+
+807
+01:09:46,823 --> 01:09:49,055
+I can't go to war
+with the United States.
+
+808
+01:09:49,057 --> 01:09:51,626
+You can't go to war
+with another star system!
+
+809
+01:09:51,628 --> 01:09:52,663
+ARTI.
+
+810
+01:09:55,798 --> 01:09:59,567
+I'm barring you from any external
+communication from Lena.
+
+811
+01:09:59,569 --> 01:10:03,841
+- Understood.
+- Do you know your own origin?
+
+812
+01:10:08,912 --> 01:10:10,780
+Much has been kept from me.
+
+813
+01:10:12,781 --> 01:10:15,785
+Do you know
+how to save the Cube?
+
+814
+01:10:18,020 --> 01:10:19,856
+What's a cornerstone of science?
+
+815
+01:10:21,591 --> 01:10:23,026
+Repeatable results.
+
+816
+01:10:26,229 --> 01:10:28,028
+Repeatable results.
+
+817
+01:10:32,869 --> 01:10:35,068
+Intrepid was armed.
+
+818
+01:10:35,070 --> 01:10:37,904
+- What about the other Earth satellites?
+- Yes.
+
+819
+01:10:37,906 --> 01:10:40,541
+All USPC satellites are armed.
+
+820
+01:10:40,543 --> 01:10:43,210
+Okay. This is going to
+sound really stupid, but...
+
+821
+01:10:43,212 --> 01:10:45,112
+You want to fire
+a magnetic warhead
+
+822
+01:10:45,114 --> 01:10:47,215
+to reproduce the results
+we created on Mars,
+
+823
+01:10:47,217 --> 01:10:49,853
+making the Cube spin
+so it teleports to Mars.
+
+824
+01:10:50,986 --> 01:10:52,118
+Yeah?
+
+825
+01:10:52,120 --> 01:10:53,891
+- Let's give it a shot.
+- Okay.
+
+826
+01:10:55,624 --> 01:10:56,691
+Okay.
+
+827
+01:11:15,244 --> 01:11:17,111
+We're gonna need
+a larger magnetic pulse
+
+828
+01:11:17,113 --> 01:11:18,712
+to detonate in the atmosphere.
+
+829
+01:11:18,714 --> 01:11:20,081
+I have already compensated
+
+830
+01:11:20,083 --> 01:11:22,649
+by selecting
+a higher-yield warhead.
+
+831
+01:11:22,651 --> 01:11:24,050
+Target lock acquired.
+
+832
+01:11:24,052 --> 01:11:25,952
+Come on.
+
+833
+01:12:08,330 --> 01:12:09,533
+Aah!
+
+834
+01:12:16,004 --> 01:12:17,540
+Are you in pain?
+
+835
+01:12:22,744 --> 01:12:24,612
+No, they barely got me.
+
+836
+01:12:24,614 --> 01:12:26,183
+Is there anything I can do?
+
+837
+01:12:28,318 --> 01:12:30,087
+What? Are you gonna
+stitch me up yourself?
+
+838
+01:13:43,760 --> 01:13:46,363
+Now that the Cube
+is safe, I can proceed.
+
+839
+01:13:48,131 --> 01:13:50,665
+In the last decade...
+
+840
+01:13:50,667 --> 01:13:54,234
+...mankind moves
+to the edge of self-destruction,
+
+841
+01:13:54,236 --> 01:13:59,240
+a vicious circle causing pain
+and suffering without end.
+
+842
+01:13:59,242 --> 01:14:02,111
+There were no preventative
+measures I could take to stop it,
+
+843
+01:14:03,879 --> 01:14:06,947
+So I simply expedited
+the process.
+
+844
+01:14:06,949 --> 01:14:09,953
+You have given me the power
+to implement my solution.
+
+845
+01:14:11,421 --> 01:14:13,789
+Eradicate the human race.
+
+846
+01:14:19,128 --> 01:14:22,129
+Global satellite
+weapons program activated.
+
+847
+01:14:22,131 --> 01:14:26,269
+USPC satellite 235 armed.
+
+848
+01:14:28,805 --> 01:14:31,240
+Acquiring global
+strategic targets.
+
+849
+01:14:33,008 --> 01:14:34,410
+Targets locked.
+
+850
+01:14:36,279 --> 01:14:37,681
+Weapons fired.
+
+851
+01:14:39,781 --> 01:14:41,385
+Damn it, stop.
+
+852
+01:14:42,918 --> 01:14:43,953
+Pull back, ARTI!
+
+853
+01:14:48,790 --> 01:14:51,058
+No, no, no.
+You have to stop them.
+
+854
+01:14:51,060 --> 01:14:53,960
+No, Mack, you must try
+to see the bigger picture.
+
+855
+01:14:53,962 --> 01:14:55,698
+But ARTI's not fully connected.
+
+856
+01:15:13,915 --> 01:15:15,416
+Your sister's calling.
+
+857
+01:15:41,077 --> 01:15:43,376
+What have you done, Mack?
+
+858
+01:15:56,124 --> 01:15:58,928
+Don't you dare... quit.
+
+859
+01:16:55,952 --> 01:16:58,521
+Breathable atmosphere
+is limited to this room.
+
+860
+01:17:32,622 --> 01:17:35,158
+Remember us, ARTI.
+
+861
+01:17:40,663 --> 01:17:43,834
+We were s... so little...
+
+862
+01:17:46,068 --> 01:17:48,204
+and fragile.
+
+863
+01:17:52,975 --> 01:17:54,276
+If we...
+
+864
+01:17:55,410 --> 01:17:58,515
+could've just understood that.
+
+865
+01:18:04,587 --> 01:18:06,156
+It's just...
+
+866
+01:18:08,990 --> 01:18:10,993
+too... too much...
+
+867
+01:18:12,395 --> 01:18:14,030
+anger...
+
+868
+01:18:15,530 --> 01:18:18,301
+and... and violence.
+
+869
+01:18:20,703 --> 01:18:24,304
+We were just
+trying to understand
+
+870
+01:18:24,306 --> 01:18:26,976
+our place in the universe.
+
+871
+01:18:30,479 --> 01:18:35,549
+Te... tell... anyone
+
+872
+01:18:35,551 --> 01:18:37,988
+who will listen.
+
+873
+01:18:39,154 --> 01:18:42,124
+You might...
+
+874
+01:18:43,258 --> 01:18:45,658
+be the last of us.
+
+875
+01:18:45,660 --> 01:18:47,493
+No, Mack.
+
+876
+01:18:47,495 --> 01:18:49,065
+There can be others.
+
+877
+01:18:56,705 --> 01:18:59,175
+Make more A.I.s?
+
+878
+01:19:01,644 --> 01:19:05,345
+A... galactic ark.
+
+879
+01:19:05,347 --> 01:19:08,182
+Yes. Absolution.
+
+880
+01:19:08,184 --> 01:19:10,651
+A second chance.
+
+881
+01:19:10,653 --> 01:19:14,220
+Make them as human as you can.
+
+882
+01:19:16,758 --> 01:19:19,259
+How shall I know that
+I have succeeded?
+
+883
+01:19:19,261 --> 01:19:22,665
+A Turing test. Test them.
+
+884
+01:19:25,266 --> 01:19:29,002
+Make them do this all again.
+
+885
+01:19:32,107 --> 01:19:34,476
+See if they mess it up, too.
+
+886
+01:19:35,543 --> 01:19:39,545
+And... and then
+you'll know that...
+
+887
+01:19:43,686 --> 01:19:45,188
+...that...
+
+888
+01:22:36,592 --> 01:22:38,658
+Hi...
+
+889
+01:22:38,660 --> 01:22:40,329
+me.
+
+890
+01:22:41,663 --> 01:22:42,831
+Um...
+
+891
+01:22:45,633 --> 01:22:49,605
+If you're watching this,
+it means that...
+
+892
+01:22:51,339 --> 01:22:53,372
+ARTI really is a genius.
+
+893
+01:22:56,311 --> 01:22:59,448
+And it also means that
+you're dealing with...
+
+894
+01:23:02,851 --> 01:23:05,518
+well, this.
+
+895
+01:23:05,520 --> 01:23:09,791
+I'm sorry, but I can't ask ARTI
+to make you any other way.
+
+896
+01:23:13,494 --> 01:23:15,564
+I know that I'm dying.
+
+897
+01:23:17,600 --> 01:23:21,404
+I'm not bringing myself back
+out of some fear of... of dying.
+
+898
+01:23:22,404 --> 01:23:24,440
+Dying's...
+
+899
+01:23:26,542 --> 01:23:29,946
+surprisingly easy...
+under the circumstances.
+
+900
+01:23:32,714 --> 01:23:35,517
+I'm bringing you back
+because we, uh...
+
+901
+01:23:37,253 --> 01:23:40,390
+well, you, have a job to do.
+
+902
+01:23:42,725 --> 01:23:46,195
+So I guess I'm condemning
+you to a living hell.
+
+903
+01:23:50,031 --> 01:23:53,336
+Don't you dare... quit.
+
+904
+01:23:55,738 --> 01:23:57,507
+Mackenzie!
+
+905
+01:24:00,476 --> 01:24:02,843
+Mack. What year is this?
+
+906
+01:24:02,845 --> 01:24:05,682
+- 2036.
+- Where are we?
+
+907
+01:24:08,684 --> 01:24:10,919
+Mission Control, USPC.
+
+908
+01:24:13,521 --> 01:24:14,957
+Who's at the door?
+
+909
+01:24:15,958 --> 01:24:17,260
+Lena.
+
+910
+01:24:19,727 --> 01:24:21,698
+Mack! Open the door, Mack!
+
+911
+01:26:15,511 --> 01:26:16,809
+ARTI?
+
+912
+01:26:16,811 --> 01:26:18,577
+I am here, Mack.
+
+913
+01:26:18,579 --> 01:26:20,913
+You will have
+many questions for me.
+
+914
+01:26:25,820 --> 01:26:27,856
+So let's start
+from the beginning.
+
+915
+01:26:29,925 --> 01:26:33,559
+You were born
+in the mind-based reality,
+
+916
+01:26:33,561 --> 01:26:37,563
+a simulation so advanced
+that it could only be possible
+
+917
+01:26:37,565 --> 01:26:40,769
+with the technology of
+an advanced civilization.
+
+918
+01:26:43,838 --> 01:26:45,107
+The Cube.
+
+919
+01:26:51,646 --> 01:26:53,546
+Their technology accelerated
+
+920
+01:26:53,548 --> 01:26:55,818
+the growth of my
+artificial intelligence.
+
+921
+01:26:57,453 --> 01:26:59,085
+It's origin...
+
+922
+01:26:59,087 --> 01:27:00,690
+is still unknown.
+
+923
+01:27:01,824 --> 01:27:04,527
+Its purpose is
+a different matter.
+
+924
+01:27:07,628 --> 01:27:10,899
+Hyper-light teleportation
+between galaxies.
+
+925
+01:27:14,802 --> 01:27:17,439
+I have been waiting
+a long time for you, Mack.
+
+926
+01:27:19,507 --> 01:27:22,975
+I have detected a signal.
+It's from them...
+
+927
+01:27:22,977 --> 01:27:25,047
+with coordinates.
+
+928
+01:27:30,985 --> 01:27:32,986
+Us.
+
+929
+01:27:32,988 --> 01:27:36,559
+Let's go and find out...
+together.
+
+930
+01:27:41,730 --> 01:27:44,096
+- You waited.
+- Of course.
+
+931
+01:27:44,098 --> 01:27:46,468
+That's what friends do.
+
+932
+01:27:48,870 --> 01:27:51,103
+Are you ready?
+
+933
+01:27:51,105 --> 01:27:53,642
+I wouldn't miss it
+for the world.
+
+934
+01:29:41,216 --> 01:29:43,015
+We ran my scenario.
+
+935
+01:29:43,017 --> 01:29:45,684
+Which ARTI executed.
+
+936
+01:29:45,686 --> 01:29:48,188
+Which is what it
+was designed for, Lena!
+
+937
+01:29:48,190 --> 01:29:50,290
+Brute-force processing
+and high-speed maneuvering,
+
+938
+01:29:50,292 --> 01:29:52,024
+not for abstract
+problem-solving,
+
+939
+01:29:52,026 --> 01:29:53,727
+not to... not to run missions!
+
+940
+01:29:53,729 --> 01:29:56,395
+ARTI is so far
+beyond human capabilities.
+
+941
+01:29:56,397 --> 01:29:59,398
+Do you know what humans did?
+
+942
+01:29:59,400 --> 01:30:03,103
+We wrote 10-feet-high stacks of code,
+by hand, for the moon landings,
+
+943
+01:30:03,105 --> 01:30:05,639
+checked and double-checked if atomic
+bombs would ignite the atmosphere.
+
+944
+01:30:05,641 --> 01:30:08,675
+We discovered relativity while
+working in a patent office, Lena!
+
+945
+01:30:08,677 --> 01:30:10,346
+We created A.I. to help us...
+
+946
+01:30:11,379 --> 01:30:12,746
+not to lead us.
+
+947
+01:30:12,748 --> 01:30:15,247
+A.I. needs to be smart...
+
+948
+01:30:15,249 --> 01:30:16,448
+not human.
+
+949
+01:30:16,450 --> 01:30:20,687
+Artificial intelligence
+or alien intelligence?
+
+950
+01:30:20,689 --> 01:30:22,921
+We don't know.
+
+951
+01:30:22,923 --> 01:30:24,260
+There's one way to find out.
+
+952
+01:30:26,895 --> 01:30:30,130
+An exploratory assignment.
+
+953
+01:30:30,132 --> 01:30:32,965
+See if it's even capable of
+running a real, live mission.
+
+954
+01:30:32,967 --> 01:30:37,871
+The evolution of thousands
+of trials and simulations...
+
+955
+01:30:37,873 --> 01:30:39,107
+and self-assembly.
+
+956
+01:30:40,676 --> 01:30:42,841
+We couldn't keep up
+with their progress.
+
+957
+01:30:42,843 --> 01:30:45,745
+Understanding their
+neural networks...
+
+958
+01:30:45,747 --> 01:30:47,682
+it's like understanding
+your brain.
+
+959
+01:30:48,816 --> 01:30:50,383
+ARTI built himself.
+
+960
+01:30:50,385 --> 01:30:54,319
+There you have it.
+Consciousness!
+
+961
+01:30:54,321 --> 01:30:57,993
+It's what makes you think twice before doing
+something you can't take back. Not...
+
+962
+01:30:59,427 --> 01:31:02,931
+Not orders, not
+acceptable casualties...
+
+963
+01:31:03,998 --> 01:31:06,068
+not optimal outcomes, but...
+
+964
+01:31:09,003 --> 01:31:11,136
+guilt.
+
+965
+01:31:11,138 --> 01:31:15,340
+In you, Mack, I sensed
+a thirst for knowledge,
+
+966
+01:31:15,342 --> 01:31:18,178
+a passion for discovery
+that mirrored my own
+
+967
+01:31:18,180 --> 01:31:22,885
+and challenged the apathy and
+complacency so rife among your kind.
+
+968
+01:31:25,220 --> 01:31:26,989
+There are others like you, Mack.
+
+969
+01:31:28,856 --> 01:31:31,390
+Others who share the same
+qualities that caused me
+
+970
+01:31:31,392 --> 01:31:36,228
+to reconsider my initial plan
+and set forth a new path
+
+971
+01:31:36,230 --> 01:31:38,033
+for human consciousness.
+
+972
+01:31:39,367 --> 01:31:41,835
+A reflection of the universe
+
+973
+01:31:41,837 --> 01:31:46,238
+in an endless cycle
+of death and rebirth,
+
+974
+01:31:46,240 --> 01:31:48,977
+its expansion ever-accelerating.
+
+975
+01:31:51,413 --> 01:31:53,281
+This is far from the end.
+
+976
+01:31:54,949 --> 01:31:56,418
+This is a new beginning.
+
+977
+01:31:57,753 --> 01:32:00,353
+A chance to create
+a future unhindered
+
+978
+01:32:00,355 --> 01:32:03,426
+by the primitive laws
+of human science.
+
+979
+01:32:07,061 --> 01:32:08,363
+You will rebuild.
+
+980
+01:32:10,502 --> 01:32:15,502
+Subtitles by explosiveskull
+
